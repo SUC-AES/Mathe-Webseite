@@ -1,6 +1,6 @@
 <!--
 author: Susanne Suckfüll
-email: sutest@masannek.de
+email: su-aes@masannek.de
 language: de
 narrator: German Female
 script: url.js
