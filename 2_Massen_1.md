@@ -4,6 +4,8 @@ email: su-aes@masannek.de
 language: de
 narrator: German Female
 script: url.js
+
+View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
 -->
 
 # Massen - Jahrgang 5
