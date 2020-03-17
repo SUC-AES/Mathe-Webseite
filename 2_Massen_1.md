@@ -77,12 +77,14 @@ Und nun gib ein falsches Ergebnis für $3+4$ ein:
 
 
 
-
-$ \qquad ( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) $
-
-$ \quad = (16+48) : (39 -31) $
-
-$ \quad = 64 : 8 = 8 $
+  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+  $$
+\begin{aligned}
+\quad &( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) \\
+= &(16+48) : (39 -31) \\
+= &64 : 8 = 8
+\end{aligned}
+$$
 
 
   ***********************************************************************
@@ -96,15 +98,15 @@ $ \quad = 64 : 8 = 8 $
     ***********************************************************************
 
 
-
-  $ \qquad [100-(42-23) \cdot 5] \cdot (100-87) $
-
-  $ \quad = [100 - 19 \cdot 5] \cdot 13 $
-
-  $ \quad = [100 - 95] \cdot 13 $
-
-  $ \quad = 5 \cdot 13 = 65 $
-
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &[100-(42-23) \cdot 5] \cdot (100-87) \\
+    = &[100 - 19 \cdot 5] \cdot 13  \\
+    = &[100 - 95] \cdot 13  \\
+    = &5 \cdot 13 = 65
+    \end{aligned}
+    $$
 
     ***********************************************************************
 
@@ -112,6 +114,14 @@ $ \quad = 64 : 8 = 8 $
 
 
 ## Maßeinheiten
+
+Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
+
+**~~3. Größen: Massen ~~**
+
+**~~3.1 Maßeinheiten~~**
+
+
 Wir rechnen insgesamt mit vier verschiedenen Maßeinheiten: Kilogramm, Gramm, Milligramm und Tonnen.
 
 Entscheide, wie die Einheiten der Größe nach geordnet werden:
@@ -128,7 +138,15 @@ Die größte Einheit ist die Tonne. Danach folgen, so wie du es von den Längen 
 
 ***********************************************************************
 
+###Pfeilbild
+
+Du sollst nun in dein Heft das Pfeilbild zum Umrechnen zwischen den Einheiten übernehmen. Wenn du möchtest, kannst du dir dazu erst dieses [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=fxD5937olmU) anschauen. Lehrer Schmidt erklärt dir auch gleich einfache Umrechnungen, wobei er aber schon mit Kommas arbeitet.
+
+
+
 ## Umformen
+
+
 
 Gib jeweils in der nächst größeren Einheit an:
 
