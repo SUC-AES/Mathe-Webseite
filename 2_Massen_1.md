@@ -77,6 +77,7 @@ Und nun gib ein falsches Ergebnis für $3+4$ ein:
 
 
 
+
 $ \qquad ( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) $
 
 $ \quad = (16+48) : (39 -31) $
