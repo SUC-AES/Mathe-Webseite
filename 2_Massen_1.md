@@ -80,9 +80,10 @@ Und nun gib ein falsches Ergebnis für $3+4$ ein:
   Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
   $$
 \begin{aligned}
-\quad &( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) \\
-= &(16+48) : (39 -31) \\
-= &64 : 8 = 8
+\quad & ( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) \\
+= & (16+48) : (39 -31) \\
+= & 64 : 8 \\
+= & 8
 \end{aligned}
 $$
 
@@ -102,9 +103,10 @@ $$
     $$
     \begin{aligned}
     \quad &[100-(42-23) \cdot 5] \cdot (100-87) \\
-    = &[100 - 19 \cdot 5] \cdot 13  \\
-    = &[100 - 95] \cdot 13  \\
-    = &5 \cdot 13 = 65
+    = & [100 - 19 \cdot 5] \cdot 13  \\
+    = & [100 - 95] \cdot 13  \\
+    = & 5 \cdot 13 \\
+    = & 65
     \end{aligned}
     $$
 
