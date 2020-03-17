@@ -48,6 +48,68 @@ Liebe Grüße, bleibt alle gesund und verhaltet euch so, dass es auch eure Mitme
 Für die Mathematik-Lehrerinnen *Frau Suckfüll*
 
 
+## Täglicher Term
+
+Beginne jeden Tag mit der Berechnung eines Terms. Gib das Ergebnis in das Feld unter dem Term an und vergleiche dann dein Rechenweg mit der angegebenen Musterlösung.
+
+
+Leuchtet die Check-Box grün auf, hast du das korrekte Ergebnis eingegeben, bei einem falschen Ergebnis leuchtet sie rot auf.
+
+Teste die korrekte Lösung: Das Ergebnis von $3+4$ ist
+
+[[7]]
+
+Und nun gib ein falsches Ergebnis für $3+4$ ein:
+
+[[7]]
+
+Über das eingekreiste i erhältst du das korrekte Ergebnis. Der gelbe Ausdruck "Resolved" gibt an, dass du das Ergebnis gesagt bekommen hast. Dies geschieht immer bei nicht ausgefüllten bzw. falschen Ergebnissen.
+
+### Woche 1
+
+**Tag 1**
+
+  Berechne den Term und gib das Ergebnis an:
+  $ ( 16+ 12 \cdot 4 ) : (3 \cdot 13 - 31  )$
+
+  [[8]]
+  ***********************************************************************
+
+
+
+$ \qquad ( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) $
+
+$ \quad = (16+48) : (39 -31) $
+
+$ \quad = 64 : 8 = 8 $
+
+
+  ***********************************************************************
+
+  **Tag 2**
+
+    Berechne den Term und gib das Ergebnis an:
+    $ [100-(42-23) \cdot 5] \cdot (100-87) $
+
+    [[65]]
+    ***********************************************************************
+
+
+
+  $ \qquad [100-(42-23) \cdot 5] \cdot (100-87) $
+
+  $ \quad = [100 - 19 \cdot 5] \cdot 13 $
+
+  $ \quad = [100 - 95] \cdot 13 $
+
+  $ \quad = 5 \cdot 13 = 65 $
+
+
+    ***********************************************************************
+
+
+
+
 ## Maßeinheiten
 Wir rechnen insgesamt mit vier verschiedenen Maßeinheiten: Kilogramm, Gramm, Milligramm und Tonnen.
 
