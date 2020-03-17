@@ -12,13 +12,15 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 Diese Seite wurde im Zuge der Schulschließung wegen des Corona-Virus für die Schülerinnen und Schüler des fünften Jahrgang der Albert-Einstein-Schule entwickelt.
 
-Sie lehnt sich an unser schuleigenes Arbeitsheft "Kitty" für Größen an. Mit dieser Seite könnte ihr in der Zeit bis zu den Osterferien das Thema **Massen** bearbeiten. Ihr könnt hier auch die Rechenwegen zu den Aufgaben im Kitty-Heft vergleichen.
+Sie lehnt sich an unser schuleigenes Arbeitsheft "Kitty" für Größen an. Mit dieser Seite können unsere Schülerinnen und Schüler in der Zeit bis zu den Osterferien das Thema **Massen** bearbeiten.
+
+Neben der Aufteilung des Themas in kleinere Abschnitt mit Aufgabenblöcken für vier Tage in der Woche, können hier auch die Rechenwegen zu den Aufgaben im Kitty-Heft eingesehen werden.
 
 
 
 ### Liebe Eltern
 
-Anbei erhalten Sie den Arbeitsauftrag für die nächsten drei Wochen. Die Kinder haben noch keine Ferien und sollen in den einzelnen Fächern an den Themen weiterarbeiten.
+Zusätzlich zu den Mails erhalten Sie den Arbeitsauftrag für die nächsten drei Wochen auch auf diesem Weg. Die Kinder haben noch keine Ferien und sollen in den einzelnen Fächern an den Themen weiterarbeiten.
 
 In Mathematik sollen sie zuerst den Wochenplan "Geldwerte" beenden. Für die darauffolgende Tage erhalten die Kinder einen Arbeitsauftrag zum Thema "Massen". Ich werde es in kleinere Teile aufteilen, sodass die Kinder an vier von fünf Tagen in der Woche daran arbeiten können. Natürlich können sich die Kinder die Zeit anders einteilen. Sie sollten dennoch darauf achten, dass sie für einen größeren Lernerfolg jede Woche in Mathematik Aufgaben lösen. Inwieweit am Ende eine Lernkontrolle in Form eines Testes oder eine andere Notengebung erfolgt, steht noch nicht fest. Dennoch sollten die Kinder mit einem kleinen Test rechnen.
 
@@ -33,17 +35,17 @@ Leider werden wir uns erst nach den Osterferien wiedersehen. Das auf Grund einer
 
 Es ist bestimmt ungewohnt für euch, morgens mit dem Wecker aufzustehen und dann nicht in die Schule zu geben. Dennoch ist es wichtig, dass ihr eine gewisse Routine für zu Hause entwickelt, damit ihr motiviert an die Schularbeiten geht. Stellt weiterhin den Wecker, auch wenn es etwas später ist, frühstückt und macht euch dann an die Schulaufgaben. Wie in der Schule selber, könnt ihr hier auch kleine Pausen einlegen, am besten aber ohne Bildschirme jeder Arte.
 
-In Mathematik bearbeitet ihr bitte bis Mittwoch den Wochenplan zum Thema "Geldwerte". Die Abgabe erfolgt dann nach den Osterferien. Zusätzlich sollt ihr in der Zeit bis zu den Osterferien das Thema "Massen" bearbeiten. Die Mathematiklehrer der 5. Klasse arbeiten gemeinsam, um euch die Lösungen des Kitty-Heftes zur Verfügung zu stellen. Auch möchten wir euch eine Webseite zur Verfügung stellen, auf der ihr weitere Hilfe zur Bearbeitung des Themas erhaltet. Wir sind gerade am Aufbau und werden sie regelmäßig erweitern
+In Mathematik bearbeitet ihr bitte bis Mittwoch den Wochenplan zum Thema "Geldwerte". Die Abgabe erfolgt dann nach den Osterferien. Zusätzlich sollt ihr in der Zeit bis zu den Osterferien das Thema "Massen" bearbeiten. Die Mathematiklehrerinnen der 5. Klasse arbeiten gemeinsam, um euch die Lösungen des Kitty-Heftes zur Verfügung zu stellen. Auch möchten wir euch diese Webseite hier zur Verfügung stellen, auf der ihr weitere Hilfen zur Bearbeitung des Themas erhaltet. Nutzt vorhandene Musterlösungen und Rechenwege, um eure Aufgaben zu vergleichen. Wir sind gerade am Aufbau der Webseite und werden sie regelmäßig erweitern.
 
-Ihr erhaltet für vier von fünf Tagen in der Woche ein kleines Paket an Aufgaben. Ihr könnt sie euch natürlich auch anders einteilen, solltet sie aber immer in der Woche machen, die dafür vorgesehen war. Richtet euch auch darauf ein, dass wir einen kleinen Test am Ende des Themas Massen schreiben. Wie genau das abläuft, erkläre ich euch nach den Ferien.
+Ihr erhaltet für vier von fünf Tagen in der Woche ein kleines Paket an Aufgaben. Ihr könnt sie euch natürlich auch anders einteilen, solltet sie aber immer in der Woche machen, die dafür vorgesehen war. Richtet euch auch darauf ein, dass ihr, wenn es eure Lehrerin darüber informiert hat, einen kleinen Test am Ende des Themas Massen schreibt. Wie genau das abläuft, erfahrt ihr nach den Ferien.
 
 Mit dieser Seite und dem Kitty-Heft habt ihr dann die Möglichkeit, das Thema **Massen** zu bearbeiten.
 
-Wenn ihr fragen habt, könnt ihr auch eine Mail an mich schreiben. Ich hoffe, dass die Schul-Server bald wieder so stabil laufen, dass ich alle Mails bekomme.
+Wenn ihr Fragen habt, könnt ihr auch eine Mail an eure Mathematik-Lehrerin schreiben. Wir hoffen, dass die Schul-Server bald wieder so stabil laufen, dass alle Mails ankommen.
 
 Liebe Grüße, bleibt alle gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!
 
-Für die Mathematik-Lehrerinnen und Lehrer *Frau Suckfüll*
+Für die Mathematik-Lehrerinnen *Frau Suckfüll*
 
 
 ## Maßeinheiten
