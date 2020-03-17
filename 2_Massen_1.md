@@ -10,6 +10,12 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 # Massen - Jahrgang 5
 
+Diese Seite wurde im Zuge der Schulschließung wegen des Corona-Virus für die Schülerinnen und Schüler des fünften Jahrgang der Albert-Einstein-Schule entwickelt.
+
+Sie lehnt sich an unser schuleigenes Arbeitsheft "Kitty" für Größen an. Mit dieser Seite könnte ihr in der Zeit bis zu den Osterferien das Thema **Massen** bearbeiten. Ihr könnt hier auch die Rechenwegen zu den Aufgaben im Kitty-Heft vergleichen.
+
+
+
 ### Liebe Eltern
 
 Anbei erhalten Sie den Arbeitsauftrag für die nächsten drei Wochen. Die Kinder haben noch keine Ferien und sollen in den einzelnen Fächern an den Themen weiterarbeiten.
@@ -21,7 +27,7 @@ Auf ein gutes Gelingen!
 *Susanne Suckfüll*
 
 
-### Liebe Schülerinnen und Schüler der Klasse 5c
+### Liebe Schülerinnen und Schüler des fünften Jahrgangs
 
 Leider werden wir uns erst nach den Osterferien wiedersehen. Das auf Grund einer Pandemie die Schulen geschlossen bleiben, gab es bisher nicht in diesem Ausmaß. Allerdings heißt das für euch nicht, dass ihr jetzt fünf Wochen Osterferien habt. Ihr sollt trotzdem in den Themen der unterschiedlichen Fächer weiterarbeiten.
 
@@ -37,7 +43,7 @@ Wenn ihr fragen habt, könnt ihr auch eine Mail an mich schreiben. Ich hoffe, da
 
 Liebe Grüße, bleibt alle gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!
 
-Eure Lehrerin *Frau Suckfüll*
+Für die Mathematik-Lehrerinnen und Lehrer *Frau Suckfüll*
 
 
 ## Maßeinheiten
