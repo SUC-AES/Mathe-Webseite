@@ -462,6 +462,24 @@ Bei mehreren richtigen Antworten musst du alle markieren.
   ********************************
 
 
+### Kitty S. 15
+
+
+**Bearbeite nun auf der Seite 15 im Kittyheft jeweils die erste Spalte der Aufgaben 1 bis 3. Notiere dir auch schon die Lösungsbuchstaben.
+
+Notiere dir auch die benötigte Zeit und gib dir für jede korrekte Antwort einen Punkt.**
+
+Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kannst stattdessen aber auch oben auf den Pfeil drücke, um die Musterlösung der Seite 15 zu erhalten.
+
+{{1}}
+
+![image](Datei/2_2_Kitty_S15.pdf)
+
+
+###Checkliste
+
+
+**Bearbeite nun im Kittyheft auf Seite 22 die beiden Themen "Einheiten" und "Schreibweisen" der Checkliste und übe dann selbständig auf der Seite 15 das, was du nicht konntest. Vergleiche deine Ergebnisse mit der Musterlösung der [letzten Seite](#14).**
 
 
 
