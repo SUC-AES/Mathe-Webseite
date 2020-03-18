@@ -147,31 +147,10 @@ Du sollst nun in dein Heft das Pfeilbild zum Umrechnen zwischen den Einheiten ü
 !?[movie](https://www.youtube.com/watch?v=fxD5937olmU)
 
 
-
 ## Umformen
 
 
 
-Gib jeweils in der nächst größeren Einheit an:
-
-1. 34 000 kg =
-
-[[34 t]]
-
-2. 10000 g =
-
-[[10 ]]
-kg
-
-wie fandest du das Quiz?
-
-[[___ ___ ___ ___]]
-
-## nächster versuch
-
-| Gegebene Masse        | Gib den wert ein  | in dieser Einheit |
-|:---------------------:| -----------------:| ----------------- |
-| 34000 kg              | 34                | t                 |
 
 
 
