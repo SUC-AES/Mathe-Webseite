@@ -119,9 +119,9 @@ $$
 
 Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
 
-**~~3. Größen: Massen ~~**
+> **~~3. Größen: Massen ~~**
 
-**~~3.1 Maßeinheiten~~**
+> **~~3.1 Maßeinheiten~~**
 
 
 Wir rechnen insgesamt mit vier verschiedenen Maßeinheiten: Kilogramm, Gramm, Milligramm und Tonnen.
@@ -148,12 +148,14 @@ Du sollst nun in dein Heft das Pfeilbild zum Umrechnen zwischen den Einheiten ü
 
 Übernimm nun das Pfeilbild in dein Matheheft.
 
+> ![image](graphics/1_Pfeilbild.jpg)
+
 
 **Übersicht über die Massen**
 
 Übertrage die untere Aufgabe in dein Matheheft und fülle dabei auch die Lücken aus. Wenn du dies getan hast, schreibe in das untere Feld "fertig", um die Musterlösung zu erhalten.
 
-$$
+> $$
   \begin{aligned}
     1 t  & = ...................... & kg & = ...................... & g & = ...................... mg \\
     1 kg & = ...................... & g & = ......................  & mg & \\
@@ -178,9 +180,6 @@ $$
   \end{aligned}
 $$
 
-Auf der nächsten Seite findest du Aussagen zum Vervollständigen. Es ist eine freiwillige Aufgabe, ich würde mich aber freuen, wenn du sie machst und mir eine kurze Rückmeldung gibst, ob sie dir geholfen haben.
-
-**Löse danach im Kittyheft auf der Seite 13 den Kasten und die Nummer 1.**
 
 
 ***********************************************************************
@@ -188,13 +187,155 @@ Auf der nächsten Seite findest du Aussagen zum Vervollständigen. Es ist eine f
 
 ###Aussagen zu den einfachen Umformungen
 
-*Diese Seite ist eine freiwillige Aufgabe.*
+{{0-1}}
+**********************
+*Diese Seite ist eine freiwillige Aufgabe. Ich würde mich aber freuen, wenn du sie machst und mir eine kurze Rückmeldung gibst, ob sie dir geholfen haben. Falls du sie nicht machen möchtest, dann ...*
+
+ **... löse direkt im Kittyheft auf der Seite 13 den Kasten und die Nummer 1.**
+
 
 Versuche es zuerst ohne das Pfeilbild. Wenn du dir nicht sicher bist, kannst du es dir anschauen.
 
 Bei mehreren richtigen Antworten musst du alle markieren.
 
+**********************
 
+
+
+{{1-2}}
+**********************
+**Aussage 1**
+
+    Die Umrechnungszahl zwischen benachbarten Massen ist immer ...
+
+
+    [( )] 10
+    [( )] 100
+    [(X)] 1.000
+    [( )] 10.000
+**********************
+
+{{2-3}}
+***************************
+  **Aussage 2**
+
+    Um von Tonnen in Gramm umzurechnen, muss ich ...
+
+
+    [( )] zwei Nullen ergänzen.
+    [( )] drei Nullen ergänzen.
+    [(X)] sechs Nullen ergänzen.
+    [( )] keines der genannten.
+***************************
+
+{{3-4}}
+**********************
+  **Aussage 3**
+
+    Um von Milligramm in Gramm umzurechnen, muss ich ...
+
+
+    [( )] eine Null streichen.
+    [( )] eine Null ergänzen.
+    [(X)] drei Nullen streichen.
+    [( )] drei Nullen ergänzen.
+    [( )] keines der genannten.
+    **********************
+
+{{4-5}}
+**********************
+  **Aussage 4**
+
+    Wenn ich sechs Nullen ergänze, muss ich die Masse ...
+
+
+    [( )] in der nächstkleineren Einheit angeben.
+    [(X)] in der übernächsten kleineren Einheit angeben.
+    [( )] in der nächstgrößeren Einheit angeben.
+    [( )] in der übernächsten größeren Einheit angeben.
+    [( )] keines der genannten.
+    **********************
+
+{{5-6}}
+**********************
+  **Aussage 5**
+
+    Wenn ich eine Nullen streiche, muss ich die Masse ...
+
+
+    [( )] in der nächstkleineren Einheit angeben.
+    [( )] in der übernächsten kleineren Einheit angeben.
+    [( )] in der nächstgrößeren Einheit angeben.
+    [( )] in der übernächsten größeren Einheit angeben.
+    [(X)] keines der genannten.
+    **********************
+
+{{6-7}}
+**********************
+  **Aussage 6**
+
+    Die Masse 120.000 kg kann ich auch als ... schreiben.
+
+
+    [[ ]] 12 t
+    [[X]] 120 t
+    [[ ]] 1.200.000.000 g
+    [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut
+    [[ ]] keines der genannten.
+
+**Jetzt löse im Kittyheft auf der Seite 13 den Kasten und die Nummer 1.**
+
+**********************
+
+
+###Musterlösung Kitty S. 13 Nr. 1
+
+  Wenn du den Kasten und die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+
+## 2. Umformen
+
+  Schreibe die Überschrift in dein Heft
+
+>  **~~3.2 Umformen~~**
+
+  Du kennst die Einheitentabelle bereits von den Längen.
+
+  Für die Umrechnungszahl 1.000 hat jede Masseneinheit drei Spalten.
+
+  **Löse nun im Kittyheft auf Seite 13 die Aufgabe 2**
+
+  Wenn du damit fertig bist, gehe zur [nächsten Seite](#11)
+
+###Musterlösung Kitty S. 13 Nr.2
+
+  Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+>  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
+
+
+###Umformungen mit Kommas
+
+Vervollständige den Merksatz "Das Komma steht immer ...".
+
+
+[[hinter dem Einer der angegebenen Einheit.]]
+***********************************************************************
+
+
+Schreibe den vollständigen Merksatz rot in dein Heft.
+
+> Das Komma steht immer hinter dem Einer der angegebenen Einheit.
+
+
+***********************************************************************
+
+
+  **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
+
+###Aussagen zum Umformungen
+
+Bei mehreren richtigen Antworten musst du alle markieren.
 
   **Aussage 1**
 
@@ -216,93 +357,6 @@ Bei mehreren richtigen Antworten musst du alle markieren.
     [( )] drei Nullen ergänzen.
     [(X)] sechs Nullen ergänzen.
     [( )] keines der genannten.
-
-
-  **Aussage 3**
-
-    Um von Milligramm in Gramm umzurechnen, muss ich ...
-
-
-    [( )] eine Null streichen.
-    [( )] eine Null ergänzen.
-    [(X)] drei Nullen streichen.
-    [( )] drei Nullen ergänzen.
-    [( )] keines der genannten.
-
-
-  **Aussage 4**
-
-    Wenn ich sechs Nullen ergänze, muss ich die Masse ...
-
-
-    [( )] in der nächstkleineren Einheit angeben.
-    [(X)] in der übernächsten kleineren Einheit angeben.
-    [( )] in der nächstgrößeren Einheit angeben.
-    [( )] in der übernächsten größeren Einheit angeben.
-    [( )] keines der genannten.
-
-
-  **Aussage 5**
-
-    Wenn ich eine Nullen streiche, muss ich die Masse ...
-
-
-    [( )] in der nächstkleineren Einheit angeben.
-    [( )] in der übernächsten kleineren Einheit angeben.
-    [( )] in der nächstgrößeren Einheit angeben.
-    [( )] in der übernächsten größeren Einheit angeben.
-    [(X)] keines der genannten.
-
-
-  **Aussage 6**
-
-    Die Masse 120.000 kg kann ich auch als ... schreiben.
-
-
-    [[ ]] 12 t
-    [[X]] 120 t
-    [[ ]] 1.200.000.000 g
-    [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut
-    [[ ]] keines der genannten.
-
-**Jetzt löse im Kittyheft auf der Seite 13 den Kasten und die Nummer 1.**
-
-###Musterlösung Kitty S. 13 Nr. 1
-
-  Wenn du den Kasten und die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
-
-
-## 2. Umformen
-
-  Schreibe die Überschrift in dein Heft
-
-  **~~3.2 Umformen~~**
-
-  Du kennst die Einheitentabelle bereits von den Längen.
-
-  Für die Umrechnungszahl 1.000 hat jede Masseneinheit drei Spalten.
-
-  **Löse nun im Kittyheft auf Seite 13 die Aufgabe 2**
-
-  Wenn du damit fertig bist, gehe zur [nächsten Seite](#11)
-
-###Musterlösung Kitty S. 13 Nr.2
-
-  Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
-
-  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
-
-
-###Umformungen mit Kommas
-
-  Vervollständige den Merksatz "Das Komma steht immer ...".
-
-
-  [[hinter dem Einer der angegebenen Einheit.]]
-
-  Schreibe den vollständigen Merksatz rot in dein Heft.
-
-  **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
 
 
 
