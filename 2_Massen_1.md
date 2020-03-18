@@ -472,17 +472,31 @@ Notiere dir auch die benötigte Zeit und gib dir für jede korrekte Antwort eine
 Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kannst stattdessen aber auch oben auf den Pfeil drücke, um die Musterlösung der Seite 15 zu erhalten.
 
 {{1}}
+***********************************
 
-![image](Datei/2_2_Kitty_S15.pdf)
+[Musterlösung - PDF](Datei/2_2_Kitty_S15.pdf)
+
+***********************************
 
 
 ###Checkliste
 
 
-**Bearbeite nun im Kittyheft auf Seite 22 die beiden Themen "Einheiten" und "Schreibweisen" der Checkliste und übe dann selbständig auf der Seite 15 das, was du nicht konntest. Vergleiche deine Ergebnisse mit der Musterlösung der [letzten Seite](#14).**
+**Bearbeite nun im Kittyheft auf Seite 22 die beiden Themen "Einheiten" und "Schreibweisen" der Checkliste und übe dann selbständig auf der Seite 15 das, was du nicht konntest. Vergleiche deine Ergebnisse mit der Musterlösung der [letzten Seite](#15).**
 
 
+*Freiwillig: Wer möchte kann folgende Arbeitsblätter ausdrucken und üben.*
 
+*Achtung: Am Mittwoch Abend waren diese Seiten nicht zu erreichen. Ich hoffe, sie gehen jetzt wieder.*
+
+[Mit Einheitentabelle - PDF](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grma/ma_gw_au.pdf)
+
+[Ohne Einheitentabelle - PDF](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grma/ma_kt1.PDF)
+
+
+> **Damit ist die erste Woche schon vorbei. Wir wünschen euch ein schönes Wochende!!
+
+> Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!**
 
 ##Haftung für Links
 
