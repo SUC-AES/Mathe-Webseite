@@ -180,6 +180,8 @@ $$
 
 Auf der nächsten Seite findest du Aussagen zum Vervollständigen. Es ist eine freiwillige Aufgabe, ich würde mich aber freuen, wenn du sie machst und mir eine kurze Rückmeldung gibst, ob sie dir geholfen haben.
 
+**Löse danach im Kittyheft auf der Seite 13 die Nummer 1.**
+
 
 ***********************************************************************
 
@@ -261,6 +263,7 @@ Bei mehreren richtigen Antworten musst du alle markieren.
     [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut
     [[ ]] keines der genannten.
 
+**Jetzt löse im Kittyheft auf der Seite 13 die Nummer 1.**
 
 ###Musterlösung Kitty S. 13 Nr. 1
 
