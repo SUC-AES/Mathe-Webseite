@@ -474,7 +474,7 @@ Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kan
 {{1}}
 ***********************************
 
-[Musterlösung - PDF](Datei/2_2_Kitty_S15.pdf)
+[Musterlösung - PDF](https://github.com/SUC-AES/Mathematik-5/raw/master/Datei/2_2_Kitty_S15.pdf)
 
 ***********************************
 
