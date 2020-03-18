@@ -258,13 +258,13 @@ Bei mehreren richtigen Antworten musst du alle markieren.
     [[ ]] 12 t
     [[X]] 120 t
     [[ ]] 1.200.000.000 g
-    [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut 
+    [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut
     [[ ]] keines der genannten.
 
 
+###Musterlösung Kitty S. 13 Nr. 1
 
-
-
+Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
 ## Umformen
