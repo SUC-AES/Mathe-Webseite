@@ -14,7 +14,7 @@ Diese Seite wurde im Zuge der Schulschließung wegen des Corona-Virus für die S
 
 Sie lehnt sich an unser schuleigenes Arbeitsheft "Kitty" für Größen an. Mit dieser Seite können unsere Schülerinnen und Schüler in der Zeit bis zu den Osterferien das Thema **Massen** bearbeiten.
 
-Neben der Aufteilung des Themas in kleinere Abschnitt mit Aufgabenblöcken für vier Tage in der Woche, können hier auch die Rechenwegen zu den Aufgaben im Kitty-Heft eingesehen werden.
+Neben der Aufteilung des Themas in kleinere Abschnitt mit Aufgabenblöcken für vier Tage in der Woche, können hier auch die Rechenwege zu den Aufgaben im Kitty-Heft eingesehen werden.
 
 
 
@@ -50,7 +50,7 @@ Für die Mathematik-Lehrerinnen *Frau Suckfüll*
 
 ## Täglicher Term
 
-Beginne jeden Tag mit der Berechnung eines Terms. Gib das Ergebnis in das Feld unter dem Term an und vergleiche dann dein Rechenweg mit der angegebenen Musterlösung.
+Beginne jeden Tag mit der Berechnung eines Terms. Gib das Ergebnis in das Feld unter dem Term an und vergleiche dann deinen Rechenweg mit der angegebenen Musterlösung.
 
 
 Leuchtet die Check-Box grün auf, hast du das korrekte Ergebnis eingegeben, bei einem falschen Ergebnis leuchtet sie rot auf.
@@ -63,11 +63,11 @@ Und nun gib ein falsches Ergebnis für $3+4$ ein:
 
 [[7]]
 
-Über das eingekreiste i erhältst du das korrekte Ergebnis. Der gelbe Ausdruck "Resolved" gibt an, dass du das Ergebnis gesagt bekommen hast. Dies geschieht immer bei nicht ausgefüllten bzw. falschen Ergebnissen.
+Durch das Anklicken des eingekreisten i erhältst du das korrekte Ergebnis. Der gelbe Ausdruck "Resolved" gibt an, dass du das Ergebnis gesagt bekommen hast. Dies geschieht immer bei nicht ausgefüllten bzw. falschen Ergebnissen.
 
 ### Woche 1
 
-**Tag 1**
+**Tag 1 - Donnerstag**
 
   Berechne den Term und gib das Ergebnis an:
   $ ( 16+ 12 \cdot 4 ) : (3 \cdot 13 - 31  )$
@@ -90,7 +90,7 @@ $$
 
   ***********************************************************************
 
-  **Tag 2**
+  **Tag 2 - Freitag**
 
     Berechne den Term und gib das Ergebnis an:
     $ [100-(42-23) \cdot 5] \cdot (100-87) $
@@ -198,6 +198,8 @@ Versuche es zuerst ohne das Pfeilbild. Wenn du dir nicht sicher bist, kannst du 
 
 Bei mehreren richtigen Antworten musst du alle markieren.
 
+Klicke oben auf den rechten Pfeil im blauen Balken. So erhältst du die erste Aufgabe.
+
 **********************
 
 
@@ -260,7 +262,7 @@ Bei mehreren richtigen Antworten musst du alle markieren.
 **********************
   **Aussage 5**
 
-    Wenn ich eine Nullen streiche, muss ich die Masse ...
+    Wenn ich eine Null streiche, muss ich die Masse ...
 
 
     [( )] in der nächstkleineren Einheit angeben.
@@ -338,11 +340,10 @@ Dieser Merksatz erlaubt dir, wie bei den Längen die Massen in die Wertetabelle 
 
 !?[movie](https://www.youtube.com/watch?v=GK_HE9ehFlY)
 
-Nur die letzte Aussage: "1,5 Tonnen sind 1,5 Millionen Gramm" würden wir verbessern.
+Nur die letzte Aussage: "1,5 Tonnen sind 1,5 Millionen Gramm" würden wir verbessern:
+Schreibe die 1,5 t in g. (Beachte dabei zwischen den Dreierpäckchen und vor der Einheit ein Leezeichen zu schreiben. Z.B. "123 123 000 g")
 
-> Schreibe die 1,5 t in g in dein Heft. (Beachte dabei zwischen den Dreierpäckchen und vor der Einheit ein Leezeichen zu schreiben. Z.B. "123 123 000 g")
-
-> [[1 500 000 g]]
+[[1 500 000 g]]
 
 
   **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
@@ -407,7 +408,7 @@ Bei mehreren richtigen Antworten musst du alle markieren.
 
     [[X]] jede Einheit drei Stellen besitzt.
     [[X]] ich Lücken immer mit Nullen auffülle, solange sie nicht als letzte Stelle hinter dem Komma stehen.
-    [[ ]] nach den Tonnen immer die Kilogramm kommen.
+    [[X]] nach den Tonnen immer die Kilogramm kommen.
     [[X]] die größte Einheit immer vorne steht.
     ********************************
 
