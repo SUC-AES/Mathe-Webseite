@@ -146,6 +146,126 @@ Du sollst nun in dein Heft das Pfeilbild zum Umrechnen zwischen den Einheiten ü
 
 !?[movie](https://www.youtube.com/watch?v=fxD5937olmU)
 
+Übernimm nun das Pfeilbild in dein Matheheft.
+
+
+**Übersicht über die Massen**
+
+Übertrage die untere Aufgabe in dein Matheheft und fülle dabei auch die Lücken aus. Wenn du dies getan hast, schreibe in das untere Feld "fertig", um die Musterlösung zu erhalten.
+
+$$
+  \begin{aligned}
+    1 t  & = ...................... & kg & = ...................... & g & = ...................... mg \\
+    1 kg & = ...................... & g & = ......................  & mg & \\
+    1g & = ...................... & mg & & & \\
+  \end{aligned}
+$$
+
+
+[[fertig]]
+***********************************************************************
+
+
+Vergeiche deine Ergebnisse und berichtige eventuelle Fehler.
+
+Achte darauf die Zahlen in Dreierpäckchen zusammenzufassen. Du kannst sie dann viel besser lesen.
+
+$$
+  \begin{aligned}
+    1 t  & = & 1.000 & kg & = &  1.000.000 & g & = 1.000.000.000 mg \\
+    1 kg & = & 1.000 & g & = &  1.000.000  & mg & \\
+    1g & = & 1.000 & mg & & & & \\
+  \end{aligned}
+$$
+
+Auf der nächsten Seite findest du Aussagen zum Vervollständigen. Es ist eine freiwillige Aufgabe, ich würde mich aber freuen, wenn du sie machst und mir eine kurze Rückmeldung gibst, ob sie dir geholfen haben.
+
+
+***********************************************************************
+
+
+###Aussagen zu den einfachen Umformungen
+
+Versuche es zuerst ohne das Pfeilbild. Wenn du dir nicht sicher bist, kannst du es dir anschauen.
+
+Bei mehreren richtigen Antworten musst du alle markieren.
+
+
+
+  **Aussage 1**
+
+    Die Umrechnungszahl zwischen benachbarten Massen ist immer ...
+
+
+    [( )] 10
+    [( )] 100
+    [(X)] 1.000
+    [( )] 10.000
+
+
+  **Aussage 2**
+
+    Um von Tonnen in Gramm umzurechnen, muss ich ...
+
+
+    [( )] zwei Nullen ergänzen.
+    [( )] drei Nullen ergänzen.
+    [(X)] sechs Nullen ergänzen.
+    [( )] keines der genannten.
+
+
+  **Aussage 3**
+
+    Um von Milligramm in Gramm umzurechnen, muss ich ...
+
+
+    [( )] eine Null streichen.
+    [( )] eine Null ergänzen.
+    [(X)] drei Nullen streichen.
+    [( )] drei Nullen ergänzen.
+    [( )] keines der genannten.
+
+
+  **Aussage 4**
+
+    Wenn ich sechs Nullen ergänze, muss ich die Masse ...
+
+
+    [( )] in der nächstkleineren Einheit angeben.
+    [(X)] in der übernächsten kleineren Einheit angeben.
+    [( )] in der nächstgrößeren Einheit angeben.
+    [( )] in der übernächsten größeren Einheit angeben.
+    [( )] keines der genannten.
+
+
+  **Aussage 5**
+
+    Wenn ich eine Nullen streiche, muss ich die Masse ...
+
+
+    [( )] in der nächstkleineren Einheit angeben.
+    [( )] in der übernächsten kleineren Einheit angeben.
+    [( )] in der nächstgrößeren Einheit angeben.
+    [( )] in der übernächsten größeren Einheit angeben.
+    [(X)] keines der genannten.
+
+
+  **Aussage 6**
+
+    Die Masse 120.000 kg kann ich auch als ... schreiben.
+
+
+    [[ ]] 12 t
+    [[X]] 120 t
+    [[ ]] 1.200.000.000 g
+    [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut 
+    [[ ]] keines der genannten.
+
+
+
+
+
+
 
 ## Umformen
 
