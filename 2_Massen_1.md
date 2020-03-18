@@ -188,6 +188,8 @@ Auf der nächsten Seite findest du Aussagen zum Vervollständigen. Es ist eine f
 
 ###Aussagen zu den einfachen Umformungen
 
+*Diese Seite ist eine freiwillige Aufgabe.*
+
 Versuche es zuerst ohne das Pfeilbild. Wenn du dir nicht sicher bist, kannst du es dir anschauen.
 
 Bei mehreren richtigen Antworten musst du alle markieren.
@@ -298,10 +300,9 @@ Bei mehreren richtigen Antworten musst du alle markieren.
 
   [[hinter dem Einer der angegebenen Einheit.]]
 
-<!-- style="font-style: bold; margin: 0.25em 0"-->
->  Schreibe den vollständigen Merksatz rot in dein Heft.
+  Schreibe den vollständigen Merksatz rot in dein Heft.
 
->Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.
+  **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
 
 
 
