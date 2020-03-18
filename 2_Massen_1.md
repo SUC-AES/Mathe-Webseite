@@ -337,6 +337,30 @@ Schreibe den vollständigen Merksatz rot in dein Heft.
 
   **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
 
+###Musterlösung Kitty S. 14
+
+Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+Du kannst dir die Lösungen nacheinander anzeigen lassen. Drücke dafür oben auf den Pfeil nach rechts.
+
+
+{{1-2}}
+********************************
+
+![image](graphics/2_Kitty_S14N1.png)
+
+********************************
+
+
+{{2-3}}
+********************************
+
+![image](graphics/2_Kitty_S14N2.png)
+
+********************************
+
+
+
 ###Aussagen zum Umformungen
 
 {{0-1}}
