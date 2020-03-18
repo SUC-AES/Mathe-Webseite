@@ -339,28 +339,90 @@ Schreibe den vollständigen Merksatz rot in dein Heft.
 
 ###Aussagen zum Umformungen
 
+{{0-1}}
+********************************
+Versuche diese Aufgabe zuerst ohne das Pfeilbild. Wenn du dir nicht sicher bist, kannst du es natürlich versuchen.
+
 Bei mehreren richtigen Antworten musst du alle markieren.
-
-  **Aussage 1**
-
-    Die Umrechnungszahl zwischen benachbarten Massen ist immer ...
+********************************
 
 
-    [( )] 10
-    [( )] 100
-    [(X)] 1.000
-    [( )] 10.000
+{{1-2}}
+********************************
+**Aussage 1**
+
+  Um eine Masse in der nächstgrößeren Einheit anzugeben, muss ich das Komma ... verschieben.
 
 
-  **Aussage 2**
+    [( )] um eine Stelle nach rechts
+    [( )] um eine Stelle nach links
+    [( )] um zwei Stellen nach rechts
+    [(X)] um drei Stellen nach links
+    ********************************
 
-    Um von Tonnen in Gramm umzurechnen, muss ich ...
+{{2-3}}
+********************************
+**Aussage 2**
+
+    Bei gemischten Schreibweisen muss ich beachten, dass ...
 
 
-    [( )] zwei Nullen ergänzen.
-    [( )] drei Nullen ergänzen.
-    [(X)] sechs Nullen ergänzen.
-    [( )] keines der genannten.
+    [[X]] jede Einheit drei Stellen besitzt.
+    [[X]] ich Lücken immer mit Nullen auffülle, solange sie nicht als letzte Stelle hinter dem Komma stehen.
+    [[ ]] nach den Tonnen immer die Kilogramm kommen.
+    [[X]] die größte Einheit immer vorne steht.
+    ********************************
+
+{{3-4}}
+********************************
+**Aussage 3**
+
+  Ich kann die Masse 3 783,54 kg auch als ... schreiben.
+
+
+  [( )] 3 t 783 kg 54 g
+  [( )] 3,783054 t
+  [(X)] 3 783 540 g  
+  ********************************
+
+{{4-5}}
+********************************
+**Aussage 4**
+
+  Die Masse 42 kg 37 g ist ... 42,37 kg.
+
+  [(X)] kleiner als
+  [( )] genauso groß wieder
+  [( )] größer als
+  ********************************
+
+{{5-6}}
+********************************
+**Aussage 5**
+
+  Um Milligramm in Tonnen umzurechnen, muss ich das Komma ... verschieben.
+
+  [( )] um drei Stellen nach links
+  [( )] um drei Stellen nach rechts
+  [(X)] um neun Stellen nach links
+  [( )] um neun Stellen nach rechts
+  [( )] gar nicht
+  ********************************
+
+{{6-7}}
+********************************
+**Aussage 6**
+
+  Wenn ich das Komma um sechs Stellen nach rechts verschiebe, wandle ich ...
+
+  [( )] Tonnen in Kilogramm um.
+  [(X)] Tonnen in Gramm um.
+  [( )] Milligramm in Gramm um.
+  [( )] Milligramm in Kilogramm um.
+
+
+  ********************************
+
 
 
 
