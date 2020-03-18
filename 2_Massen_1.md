@@ -291,6 +291,20 @@ Bei mehreren richtigen Antworten musst du alle markieren.
   **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
 
 
+###Umformungen mit Kommas
+
+  Vervollständige den Merksatz "Das Komma steht immer ...".
+
+
+  [[hinter dem Einer der angegebenen Einheit.]]
+
+<!-- style="font-style: bold; margin: 0.25em 0"-->
+>  Schreibe den vollständigen Merksatz rot in dein Heft.
+
+>Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.
+
+
+
 
 
 ##Haftung für Links
