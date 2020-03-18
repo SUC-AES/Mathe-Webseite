@@ -115,7 +115,7 @@ $$
 
 
 
-## Maßeinheiten
+## 1. Maßeinheiten
 
 Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
 
@@ -180,7 +180,7 @@ $$
 
 Auf der nächsten Seite findest du Aussagen zum Vervollständigen. Es ist eine freiwillige Aufgabe, ich würde mich aber freuen, wenn du sie machst und mir eine kurze Rückmeldung gibst, ob sie dir geholfen haben.
 
-**Löse danach im Kittyheft auf der Seite 13 die Nummer 1.**
+**Löse danach im Kittyheft auf der Seite 13 den Kasten und die Nummer 1.**
 
 
 ***********************************************************************
@@ -263,16 +263,32 @@ Bei mehreren richtigen Antworten musst du alle markieren.
     [[X]] 120000000000 mg - jetzt wären Dreierpäckchen gut
     [[ ]] keines der genannten.
 
-**Jetzt löse im Kittyheft auf der Seite 13 die Nummer 1.**
+**Jetzt löse im Kittyheft auf der Seite 13 den Kasten und die Nummer 1.**
 
 ###Musterlösung Kitty S. 13 Nr. 1
 
-Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+  Wenn du den Kasten und die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
-## Umformen
+## 2. Umformen
 
+  Schreibe die Überschrift in dein Heft
 
+  **~~3.2 Umformen~~**
+
+  Du kennst die Einheitentabelle bereits von den Längen.
+
+  Für die Umrechnungszahl 1.000 hat jede Masseneinheit drei Spalten.
+
+  **Löse nun im Kittyheft auf Seite 13 die Aufgabe 2**
+
+  Wenn du damit fertig bist, gehe zur [nächsten Seite](#11)
+
+###Musterlösung Kitty S. 13 Nr.2
+
+  Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
 
 
 
