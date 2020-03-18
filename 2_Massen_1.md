@@ -292,6 +292,8 @@ Bei mehreren richtigen Antworten musst du alle markieren.
 
   Wenn du den Kasten und die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
+![image](graphics/1_Kitty_S13N1.png)
+
 
 ## 2. Umformen
 
@@ -309,7 +311,9 @@ Bei mehreren richtigen Antworten musst du alle markieren.
 
 ###Musterlösung Kitty S. 13 Nr.2
 
-  Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+![image](graphics/2_Kitty_S13N2.png)  
 
 >  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
 
