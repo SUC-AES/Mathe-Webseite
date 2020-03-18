@@ -334,8 +334,22 @@ Schreibe den vollständigen Merksatz rot in dein Heft.
 
 ***********************************************************************
 
+Dieser Merksatz erlaubt dir, wie bei den Längen die Massen in die Wertetabelle einzutragen. Wenn du möchtest, kannst du dir auch dazu wieder ein [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=GK_HE9ehFlY) anschauen. Er erklärt auch direkt, wie du die Masse in einer anderen Einheit angeben kannst.
+
+!?[movie](https://www.youtube.com/watch?v=GK_HE9ehFlY)
+
+Nur die letzte Aussage: "1,5 Tonnen sind 1,5 Millionen Gramm" würden wir verbessern.
+
+> Schreibe die 1,5 t in g in dein Heft. (Beachte dabei zwischen den Dreierpäckchen und vor der Einheit ein Leezeichen zu schreiben. Z.B. "123 123 000 g")
+
+> [[1 500 000 g]]
+
 
   **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
+
+
+
+
 
 ###Musterlösung Kitty S. 14
 
