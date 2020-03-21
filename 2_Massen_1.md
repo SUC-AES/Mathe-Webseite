@@ -673,7 +673,58 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Au
 
 
 
+##4. Multiplikation und Division
 
+Schreibe die Überschrift in dein Heft
+
+>  **~~3.4 Multiplikation und Division~~**
+
+Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen sollte:
+
+> **Um eine Masse mit einer Zahl zu multiplizieren/dividieren, müssen wir sie in eine Einheit ohne Komma umformen.**
+
+> **Um eine Masse durch eine Zahl zu dividieren, müssen wir sie in eine Einheit ohne Komma umformen. Falls die Division nicht geht, muss eine noch kleinere Einheit gewählt werden.**
+
+> **Wir können eine Masse durch eine Masse der gleichen Einheit dividieren, beim Ergebnis fällt dann die Einheit weg.**
+
+Schreibe auch folgende Beispiele in dein Heft:
+
+> $1,4 kg \cdot 7 = 1400 g \cdot 7 = 9800 g = 9,8 kg$
+
+> $1,26 t : 8 = 1 260 000 g : 8 = 157500 g = 0,157 500 t$
+
+**Bearbeite auf der Seite 18 die Nummer 1.**
+
+Bei der Aufgaben 1a und 1f sind die Lücken für den korrekten Rechenweg inklusive Umformungen vorgesehen.
+
+###Musterlösung Kitty S. 18 Nr. 1
+
+Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+###Weitere Aufgaben
+
+Heute ist ein Übungstag.
+
+**Bearbeite im Kittyheft auf der Seite 18 in 25 Minuten so viele Aufgaben der Nummern 2 und 3, wie du schaffst.**
+
+Dann vergleiche mit der Musterlösung und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
+
+**Bearbeite nun im Kittyheft auf der Seite 18 die Textaufgaben Nummer 5 und6**
+
+An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bild eurer bearbeiteten Textaufgaben. Betreff der Mail: "5c Vorname Nachname"
+
+###Massen-Quiz
+
+Ab Freitag 27. März ist das Quiz online.
+
+Du kannst es entweder als PDF-Datei öffnen oder hier auf der Webseite spielen.
+
+**Schreibe längere Rechenwege in dein Heft.**
+
+
+> Zweite Woche geschafft. . Wir wünschen euch ein schönes Wochende!!
+
+> Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!
 
 
 ##Haftung für Links
