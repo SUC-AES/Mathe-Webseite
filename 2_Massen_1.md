@@ -722,7 +722,7 @@ Du kannst es entweder als PDF-Datei öffnen oder hier auf der Webseite spielen.
 **Schreibe längere Rechenwege in dein Heft.**
 
 
-> Zweite Woche geschafft. . Wir wünschen euch ein schönes Wochende!!
+> Zweite Woche geschafft. Wir wünschen euch ein schönes Wochende!!
 
 > Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!
 
