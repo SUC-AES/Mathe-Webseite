@@ -635,6 +635,41 @@ Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen 
 
 Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
+###Weitere Aufgaben
+
+Du hast bereits den Merksatz in dein Heft geschrieben. Übernimm nun auch folgende Beispiele in dein Heft.
+
+> 3,4 kg + 832 g = 3 400 g + 832 g = 4 232 g = 4,232 kg
+
+> 0,04 t - 9 999 g = 40 000 g - 9 999 g = 30 001 g = 30,001 kg
+
+**Bearbeite nun im Kittyheft auf der Seite 17 von der Aufgabe 2 und 3 jeweils dier erste Spalte**
+
+### Musterlösung Kitty S. 17 Nr. 2,3
+
+Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+*Freiwillig: Wer möchte kann auf folgenden Seiten weitere Aufgaben üben. Mit dem Knopf "Neue Aufgabe stellen" erhältst du neue Rechnungen. Du siehst hier auch wunderbar den geforderten Rechenweg.*
+
+[Addition](http://www.realmath.de/Neues/Klasse5/masse/massenaddieren2.html)
+
+[Subtraktion](http://www.realmath.de/Neues/Klasse5/masse/massensub4.html)
+
+###Übungen
+
+Heute ist ein Übungstag.
+
+**Bearbeite im Kittyheft auf der Seite 17 in 25 Minuten so viele Aufgaben, wie du schaffst.**
+
+Dann vergleiche mit der Musterlösung und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
+
+An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Aufgaben und wie viele Punkte ihr in der Zeit erarbeitet habt. Schickt ihr bitte auch ein Bild von euren letzten 6 Aufgaben. Betreff der Mail: "5c Vorname Nachname"
+
+
+
+**Bearbeite nun mindestens eine (freiwillige alle) Textaufgaben im Kittyheft auf der Seite 17**
+
+###Musterlösungen KittyS. 17 Nr. 4,5,6
 
 
 
