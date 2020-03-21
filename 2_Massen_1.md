@@ -598,6 +598,7 @@ Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kan
 ***********************************
 
 
+
 ###Checkliste
 
 
@@ -616,6 +617,29 @@ Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kan
 > **Damit ist die erste Woche schon vorbei. Wir wünschen euch ein schönes Wochende!!
 
 > Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!**
+
+
+##3. Addition und Subtraktion
+
+Schreibe die Überschrift in dein Heft
+
+>  **~~3.3 Addition und Subtraktion~~**
+
+Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen sollte:
+
+> **Um Massen zu addieren bzw. subtrahieren, müssen wir sie in die gleiche Einheit ohne Komma umformen.**
+
+**Bearbeite nun Im Kittyheft auf der Seite 17 die Nummer 1.**
+
+###Musterlösung Kitty S. 17 Nr. 1
+
+Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+
+
+
+
+
 
 ##Haftung für Links
 
