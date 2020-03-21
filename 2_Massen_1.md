@@ -113,6 +113,124 @@ $$
     ***********************************************************************
 
 
+### Woche 2
+
+**Tag 1 - Montag**
+
+  Berechne den Term und gib das Ergebnis an:
+    $ (34 + 17) \cdot 3 + 57 : 19 - 69)$
+
+    [[87]]
+    ***********************************************************************
+
+
+  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+  $$
+  \begin{aligned}
+  \quad  & (34 + 17) \cdot 3 + 57 : 19 - 69  \\
+  = & 51 \cdot 3 + 3 - 69 \\
+  = & 153 + 3 - 69 \\
+  = & 156 - 69 \\
+  = & 87
+  \end{aligned}
+  $$
+
+
+    ***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+  Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+  $ ( 111-3^3 ) : ( 62- 6 \cdot 8 ) $
+
+  [[6]]
+  [[?]] $ 3^3 = 3 \cdot 3 \cdot 3$
+  ***********************************************************************
+
+
+  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+  $$
+  \begin{aligned}
+  \quad &(111-3^3 ) : ( 62- 6 \cdot 8 ) \\
+  = & (111 - 27) : 14  \\
+  = & 84 : 14 \\
+  = & 6
+  \end{aligned}
+  $$
+
+  ***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+    Berechne den Term und gib das Ergebnis an.
+    $ [89 + 3 \cdot (  34 -17) ] \cdot (11 -7 ) $
+
+    [[560]]
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad & [89 + 3 \cdot (  34 -17) ] \cdot (11 -7 ) \\
+    = & [89 + 3 \cdot 17] \cdot 4  \\
+    = & [89 + 51] \cdot 4 \\
+    = & 140 \cdot 4 \\
+    = & 560
+    \end{aligned}
+    $$
+
+    ***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+    $ ( 61 - 15 \cdot 3) \cdot (57 : 19 )^2 $
+
+    [[144]]
+    [[?]] Denke an Kla Po Pu Stri
+    [[?]] Rechne zuerst die Klammer bevor du $( ... )^2$ rechnen kannst
+    [[?]] $ 3^2 = 3 \cdot 3$
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &( 61 - 15 \cdot 3) \cdot (57 : 19 )^2 \\
+    = & (61 - 45) \cdot 3^2  \\
+    = & 16 \cdot 9 \\
+    = & 144
+    \end{aligned}
+    $$
+
+    ***********************************************************************
+
+**Tag 5 - Freitag**
+
+    Berechne den Term und gib das Ergebnis an.
+    $ (202 - 144 : 6 ) :2 - ( 28 + 37 ) $
+
+    [[24]]
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad & (202 - 144 : 6 ) :2 - ( 28 + 37 ) \\
+    = & (202 - 24):2 - 65  \\
+    = & 178 : 2 - 65 \\
+    = & 89 - 65 \\
+    = & 24
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
 
 
 ## 1. Maßeinheiten
