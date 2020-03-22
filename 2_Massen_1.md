@@ -631,6 +631,10 @@ Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen 
 
 **Bearbeite nun Im Kittyheft auf der Seite 17 die Nummer 1.**
 
+Gib nun dein Lösungswort in GROSSBUCHSTABEN an und gehe dann auf die [nächste Seite](#19)
+
+[[JAGUAR]]
+
 ###Musterlösung Kitty S. 17 Nr. 1
 
 Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
