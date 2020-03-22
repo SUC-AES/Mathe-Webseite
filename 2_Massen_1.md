@@ -93,6 +93,7 @@ $$
   **Tag 2 - Freitag**
 
     Berechne den Term und gib das Ergebnis an:
+    
     $ [100-(42-23) \cdot 5] \cdot (100-87) $
 
     [[65]]
