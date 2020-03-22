@@ -640,6 +640,7 @@ Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN a
 
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
+
 ![image](graphics/2_Kitty_S17N1.png)  
 
 ###Weitere Aufgaben
