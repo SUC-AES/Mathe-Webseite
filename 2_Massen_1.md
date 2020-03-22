@@ -93,7 +93,7 @@ $$
   **Tag 2 - Freitag**
 
     Berechne den Term und gib das Ergebnis an:
-    
+
     $ [100-(42-23) \cdot 5] \cdot (100-87) $
 
     [[65]]
@@ -635,14 +635,26 @@ Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen 
 
 ###Musterlösung Kitty S. 17 Nr. 1
 
-Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an.
+Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an und klicke danach auf den oberen, rechten Pfeil.
+
+{{0-1}}
+********************************************************************************
+
 
 [[JAGUAR]]
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
 
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
 ![image](graphics/3_Kitty_S17N1.png)  
+
+********************************************************************************
 
 ###Weitere Aufgaben
 
