@@ -854,13 +854,123 @@ Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 Heute ist ein Übungstag.
 
+{{0-1}}
+********************************************************************************
+
+
 **Bearbeite im Kittyheft auf der Seite 18 in 25 Minuten so viele Aufgaben der Nummern 2 und 3, wie du schaffst.**
 
-Dann vergleiche mit der Musterlösung und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
+Dann vergleiche mit der Musterlösung, indem du auf den oberen, echten Pfeil klickst, und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
+
+
+********************************************************************************
+
+
+{{1-3}}
+********************************************************************************
+
+
+Wenn du die Aufgabe 2 gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an und klicke danach auf den oberen, rechten Pfeil für die Musterlösungen und die Rechenwege für beide Nummern 2 und 3.
+
+[[MAUSEFALLE]]
+
+********************************************************************************
+
+
+{{2-3}}
+********************************************************************************
+
+
+Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+
+![image](graphics/4_Kitty_S18N2_3.png)  
+
+********************************************************************************
+
+
+{{3-5}}
+********************************************************************************
+
 
 **Bearbeite nun im Kittyheft auf der Seite 18 die Textaufgaben Nummer 5 und6**
 
+
+********************************************************************************
+
+
+{{3-4}}
+********************************************************************************
+
+
+Vervollständige zuerst die Antwortsätze, die auch so oder ähnlich bei dir im Heft stehen sollten.
+
+Vergleiche danach deinen Rechenweg mit der Musterlösung (oben auf den rechten Pfeil klicken). Es ist wichtig, dass du alle nötigen Umformungen sauber in deinem Heft stehen hast.
+
+**Kitty S. 18 Nr. 5**
+
+Die 27 Schüler der 5. Klasse sammeln beim Faschingsumzug jeweils 273 g Bonbons. Wie viel Kilogramm Bonbons hat die Klasse insgesamt gesammelt?
+
+> Die Klasse hat insgesamt ... kg gesammelt.
+
+> [[7,371]]
+***********************************
+
+
+> Die Klasse hat insgesamt 7,371 kg gesammelt.
+
+***********************************
+
+
+**Kitty S. 18 Nr. 6**
+
+6)  Familie Reiter besitzt fünf Pferde. Pro Tag frisst ein Pferd 7,5 kg Heu.
+
+(a) Wie viel Kilogramm Heu fressen die Pferde wöchentlich?
+      5 · 7 · 7,5 kg = 35 · 7,5 kg = 35 · 7 500 g = 262 500 g = 262,5 kg
+(b) Wie viele Heuballen a 24 kg muss Familie Reiter wöchentlich kaufen?
+
+> (a) Die Pferde fressen in der Woche zusammen ... kg.
+
+> [[262,5]]
+***********************************
+
+
+> (a) Die Pferde fressen in der Woche zusammen 262,5 kg.
+
+***********************************
+
+> (b) Familie Reiter muss wöchentlich ... Ballen kaufen.
+
+> [[11]]
+***********************************
+
+
+> (b) Familie Reiter muss wöchentlich 11 Ballen kaufen.
+
+***********************************
+
+
+********************************************************************************
+
+
+{{4-5}}
+********************************************************************************
+
+
+![image](graphics/4_Kitty_S18N5_6.png)
+
+********************************************************************************
+
+
+{{5-6}}
+********************************************************************************
+
+
 An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bild eurer bearbeiteten Textaufgaben. Betreff der Mail: "5c Vorname Nachname"
+
+********************************************************************************
+
 
 ###Massen-Quiz
 
