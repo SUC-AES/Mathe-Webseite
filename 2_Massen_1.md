@@ -708,6 +708,8 @@ Vervollständige zuerst die Antwortsätze, die auch so oder ähnlich bei dir im 
 Vergleiche danach deinen Rechenweg mit der Musterlösung (oben auf den rechten Pfeil klicken). Es ist wichtig, dass du alle nötigen Umformungen sauber in deinem Heft stehen hast.
 
 {{0-1}}
+*********************************************************************************
+
 **Kitty S. 17 Nr. 4**
 
 Lea macht Pralinen, indem sie 2 g Marzipan mit 0,3 g Marmelade bestreicht und mit 1,35 g Schokolade überzieht. Wie viel Gramm wiegt eine Praline?
@@ -774,6 +776,18 @@ Mias Schulranzen wiegt 890 g. Ihre Bücher 1,3 kg, das Mäppchen 260 g, das Paus
 
 
 ***********************************************************************
+
+*********************************************************************************
+
+
+{{1-2}}
+***********************************************************************
+
+
+![image](graphics/3_Kitty_S17N4_5_6.png)
+
+***********************************************************************
+
 
 
 ##4. Multiplikation und Division
