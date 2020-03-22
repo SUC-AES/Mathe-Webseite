@@ -703,6 +703,77 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Au
 
 ###Musterlösungen KittyS. 17 Nr. 4,5,6
 
+Vervollständige zuerst die Antwortsätze, die auch so oder ähnlich bei dir im Heft stehen sollten.
+
+Vergleiche danach deinen Rechenweg mit der Musterlösung (oben auf den rechten Pfeil klicken). Es ist wichtig, dass du alle nötigen Umformungen sauber in deinem Heft stehen hast.
+
+{{0-1}}
+**Kitty S. 17 Nr. 4**
+
+Lea macht Pralinen, indem sie 2 g Marzipan mit 0,3 g Marmelade bestreicht und mit 1,35 g Schokolade überzieht. Wie viel Gramm wiegt eine Praline?
+
+
+> Eine Praline wiegt ... g.
+
+> [[3,65]]
+***********************************************************************
+
+
+> Eine Praline wiegt 3,65 g.
+
+***********************************************************************
+
+**Kitty S. 17 Nr. 5**
+
+Paul möchte seinem Freund Bücher schicken. Die Bücher wiegen 458 g, 460g und 1,03 kg. Wie viel
+Gramm Süßigkeiten kann er noch dazulegen, wenn das Päckchen maximal 2 kg wiegen darf?
+
+
+> Er darf noch ... g dazulegen.
+
+> [[52]]
+***********************************************************************
+
+
+> Er darf noch 52 g dazulegen.
+
+
+***********************************************************************
+
+
+**Kitty S. 17 Nr. 6**
+
+Paul möchte seinem Freund Bücher schicken. Die Bücher wiegen 458 g, 460g und 1,03 kg. Wie viel
+Gramm Süßigkeiten kann er noch dazulegen, wenn das Päckchen maximal 2 kg wiegen darf?
+
+Mias Schulranzen wiegt 890 g. Ihre Bücher 1,3 kg, das Mäppchen 260 g, das Pausenbrot 95 g und die Wasserflasche 0,7 kg.
+
+(a) Wie viel Kilogramm wiegt der gepackte Ranzen?
+
+(b) Um wie viel Gramm überschreitet der Ranzen das empfohlene Maximalgewicht von 2,8 kg?
+
+
+> (a) Der gepackte Ranzen wiegt ... kg.
+
+> [[3,245]]
+***********************************************************************
+
+
+> (a) Der gepackte Ranzen wiegt 3,245 kg.
+
+
+***********************************************************************
+
+> (b) Der Ranzen überschreitet das empfohlene Maximalgewicht um ... g.
+
+> [[445]]
+***********************************************************************
+
+
+> (b) Der Ranzen überschreitet das empfohlene Maximalgewicht um 445 g.
+
+
+***********************************************************************
 
 
 ##4. Multiplikation und Division
