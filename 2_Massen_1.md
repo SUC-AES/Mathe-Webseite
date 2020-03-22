@@ -655,7 +655,31 @@ Du hast bereits den Merksatz in dein Heft geschrieben. Übernimm nun auch folgen
 
 ### Musterlösung Kitty S. 17 Nr. 2,3
 
-Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+Wenn du die Aufgabe gelöst hast, vergleiche deine Ergebnisse, indem du oben auf die Pfeile klickst, und berichtige deine Fehler.
+
+{{1-2}}
+*************************************
+
+
+Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 2
+
+![image](graphics/3_Kitty_S17N2.png)
+
+
+*************************************
+
+
+
+{{2-3}}
+*************************************
+
+
+Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 3
+
+![image](graphics/3_Kitty_S17N3.png)
+
+
+*************************************
 
 *Freiwillig: Wer möchte kann auf folgenden Seiten weitere Aufgaben üben. Mit dem Knopf "Neue Aufgabe stellen" erhältst du neue Rechnungen. Du siehst hier auch wunderbar den geforderten Rechenweg.*
 
@@ -669,7 +693,7 @@ Heute ist ein Übungstag.
 
 **Bearbeite im Kittyheft auf der Seite 17 in 25 Minuten so viele Aufgaben, wie du schaffst.**
 
-Dann vergleiche mit der Musterlösung und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
+Dann vergleiche mit der [Musterlösung auf der vorherigen Seite](#21) und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
 
 An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Aufgaben und wie viele Punkte ihr in der Zeit erarbeitet habt. Schickt ihr bitte auch ein Bild von euren letzten 6 Aufgaben. Betreff der Mail: "5c Vorname Nachname"
 
