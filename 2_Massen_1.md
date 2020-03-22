@@ -829,7 +829,26 @@ Bei der Aufgaben 1a und 1f sind die Lücken für den korrekten Rechenweg inklusi
 
 ###Musterlösung Kitty S. 18 Nr. 1
 
-Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an und klicke danach auf den oberen, rechten Pfeil.
+
+{{0-1}}
+********************************************************************************
+
+
+[[FRESSNAPF]]
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+
+Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+
+![image](graphics/4_Kitty_S18N1.png)  
+
+********************************************************************************
 
 ###Weitere Aufgaben
 
