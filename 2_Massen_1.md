@@ -631,13 +631,16 @@ Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen 
 
 **Bearbeite nun Im Kittyheft auf der Seite 17 die Nummer 1.**
 
-Gib nun dein Lösungswort in GROSSBUCHSTABEN an und gehe dann auf die [nächste Seite](#19)
-
-[[JAGUAR]]
 
 ###Musterlösung Kitty S. 17 Nr. 1
 
-Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an.
+
+[[JAGUAR]]
+
+Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+
+![image](graphics/2_Kitty_S17N1.png)  
 
 ###Weitere Aufgaben
 
@@ -647,7 +650,7 @@ Du hast bereits den Merksatz in dein Heft geschrieben. Übernimm nun auch folgen
 
 > 0,04 t - 9 999 g = 40 000 g - 9 999 g = 30 001 g = 30,001 kg
 
-**Bearbeite nun im Kittyheft auf der Seite 17 von der Aufgabe 2 und 3 jeweils dier erste Spalte**
+**Bearbeite nun im Kittyheft auf der Seite 17 von der Aufgabe 2 und 3 jeweils die erste Spalte**
 
 ### Musterlösung Kitty S. 17 Nr. 2,3
 
