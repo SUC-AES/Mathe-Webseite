@@ -972,18 +972,124 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bil
 ********************************************************************************
 
 
-###Massen-Quiz
+### Massen-Quiz
+
+
+{{0-1}}
+*********************************
+
 
 Ab Freitag 27. März ist das Quiz online.
 
 Du kannst es entweder als PDF-Datei öffnen oder hier auf der Webseite spielen.
 
-**Schreibe längere Rechenwege in dein Heft.**
+
+*********************************
 
 
-> Zweite Woche geschafft. Wir wünschen euch ein schönes Wochende!!
+**Wichtig: Schreibe längere Rechenwege in dein Heft.**
 
-> Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!
+
+
+{{1-2}}
+********************************
+**Aufgabe 1**
+
+Wenn ich das Komma um sechs Stellen nach rechts verschiebe, ...
+
+
+[[ ]] wandle ich Gramm in Tonnen um.
+[[X]] wandle ich in die übernächste kleinere Einheit um.
+[[ ]] werden aus Tonnen Milligramm.
+[[ ]] habe ich etwas falsch gemacht. Ich kann das Komma nur um eine, zwei oder drei Stellen verschieben.
+
+********************************
+
+{{2-3}}
+********************************
+**Aufgabe 2**
+
+Massen mal anders
+
+
+Es gibt auch in andere Ländern noch viele weitere Maßeinheiten, mit denen Massen ausgedrückt werden können. Recherchiere, welche der genannten Einheiten keine Masse ist.
+
+[[ ]] Dekagramm
+[[ ]] Ounce
+[[X]] Cup
+[[ ]] Karat
+***********************************************
+
+
+Dekagramm ist eine Masseneinheit aus Österreich. Während Ounce aus dem englischsprachigen Raum kommt. Karat wird für die Masse von Edelsteinen genutzt.
+
+Cup steht im englischsprachigen Raum für eine "Tasse" und ist eine Volumeneinheit.
+
+***********************************************
+
+
+********************************
+
+
+
+{{3-4}}
+********************************
+**Aufgabe 3**
+
+3 t 15 kg 270 g kann ich auch schreiben als ...
+
+[[ ]] 315 270 g
+[[ ]] 3,15027 t
+[[X]] 3 015,27 kg
+[[ ]] 3 015 27 000 mg
+
+********************************
+
+
+
+{{4-5}}
+********************************
+**Aufgabe 4**
+
+ Auf dem Markt möchtest du 1,25 kg Äpfel zum Kuchenbacken kaufen. Der Händler gibt dir 1 025 g.
+
+[[X]] Die Äpfel reichen nicht, ich möchte noch mehr.
+[[ ]] Glück gehabt, das passt genau.
+[[ ]] Das ist zuviel. Das macht aber nichts, dann kann ich noch etwas so essen.
+[[ ]] Das hilft mir nicht, es sind zwei verschiedene Einheiten.
+
+********************************
+
+
+{{5-6}}
+********************************
+**Aufgabe 5**
+
+5,2968 t ist das gleich wie ...
+
+[[X]] 5 296 800 g
+[[ ]] 5 t 2968 kg
+[[ ]] 52,968 kg
+[[ ]]  5 t 296 kg 8 g
+********************************
+
+
+{{6-7}}
+********************************
+
+**Aufgabe 6**
+
+  20 098 mg kann auch geschrieben werden als ...
+
+[[ ]] 20 g 980 mg
+[[ ]] 20,98 g
+[[X]] 0,020098 kg
+[[ ]] 2 kg 98 mg
+********************************
+
+
+
+
 
 
 ##Haftung für Links
