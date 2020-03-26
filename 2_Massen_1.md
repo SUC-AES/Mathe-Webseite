@@ -981,9 +981,10 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bil
 
 Ab Freitag 27. März ist das Quiz online.
 
-Du kannst es entweder als
+Du kannst es entweder als PDF-Datei öffnen oder hier auf der Webseite spielen.
+
+
 [Massenquiz - PDF](https://github.com/SUC-AES/Mathematik-5/raw/master/Datei/MQ_Massen_1.pdf)
-öffnen oder hier auf der Webseite spielen.
 
 
 *********************************
