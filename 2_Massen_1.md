@@ -981,7 +981,9 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bil
 
 Ab Freitag 27. März ist das Quiz online.
 
-Du kannst es entweder als PDF-Datei öffnen oder hier auf der Webseite spielen.
+Du kannst es entweder als
+[Massenquiz - PDF](https://github.com/SUC-AES/Mathematik-5/raw/master/Datei/MQ_Massen_1.pdf)
+öffnen oder hier auf der Webseite spielen.
 
 
 *********************************
@@ -1163,6 +1165,92 @@ Um $\frac 1 8$ kg zu berechnen, musst du 1 kg : 8 rechnen. Das Ergebnis ist ...
 [[ ]] Das geht doch gar nicht 1 : 8 !
 ********************************
 
+
+{{13-15}}
+********************************
+**Aufgabe 13**
+
+Du kennst Terme bereits von den natürlichen Zahlen. Stelle folgenden Term für Massen auf. Du brauchst ihn nicht zu berechnen:
+
+Subtrahiere die Summe von 134 kg  und 5,8 kg vom Quotienten aus 10,8 t und 12.
+
+[[ ]] (134 kg + 5,8 kg) - 1,08 t : 12
+[[X]] 10,8 t : 12 - (134 kg + 5,8 kg)
+[[ ]] 10,8 t : 12 - 5,8 kg + 134 kg
+[[ ]] (134 kg + 5,8 kg) - 12 : 1,08t
+*********************************************
+
+
+Das ist der korrekte Term. Gib das richtige Ergebnis für einen Extrapunkt in kg an.
+
+
+{{14-15}}
+********************************************************************************
+
+760,2 kg
+
+********************************************************************************
+
+*********************************************
+********************************
+
+
+{{15-17}}
+********************************
+**Aufgabe 14**
+
+Schreibe für diese Textaufgabe einen Term. Du musst ihn nicht berechnen:
+
+Petra Vielzuviels Koffer wiegt 34,2 kg. Sie muss nun wieder drei Bücher zu je 1 300 g, eine 2,5 kg schwere Steinesammlung und zwei paar Schuhe mit insgesamt 1,8 kg ausladen. Wie schwer ist der Koffer jetzt?
+
+[[ ]] 34,2 kg - (1 300 g + 2,5 kg + 1,8 kg)
+[[ ]] 34,2 kg - 3 $\cdot$ 1 300 g + 2,5 kg + 1,8 kg
+[[X]] 34,2 kg - (3 $\cdot$ 1 300 g + 2,5 kg + 1,8 kg)
+[[ ]] 34,2 kg - (3 $\cdot$ 1 300 g + 2,5 kg + 2 $\cdot$ 1,8 kg)
+*********************************************
+
+
+Das ist der korrekte Term. Gib das richtige Ergebnis für einen Extrapunkt in kg an.
+
+
+{{16-17}}
+********************************************************************************
+
+26 kg
+
+********************************************************************************
+
+*********************************************
+********************************
+
+
+{{17-18}}
+********************************
+**Masteraufgabe**
+
+Um Brot zu backen,  benötigst du je 250 g Roggen- und Dinkelmehl, 300 g Wasser, 200 g Sauerteig und 100 g Körner, die in der gleichen Masse Wasser eingeweicht wurden. Wie schwer ist das Brot, wenn die Massen von Salz und Hefe vernachlässigt werden können.
+
+[[ ]] 0,85 kg
+[[ ]] 0,95 lg
+[[ ]] 1,1 kg
+[[X]] 1,2 kg
+
+********************************
+
+
+{{18-19}}
+********************************
+Schreibe jetzt deiner Mathematiklehrerin eine Mail. Achte dabei auf den Betreff und schreibe
+
+5x-Vorname-Nachname
+
+In der Mail sollten dann deine Punkte stehen. Du darfst aber auch gerne eine Rückmeldung geben, wie du bis jetzt mit den Arbeitsaufträgen in Mathematik klar gekommen bist.
+
+> Zweite Woche geschafft. Wir wünschen euch ein schönes Wochende!!
+
+> Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!
+
+********************************
 
 
 
