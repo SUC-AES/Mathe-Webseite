@@ -1011,7 +1011,6 @@ Wenn ich das Komma um sechs Stellen nach rechts verschiebe, ...
 
 Massen mal anders
 
-
 Es gibt auch in andere Ländern noch viele weitere Maßeinheiten, mit denen Massen ausgedrückt werden können. Recherchiere, welche der genannten Einheiten keine Masse ist.
 
 [[ ]] Dekagramm
@@ -1076,7 +1075,6 @@ Cup steht im englischsprachigen Raum für eine "Tasse" und ist eine Volumeneinhe
 
 {{6-7}}
 ********************************
-
 **Aufgabe 6**
 
   20 098 mg kann auch geschrieben werden als ...
@@ -1088,6 +1086,82 @@ Cup steht im englischsprachigen Raum für eine "Tasse" und ist eine Volumeneinhe
 ********************************
 
 
+{{7-8}}
+********************************
+**Aufgabe 7**
+
+Das Ergebnis von 5 t 27 kg + 0,803 t ist
+
+[[ ]] 5 820 kg
+[[X]] 5,83 t
+[[ ]] 6073 kg
+[[ ]] 6,73 t
+********************************
+
+
+{{8-9}}
+********************************
+**Aufgabe 8**
+
+Die Differenz von 1,5 kg und 13 mg ist
+
+[[ ]] 1,37 kg
+[[ ]] 1 487 g
+[[ ]] 1 487 mg
+[[X]] 1 499, 987 g
+********************************
+
+
+{{9-10}}
+********************************
+**Aufgabe 9**
+
+Auf dem Markt kaufst du 2,5 kg Kartoffeln und 1235 g Karotten. Wie schwer ist deine Einkaufstüte?
+
+ [[ ]] 1 260 g
+[[ ]] 3 240 g
+[[ ]]  3 555 g
+[[X]] 3 735 g
+********************************
+
+
+{{10-11}}
+********************************
+**Aufgabe 10**
+
+Multipliziere 1,325 g mit 12. Das Produkt ist ...
+
+[[X]] 0,0159 kg
+[[ ]] 15 g 90 mg
+[[ ]] 1 kg 5 g 9 mg
+[[ ]] 15,009 g
+********************************
+
+
+{{11-12}}
+********************************
+**Aufgabe 11**
+
+Berechne 77,121 kg : 19. Das Ergebnis ist ...
+
+[[ ]] 459 g
+[[X]] 4,059 kg
+[[ ]] 0,459 kg
+[[ ]] 4 kg 590 g
+********************************
+
+
+{{12-13}}
+********************************
+**Aufgabe 12**
+
+Um $\frac 1 8$ kg zu berechnen, musst du 1 kg : 8 rechnen. Das Ergebnis ist ...
+
+[[X]] 0,125 kg
+[[ ]] 125 mg
+[[ ]] 1 kg 25 g
+[[ ]] Das geht doch gar nicht 1 : 8 !
+********************************
 
 
 
