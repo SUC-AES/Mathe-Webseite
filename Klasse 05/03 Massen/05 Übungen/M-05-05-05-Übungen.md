@@ -41,7 +41,7 @@ Du kannst es entweder als PDF-Datei öffnen oder hier auf der Webseite spielen.
 
 
 
-[Massenquiz - PDF](https://github.com/SUC-AES/Mathematik-5/raw/master/Datei/MQ_Massen_1.pdf)
+[Massenquiz - PDF](https://github.com/SUC-AES/Mathe-Webseite/blob/master/Klasse%2005/03%20Massen/Datei/MQ_Massen_1.pdf)
 
 *********************************
 
