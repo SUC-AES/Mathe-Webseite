@@ -29,7 +29,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
 
 
-## 2. Umformen
+# Umformen
 
   Schreibe die Überschrift in dein Heft
 
@@ -43,7 +43,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
   Wenn du damit fertig bist, gehe zur [nächsten Seite](#11)
 
-###Musterlösung Kitty S. 13 Nr.2
+##Musterlösung Kitty S. 13 Nr.2
 
 Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
@@ -52,7 +52,7 @@ Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtig
 >  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
 
 
-###Umformungen mit Kommas
+##Umformungen mit Kommas
 
 Vervollständige den Merksatz "Das Komma steht immer ...".
 
@@ -84,7 +84,7 @@ Schreibe die 1,5 t in g. (Beachte dabei zwischen den Dreierpäckchen und vor der
 
 
 
-###Musterlösung Kitty S. 14
+##Musterlösung Kitty S. 14
 
 Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
@@ -108,7 +108,7 @@ Du kannst dir die Lösungen nacheinander anzeigen lassen. Drücke dafür oben au
 
 
 
-###Aussagen zum Umformungen
+##Aussagen zum Umformungen
 
 {{0-1}}
 ********************************
@@ -195,7 +195,7 @@ Bei mehreren richtigen Antworten musst du alle markieren.
   ********************************
 
 
-### Kitty S. 15
+## Kitty S. 15
 
 
 **Bearbeite nun auf der Seite 15 im Kittyheft jeweils die erste Spalte der Aufgaben 1 bis 3. Notiere dir auch schon die Lösungsbuchstaben.
@@ -213,7 +213,7 @@ Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kan
 
 
 
-###Checkliste
+##Checkliste
 
 
 **Bearbeite nun im Kittyheft auf Seite 22 die beiden Themen "Einheiten" und "Schreibweisen" der Checkliste und übe dann selbständig auf der Seite 15 das, was du nicht konntest. Vergleiche deine Ergebnisse mit der Musterlösung der [letzten Seite](#15).**
@@ -234,6 +234,6 @@ Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kan
 
 
 
-##Haftung für Links
+#Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
