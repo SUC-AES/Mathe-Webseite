@@ -61,7 +61,7 @@ Du sollst nun in dein Heft das Pfeilbild zum Umrechnen zwischen den Einheiten ü
 
 Übernimm nun das Pfeilbild in dein Matheheft.
 
-> ![image](graphics/1_Pfeilbild.jpg)
+> ![image](../graphics/1_Pfeilbild.jpg)
 
 
 **Übersicht über die Massen**
