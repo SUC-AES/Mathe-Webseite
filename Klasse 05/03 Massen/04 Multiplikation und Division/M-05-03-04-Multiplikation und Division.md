@@ -199,7 +199,14 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bil
 
 ## Brüche
 
+Schreibe die Überschrift und die Textaufgaben in dein Heft
 
+>3.5 Brüche
+>    • Deine Mutter kauft 2,4 kg Hackfleisch beim Metzger. Ein Viertel davon kommt in die Bolognese-Soße. Wie viel Hackfleisch kommt in die Soße?
+>    • Ihr macht Nudeln auf Vorrat selber und möchtet davon einen Teil davon trocknen. Die 1,35 kg Nudeln verlieren beim Trocknen ein Drittel ihrer Masse. Wie viel Gramm verlieren die Nudeln?
+>    • Für ein Familienfest kauft ihr 3 kg Eiscreme. Diese soll auf 15 Familienmitglieder aufgeteilt werden. Wie viel Eiscreme erhält jedes Familienmitglied?
+
+Löse die Aufgaben, vergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
 
 
 # Haftung für Links
