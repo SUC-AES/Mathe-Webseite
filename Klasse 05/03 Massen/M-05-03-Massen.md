@@ -18,7 +18,7 @@ Neben der Aufteilung des Themas in kleinere Abschnitt mit Aufgabenblöcken für 
 
 
 
-## Liebe Eltern
+# Liebe Eltern
 
 Zusätzlich zu den Mails erhalten Sie den Arbeitsauftrag für die nächsten drei Wochen auch auf diesem Weg. Die Kinder haben noch keine Ferien und sollen in den einzelnen Fächern an den Themen weiterarbeiten.
 
@@ -29,7 +29,7 @@ Auf ein gutes Gelingen!
 *Susanne Suckfüll*
 
 
-## Liebe Schülerinnen und Schüler des fünften Jahrgangs
+# Liebe Schülerinnen und Schüler des fünften Jahrgangs
 
 Leider werden wir uns erst nach den Osterferien wiedersehen. Das auf Grund einer Pandemie die Schulen geschlossen bleiben, gab es bisher nicht in diesem Ausmaß. Allerdings heißt das für euch nicht, dass ihr jetzt fünf Wochen Osterferien habt. Ihr sollt trotzdem in den Themen der unterschiedlichen Fächer weiterarbeiten.
 
@@ -50,7 +50,7 @@ Für die Mathematik-Lehrerinnen
  *Frau Suckfüll*
 
 
-## Übersicht über das Thema *Massen*
+# Übersicht über das Thema *Massen*
 
 Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
@@ -67,7 +67,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 [05 Übungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/05%20%C3%9Cbungen/M-05-05-05-%C3%9Cbungen.md#2)
 
 
-## Täglicher Term
+# Täglicher Term
 
 Beginne jeden Tag mit der Berechnung eines Terms. Gib das Ergebnis in das Feld unter dem Term an und vergleiche dann deinen Rechenweg mit der angegebenen Musterlösung.
 
@@ -84,7 +84,7 @@ Und nun gib ein falsches Ergebnis für $3+4$ ein:
 
 Durch das Anklicken des eingekreisten i erhältst du das korrekte Ergebnis. Der gelbe Ausdruck "Resolved" gibt an, dass du das Ergebnis gesagt bekommen hast. Dies geschieht immer bei nicht ausgefüllten bzw. falschen Ergebnissen.
 
-### Woche 1
+## Woche 1
 
 **Tag 1 - Donnerstag**
 
@@ -133,7 +133,7 @@ $$
     ***********************************************************************
 
 
-### Woche 2
+## Woche 2
 
 **Tag 1 - Montag**
 
@@ -251,7 +251,7 @@ $$
         ***********************************************************************
 
 
-### Woche 3
+## Woche 3
 
 **Tag 1 - Montag**
 
@@ -377,6 +377,6 @@ $$
 
 
 
-##Haftung für Links
+#Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
