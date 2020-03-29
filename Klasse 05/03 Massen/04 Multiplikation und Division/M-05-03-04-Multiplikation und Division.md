@@ -71,7 +71,7 @@ Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN a
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
-![image](graphics/4_Kitty_S18N1.png)  
+![image](../graphics/4_Kitty_S18N1.png)  
 
 ********************************************************************************
 
@@ -109,7 +109,7 @@ Wenn du die Aufgabe 2 gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
-![image](graphics/4_Kitty_S18N2_3.png)  
+![image](../graphics/4_Kitty_S18N2_3.png)  
 
 ********************************************************************************
 
@@ -183,7 +183,7 @@ Die 27 Schüler der 5. Klasse sammeln beim Faschingsumzug jeweils 273 g Bonbons.
 ********************************************************************************
 
 
-![image](graphics/4_Kitty_S18N5_6.png)
+![image](../graphics/4_Kitty_S18N5_6.png)
 
 ********************************************************************************
 
