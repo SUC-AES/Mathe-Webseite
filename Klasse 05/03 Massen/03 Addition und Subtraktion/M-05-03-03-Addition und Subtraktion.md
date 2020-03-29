@@ -61,7 +61,7 @@ Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN a
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
-![image](graphics/3_Kitty_S17N1.png)  
+![image](../graphics/3_Kitty_S17N1.png)  
 
 ********************************************************************************
 
@@ -85,7 +85,7 @@ Wenn du die Aufgabe gelöst hast, vergleiche deine Ergebnisse, indem du oben auf
 
 Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 2
 
-![image](graphics/3_Kitty_S17N2.png)
+![image](../graphics/3_Kitty_S17N2.png)
 
 
 *************************************
@@ -98,7 +98,7 @@ Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 2
 
 Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 3
 
-![image](graphics/3_Kitty_S17N3.png)
+![image](../graphics/3_Kitty_S17N3.png)
 
 
 *************************************
@@ -115,7 +115,7 @@ Heute ist ein Übungstag.
 
 **Bearbeite im Kittyheft auf der Seite 17 in 25 Minuten so viele Aufgaben, wie du schaffst.**
 
-Dann vergleiche mit der [Musterlösung auf der vorherigen Seite](#21) und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
+Dann vergleiche mit der [Musterlösung auf der vorherigen Seite](#5) und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
 
 An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Aufgaben und wie viele Punkte ihr in der Zeit erarbeitet habt. Schickt ihr bitte auch ein Bild von euren letzten 6 Aufgaben. Betreff der Mail: "5c Vorname Nachname"
 
@@ -206,7 +206,7 @@ Mias Schulranzen wiegt 890 g. Ihre Bücher 1,3 kg, das Mäppchen 260 g, das Paus
 ***********************************************************************
 
 
-![image](graphics/3_Kitty_S17N4_5_6.png)
+![image](../graphics/3_Kitty_S17N4_5_6.png)
 
 ***********************************************************************
 
