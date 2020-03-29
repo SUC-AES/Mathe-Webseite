@@ -203,6 +203,11 @@ Schreibe die Überschrift in dein Heft
 
 > 3.5 Brüche
 
+
+### Einführungsbeispiele
+
+Diese Textaufgaben kannst du lösen, auch ohne Brüche zu kennen.
+
 Schreibe die Textaufgaben in dein Heft. Du kannst direkt nach jeder Aufgabe rechnen. Vergleiche dann jeweisl dein Ergebnis und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
 
 **Aufgabe 1**
@@ -244,9 +249,22 @@ Schreibe die Textaufgaben in dein Heft. Du kannst direkt nach jeder Aufgabe rech
 *************************************************************
 
 
-
-
 Falls noch nicht geschehen, vergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
+
+**Rechenart**
+
+Gib als Nomen (Addition, Subtraktion, Multiplikation und Division) an, um welche Rechenart es sich handelt.
+
+[[Division]]
+*************************************************************
+
+
+Schreibe den Merksatz in dein Heft.
+
+> Bei Brüchen müssen wir dividieren.
+
+*************************************************************
+
 
 
 # Haftung für Links
