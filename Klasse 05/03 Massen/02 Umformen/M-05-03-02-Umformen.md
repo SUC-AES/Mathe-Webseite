@@ -47,7 +47,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
 Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
-![image](graphics/2_Kitty_S13N2.png)  
+![image](../graphics/2_Kitty_S13N2.png)  
 
 >  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
 
@@ -94,7 +94,7 @@ Du kannst dir die Lösungen nacheinander anzeigen lassen. Drücke dafür oben au
 {{1-2}}
 ********************************
 
-![image](graphics/2_Kitty_S14N1.png)
+![image](../graphics/2_Kitty_S14N1.png)
 
 ********************************
 
@@ -102,7 +102,7 @@ Du kannst dir die Lösungen nacheinander anzeigen lassen. Drücke dafür oben au
 {{2-3}}
 ********************************
 
-![image](graphics/2_Kitty_S14N2.png)
+![image](../graphics/2_Kitty_S14N2.png)
 
 ********************************
 
