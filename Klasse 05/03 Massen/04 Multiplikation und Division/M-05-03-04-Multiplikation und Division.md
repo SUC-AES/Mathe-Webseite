@@ -264,7 +264,7 @@ Gib als Nomen (Addition, Subtraktion, Multiplikation und Division) an, um welche
 
 Schreibe den Merksatz in dein Heft.
 
-> Bei Brüchen müssen wir dividieren.
+>Bruch bedeutet Division.
 
 *************************************************************
 
