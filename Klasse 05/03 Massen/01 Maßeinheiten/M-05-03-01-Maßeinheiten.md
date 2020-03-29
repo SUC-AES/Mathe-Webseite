@@ -15,7 +15,7 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
-[Massen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/M-05-03-Massen.md#1). Hier findest du auch den täglichen Term.
+[Massen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/M-05-03-Massen.md#1).
 
 [01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/01%20Ma%C3%9Feinheiten/M-05-03-01-Ma%C3%9Feinheiten.md#2)
 
