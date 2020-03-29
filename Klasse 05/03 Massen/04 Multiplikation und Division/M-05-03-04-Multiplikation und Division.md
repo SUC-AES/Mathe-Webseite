@@ -251,6 +251,7 @@ Schreibe die Textaufgaben in dein Heft. Du kannst direkt nach jeder Aufgabe rech
 
 Falls noch nicht geschehen, vergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
 
+
 **Rechenart**
 
 Gib als Nomen (Addition, Subtraktion, Multiplikation und Division) an, um welche Rechenart es sich handelt.
@@ -265,6 +266,58 @@ Schreibe den Merksatz in dein Heft.
 
 *************************************************************
 
+### Brüche umschreiben
+
+Übernimm nun folgenden Bruch in dein Heft und lerne die Namen der Zahlen auswendig. Du wirst sie nächstes Jahr benötigen.
+
+> ![image](../graphics/4_Bruch_3_4_kg.png)
+
+**Beschreibung der Vorgehensweise**
+
+Lies dir die Vorgehensweise genau durch und schreibe die nächsten Zeilen in dein Heft. Gib dann das Endergebnis ein und überprüfe deinen Rechenweg.
+
+*1. Schreibe den Bruch als Division. Dafür musst du die Einheit hinter die Zahl im Zähler schreiben und anstelle des Bruchs ein geteilt ":" schreiben.*
+
+Starte mit
+
+> $$
+  \begin{aligned}
+    \frac 3 4 kg & =... \\
+    & =... \\
+    & =... \\
+    & =...\\
+  \end{aligned}
+  $$
+
+
+Schreibe ab dem 2. Punkt in die nächste Zeile. Wenn du möchtest, kannst du es auch zuerst auf ein Schmierpapier schreiben und erst am Ende nach dem Überprüfen in dein Heft übertragen.
+
+*2. Forme die Masse in eine kleinere Einheit um.*
+
+*3. Berechne nun die neue Masse.*
+
+*4. Forme in die ursprüngliche Einheit um.*
+
+Gib nun an, wie viele kg du am Ende berechnet hast:
+
+[[0,75]]
+*************************************************************
+
+
+In deinem Heft sollte folgender Rechenweg stehen:
+
+> $$
+  \begin{aligned}
+    \frac 3 4 kg  & = 3 kg : 4 \\
+     & = 3.000 g : 4 \\
+     & = 750 g \\
+     & = 0,75 kg \\
+  \end{aligned}
+$$
+
+Wenn du möchtest, kannst du hinter die einzelnen Schritte die Vorgehensweise schreiben.
+
+*************************************************************
 
 
 # Haftung für Links
