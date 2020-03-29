@@ -232,6 +232,130 @@ $$
         ***********************************************************************
 
 
+### Woche 3
+
+**Tag 1 - Montag**
+
+    Berechne den Term und gib das Ergebnis an.
+    $ [( 21 - 16 ) \cdot 18 -27] : ( 38-29 ) $
+
+    [[7]]
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &[( 21 - 16 ) \cdot 18 -27] : ( 38-29 ) \\
+    = & [5 \cdot 18 - 27] : 9 \\
+    = & [90 -27 ] : 9 \\
+    = & 63 : 9 \\
+    = & 7
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+    $ [11 \cdot ( 52 - 6^2) - 171 ]^3 $
+
+    [[125]]
+    [[?]] Denke an Kla Po Pu Stri
+    [[?]] Berechne zuerst $6^2$
+    [[?]] Rechne danach die Klammer bevor du $[ ... ]^3$ rechnen kannst
+    [[?]] $ 5^3 = 5 \cdot 5 \cdot 5$
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &[11 \cdot ( 52 - 6^2) - 171 ]^3 \\
+    = & [11 \cdot (52 - 36) - 171 ]^3 \\
+    = & [11 \cdot 16 - 171 ]^3 \\
+    = & [176 - 171 ]^3 \\
+    = & 5^3 \\
+    = & 125
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+    Berechne den Term und gib das Ergebnis an.
+    $ 17 \cdot  ( 94 - 87 ) + 196 : (31-17) $
+
+    [[133]]
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &17 \cdot  ( 94 - 87 ) + 196 : (31-17) \\
+    = & 17 \cdot 7 + 196 : 14 \\
+    = & 119 + 14 \\
+    = & 133
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
+**Tag 4 - Donnerstag**
+
+    Berechne den Term und gib das Ergebnis an.
+    $ (1000 - 744) : ( 27 - 5 \cdot 5 )^6 $
+
+    [[4]]
+    [[?]] Denke an Kla Po Pu Stri
+    [[?]] Rechne zuerst die Klammer bevor du $( ... )^6$ rechnen kannst
+    [[?]] $ 2^6 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2$
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &(1000 - 744) : ( 27 - 5 \cdot 5 )^6 \\
+    = & 256 : ( 27 - 25 )^6 \\
+    = & 256 : 2^6 \\
+    = & 256 : 64 \\
+    = & 4
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
+**Tag 5 - Freitag**
+
+    Berechne den Term und gib das Ergebnis an.
+    $ 3 \cdot ( 100 - 7 \cdot 12 ) - 3 \cdot 14 $
+
+    [[6]]
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+    \quad &3 \cdot ( 100 - 7 \cdot 12 ) - 3 \cdot 14 \\
+    = & 3 \cdot ( 100 - 84 ) - 42 \\
+    = & 3 \cdot 16 - 42 \\
+    = & 48 - 42 \\
+    = & 6
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
 
 ##Haftung für Links
 
