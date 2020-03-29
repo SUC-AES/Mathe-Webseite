@@ -28,7 +28,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 [05 Übungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/05%20%C3%9Cbungen/M-05-05-05-%C3%9Cbungen.md#2)
 
 
-##4. Multiplikation und Division
+# Multiplikation und Division
 
 Schreibe die Überschrift in dein Heft
 
@@ -52,7 +52,7 @@ Schreibe auch folgende Beispiele in dein Heft:
 
 Bei der Aufgaben 1a und 1f sind die Lücken für den korrekten Rechenweg inklusive Umformungen vorgesehen.
 
-###Musterlösung Kitty S. 18 Nr. 1
+## Musterlösung Kitty S. 18 Nr. 1
 
 Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an und klicke danach auf den oberen, rechten Pfeil.
 
@@ -75,7 +75,7 @@ Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 ********************************************************************************
 
-###Weitere Aufgaben
+## Weitere Aufgaben
 
 Heute ist ein Übungstag.
 
@@ -197,6 +197,11 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bil
 ********************************************************************************
 
 
-##Haftung für Links
+## Brüche
+
+
+
+
+# Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
