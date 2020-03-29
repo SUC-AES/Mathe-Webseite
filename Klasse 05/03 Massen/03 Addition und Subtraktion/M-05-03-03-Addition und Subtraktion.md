@@ -29,7 +29,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
 
 
-##3. Addition und Subtraktion
+# Addition und Subtraktion
 
 Schreibe die Überschrift in dein Heft
 
@@ -42,7 +42,7 @@ Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen 
 **Bearbeite nun Im Kittyheft auf der Seite 17 die Nummer 1.**
 
 
-###Musterlösung Kitty S. 17 Nr. 1
+##Musterlösung Kitty S. 17 Nr. 1
 
 Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an und klicke danach auf den oberen, rechten Pfeil.
 
@@ -65,7 +65,7 @@ Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 ********************************************************************************
 
-###Weitere Aufgaben
+##Weitere Aufgaben
 
 Du hast bereits den Merksatz in dein Heft geschrieben. Übernimm nun auch folgende Beispiele in dein Heft.
 
@@ -75,7 +75,7 @@ Du hast bereits den Merksatz in dein Heft geschrieben. Übernimm nun auch folgen
 
 **Bearbeite nun im Kittyheft auf der Seite 17 von der Aufgabe 2 und 3 jeweils die erste Spalte**
 
-### Musterlösung Kitty S. 17 Nr. 2,3
+## Musterlösung Kitty S. 17 Nr. 2,3
 
 Wenn du die Aufgabe gelöst hast, vergleiche deine Ergebnisse, indem du oben auf die Pfeile klickst, und berichtige deine Fehler.
 
@@ -109,7 +109,7 @@ Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 3
 
 [Subtraktion](http://www.realmath.de/Neues/Klasse5/masse/massensub4.html)
 
-###Übungen
+##Übungen
 
 Heute ist ein Übungstag.
 
@@ -123,7 +123,7 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Au
 
 **Bearbeite nun mindestens eine (freiwillige alle) Textaufgaben im Kittyheft auf der Seite 17**
 
-###Musterlösungen KittyS. 17 Nr. 4,5,6
+##Musterlösungen KittyS. 17 Nr. 4,5,6
 
 Vervollständige zuerst die Antwortsätze, die auch so oder ähnlich bei dir im Heft stehen sollten.
 
@@ -215,6 +215,6 @@ Mias Schulranzen wiegt 890 g. Ihre Bücher 1,3 kg, das Mäppchen 260 g, das Paus
 
 
 
-##Haftung für Links
+#Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
