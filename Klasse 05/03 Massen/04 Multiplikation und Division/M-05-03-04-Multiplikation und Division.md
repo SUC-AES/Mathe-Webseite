@@ -199,14 +199,54 @@ An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail mit einem Bil
 
 ## Brüche
 
-Schreibe die Überschrift und die Textaufgaben in dein Heft
+Schreibe die Überschrift in dein Heft
 
->3.5 Brüche
->    • Deine Mutter kauft 2,4 kg Hackfleisch beim Metzger. Ein Viertel davon kommt in die Bolognese-Soße. Wie viel Hackfleisch kommt in die Soße?
->    • Ihr macht Nudeln auf Vorrat selber und möchtet davon einen Teil davon trocknen. Die 1,35 kg Nudeln verlieren beim Trocknen ein Drittel ihrer Masse. Wie viel Gramm verlieren die Nudeln?
->    • Für ein Familienfest kauft ihr 3 kg Eiscreme. Diese soll auf 15 Familienmitglieder aufgeteilt werden. Wie viel Eiscreme erhält jedes Familienmitglied?
+> 3.5 Brüche
 
-Löse die Aufgaben, vergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
+Schreibe die Textaufgaben in dein Heft. Du kannst direkt nach jeder Aufgabe rechnen. Vergleiche dann jeweisl dein Ergebnis und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
+
+**Aufgabe 1**
+
+> Deine Mutter kauft 2,4 kg Hackfleisch beim Metzger. Ein Viertel davon kommt in die Bolognese-Soße. Wie viel Gramm Hackfleisch kommt in die Soße?
+
+> [[600]]
+*************************************************************
+
+
+> 2,4 kg : 4 = 2 400 g : 4 = 600 g
+
+*************************************************************
+
+
+**Aufgabe 2**
+
+> Ihr macht Nudeln auf Vorrat selber und möchtet davon einen Teil davon trocknen. Die 1,35 kg Nudeln verlieren beim Trocknen ein Drittel ihrer Masse. Wie viel Gramm verlieren die Nudeln?
+
+> [[450]]
+*************************************************************
+
+
+> 1,35 kg : 3 = 1 350 g : 3 = 450 g
+
+*************************************************************
+
+
+**Aufgabe 3**
+
+> Für ein Familienfest kauft ihr 3 kg Eiscreme. Diese soll auf 15 Familienmitglieder aufgeteilt werden. Wie viel Kilogramm Eiscreme erhält jedes Familienmitglied?
+
+> [[0,2]]
+*************************************************************
+
+
+> 3 kg : 15 = 3 000 g : 15 = 200 g = 0,2 kg
+
+*************************************************************
+
+
+
+
+Falls noch nicht geschehen, vergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
 
 
 # Haftung für Links
