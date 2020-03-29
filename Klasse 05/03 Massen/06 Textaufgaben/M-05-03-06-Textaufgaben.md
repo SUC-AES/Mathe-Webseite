@@ -27,21 +27,17 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
 [05 Übungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/05%20%C3%9Cbungen/M-05-05-05-%C3%9Cbungen.md#2)
 
+[06 Textaufgaben](https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/06%20Textaufgaben/M-05-03-06-Textaufgaben.md)
 
 
-# Umformen
+
+# Textaufgaben
 
   Schreibe die Überschrift in dein Heft
 
->  **~~3.2 Umformen~~**
+>  **~~3.6 Textaufgaben~~**
 
-  Du kennst die Einheitentabelle bereits von den Längen.
 
-  Für die Umrechnungszahl 1.000 hat jede Masseneinheit drei Spalten.
-
-  **Löse nun im Kittyheft auf Seite 13 die Aufgabe 2**
-
-  Wenn du damit fertig bist, gehe zur [nächsten Seite](#11)
 
 ##Musterlösung Kitty S. 13 Nr.2
 
