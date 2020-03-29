@@ -207,7 +207,7 @@ Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kan
 {{1}}
 ***********************************
 
-[Musterlösung - PDF](https://github.com/SUC-AES/Mathe-Webseite/blob/master/Klasse%2005/03%20Massen/Datei/2_2_Kitty_S15.pdf)
+[Musterlösung - PDF](https://github.com/SUC-AES/Mathe-Webseite/raw/master/Klasse%2005/03%20Massen/Datei/2_2_Kitty_S15.pdf)
 
 ***********************************
 
