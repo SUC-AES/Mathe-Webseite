@@ -310,6 +310,22 @@ In der Mail sollten dann deine Punkte stehen. Du darfst aber auch gerne eine Rü
 ********************************
 
 
+##Musterlösung Kitty S. 19
+
+Bearbeite im Kittyheft auf Seite 19 alle Aufgaben.
+
+ergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
+
+
+{{1-2}}
+******************************
+
+
+[Musterlösung Kittyheft S. 19](https://github.com/SUC-AES/Mathe-Webseite/raw/master/Klasse%2005/03%20Massen/Datei/5_Kitty_S19.pdf)
+
+******************************
+
+
 
 ##Haftung für Links
 
