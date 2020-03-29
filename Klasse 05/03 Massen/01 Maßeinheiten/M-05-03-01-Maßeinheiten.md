@@ -207,7 +207,7 @@ Klicke oben auf den rechten Pfeil im blauen Balken. So erhältst du die erste Au
 
   Wenn du den Kasten und die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
-![image](graphics/1_Kitty_S13N1.png)
+![image](../graphics/1_Kitty_S13N1.png)
 
 
 

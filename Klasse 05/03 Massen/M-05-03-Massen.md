@@ -45,7 +45,9 @@ Wenn ihr Fragen habt, könnt ihr auch eine Mail an eure Mathematik-Lehrerin schr
 
 Liebe Grüße, bleibt alle gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!
 
-Für die Mathematik-Lehrerinnen *Frau Suckfüll*
+Für die Mathematik-Lehrerinnen
+
+ *Frau Suckfüll*
 
 
 ## Übersicht über das Thema *Massen*
@@ -373,8 +375,6 @@ $$
         ***********************************************************************
 
 
-Weiter geht es bei den Massen mit dem Thema
-[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/01%20Ma%C3%9Feinheiten/M-05-03-01-Ma%C3%9Feinheiten.md#2).
 
 
 ##Haftung für Links
