@@ -328,6 +328,18 @@ ergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berich
 ******************************
 
 
+##Weitere Links
+
+Wenn du möchtest, findest du auf folgenden Webseiten weitere Text- oder  auch Knobelaufgaben zu Massen:
+
+[Urlaubskoffer](http://www.realmath.de/Neues/Klasse5/gewicht/urlaubskoffer.html)
+
+[Urlaubskoffer 2](http://www.realmath.de/Neues/Klasse5/gewicht/urlaubskoffer2.html)
+
+[Kistenmassen](http://www.realmath.de/Neues/Klasse5/masse/kistenmasse.html)
+
+
+
 
 #Haftung für Links
 
