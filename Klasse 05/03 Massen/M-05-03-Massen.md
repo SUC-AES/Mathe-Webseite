@@ -5,7 +5,7 @@ language: de
 narrator: German Female
 script: url.js
 
-View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
+View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/M-05-03-Massen.md#1
 -->
 
 # Massen - Jahrgang 5
