@@ -28,7 +28,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 [05 Übungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/05%20%C3%9Cbungen/M-05-05-05-%C3%9Cbungen.md#2)
 
 
-## 1. Maßeinheiten
+# Maßeinheiten
 
 Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
 
@@ -53,7 +53,7 @@ Die größte Einheit ist die Tonne. Danach folgen, so wie du es von den Längen 
 
 ***********************************************************************
 
-###Pfeilbild
+## Pfeilbild
 
 Du sollst nun in dein Heft das Pfeilbild zum Umrechnen zwischen den Einheiten übernehmen. Wenn du möchtest, kannst du dir dazu erst dieses [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=fxD5937olmU) anschauen. Lehrer Schmidt erklärt dir auch gleich einfache Umrechnungen, wobei er aber schon mit Kommas arbeitet.
 
@@ -98,7 +98,7 @@ $$
 ***********************************************************************
 
 
-###Aussagen zu den einfachen Umformungen
+##Aussagen zu den einfachen Umformungen
 
 {{0-1}}
 **********************
@@ -203,7 +203,7 @@ Klicke oben auf den rechten Pfeil im blauen Balken. So erhältst du die erste Au
 **********************
 
 
-###Musterlösung Kitty S. 13 Nr. 1
+##Musterlösung Kitty S. 13 Nr. 1
 
   Wenn du den Kasten und die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
@@ -211,6 +211,6 @@ Klicke oben auf den rechten Pfeil im blauen Balken. So erhältst du die erste Au
 
 
 
-##Haftung für Links
+#Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
