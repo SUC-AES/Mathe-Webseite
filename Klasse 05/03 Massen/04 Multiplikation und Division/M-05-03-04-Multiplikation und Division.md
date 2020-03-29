@@ -504,6 +504,11 @@ $$
 *************************
 
 
+## Musterlösung Kitty S. 18 Nr. 4
+
+Vergleiche deine Ergebnisse und deinen Rechenweg mit der Musterlösung und berichtige deine Fehler.
+
+![image](../graphics/4_Kitty_S18N4.png)
 
 # Haftung für Links
 
