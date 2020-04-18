@@ -30,16 +30,6 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 [06 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/06%20Textaufgaben/M-05-03-06-Textaufgaben.md#1)
 
 
-#Maßeinheiten
-
-$$ \begin{aligned}
-1 y & = ...................... & d & = ...................... & h & = ...................... & min & = ...................... s \\
-1 d & = ...................... & h & = ...................... & min & = ...................... & s & \\
-1 h & = ...................... & min & = ...................... & s & & & \\
-1 min & = ...................... & s & & & & & \\
-\end{aligned} $$
-
-
 
 # Umformen
 
