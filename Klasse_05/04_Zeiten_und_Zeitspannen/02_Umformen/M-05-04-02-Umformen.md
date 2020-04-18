@@ -62,13 +62,26 @@ Beachte bei diesen Umrechnungen, dass die Division in der *Nebenrechnung (NR)* d
 
 Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-  {{1-2}}
-  ********************************
+{{1-2}}
+********************************
 
-blub
-  ![image]()
 
-  ********************************
+1) Gib mit gemischten Einheiten an:
+
+$$
+\begin{aligned}
+&a) \quad & 100 ~s &	= 1 ~min ~40 ~s & \\
+&b) & 1.000 ~s &	=            ~min           ~s & \\
+&c) & 10.000 s	& =            ~min             ~s && =   ~h            ~min            ~s \\ \\
+&e) & 100 ~min &	= 1 ~h ~40 ~min & \\
+&f) & 1.000 ~min &	= 16 ~h ~40 ~min & \\
+&g) & 10.000 ~min & = 166 ~h ~40 ~min && = ~6 ~d ~22 ~h ~40 ~min \\ \\
+&i) & 100 h 	= ~4 ~d ~4 ~h & \\
+&j) & 1.000 h 	= ~41 ~d ~16 ~h &
+\end{aligned}
+$$
+
+********************************
 
 # Umformen in die kleinere Einheit
 
@@ -77,14 +90,43 @@ Diese Umformung scheint leichter, du musst nur multiplizieren. Allerdings ist be
 
 Du musst die größere Einheit in die kleinere umformen und danach beide Zeitspannen addieren. Richtig sieht es so aus:
 
->
+> $$
+\begin{aligned}
+&1 min ~5 s &&= 60 s + 5 s &&= 65 ~s \\
+&3 h ~27 min &&= 180 ~min + 27 min &&= 207 ~min \\
+&12 d ~5 h &&= 12 · 24 h + 5 h &&= 288 h + 5 h &&= ~293~h \\
+&2 h ~3 min ~5 s &&= 120 min + 3 min ~5 s &&= 123 min ~5 s &&= 7380 s+ 5 s &&= 7385 s
+\end{aligned}
+$$
 
 
 ##Übungen 2
 
   **Bearbeite nun im Kittyheft auf der Seite 26 die Nummer 2 a-f.**
 
-  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
+  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
+
+{{1-2}}
+********************************
+
+$$
+\begin{aligned}
+&a) \quad & 1 min ~1 s &= 60 s + 1 s &&= 61 s \\
+&b) & 1 h ~1 min &= 60 min + 1 min &&= 61 min \\
+&c) & 1 d ~1 h &= 24 h + 1 h &&= 25 h \\
+&d) & 1 h ~1 min ~1 s &= 60 min +1 min +1 s &&= 61 min +1 s &&= 3660 s +1 s &&= 3661 s \\
+&e) & 1 d ~1 h ~1 min & = 24 h +1 h +1 min &&= 25 h +1 min &&= 1500 min + 1 min &&= 1501 min \\
+&f) & 1 d ~2 h ~3 min &= 24 h +2 h +3 min &&= 26 h +3 min &&= 1560min + 3 min &&= 1563 min
+\end{aligned}
+$$
+
+********************************
+
+#Restliche Übungen Seite 26
+
+  **Bearbeite nun im Kittyheft auf der Seite 26 die Nummern 1 dhk und 2 g-k.**
+
+  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
     {{1-2}}
     ********************************
@@ -94,20 +136,21 @@ Du musst die größere Einheit in die kleinere umformen und danach beide Zeitspa
 
     ********************************
 
-## Restliche Übungen Seite 26
+#Übungen Seite 27
 
-  **Bearbeite nun im Kittyheft auf der Seite 26 die Nummern 1 abc, efg, ij.**
+**Bearbeite nun im Kittyheft auf der Seite 27 die Nummern 1 und 2.**
 
-  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
+Wundere dich nicht, dass hier wieder Brüche auftauchen. Auch wenn du sie nicht verstanden hast, weißt du bestimmt was eine halbe Stunde $( \frac 1 2 h)$ ist.
 
-    {{1-2}}
-    ********************************
+Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-  blub
-    ![image]()
+  {{1-2}}
+  ********************************
 
-    ********************************
+blub
+  ![image]()
 
+  ********************************
 
 
 
