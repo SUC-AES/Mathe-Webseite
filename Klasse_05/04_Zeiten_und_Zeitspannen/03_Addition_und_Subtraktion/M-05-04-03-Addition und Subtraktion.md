@@ -8,10 +8,10 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
 -->
 
-# Massen - Jahrgang 5
+# Zeiten und Zeitspannen - Jahrgang 5
 
 
-**Übersicht über das Thema** ***Massen***
+**Übersicht über das Thema** ***Zeiten und Zeitspannen***
 
 Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
@@ -35,26 +35,52 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
 Schreibe die Überschrift in dein Heft
 
->  **~~3.3 Addition und Subtraktion~~**
+>  **~~4.3 Addition und Subtraktion~~**
 
-Wichtig ist auch folgender Merksatz, der unbedingt in rot in deinem Heft stehen sollte:
+Bei der Addition und Subtraktion könnt ihr, so wie ihr es bisher von den anderen Größen *Längen*, *Massen* und *Geldwerte* kennt, erst alles in die gemeinsame, kleinere Einheit umformen und danach addieren und subtrahieren. Das Ergebnis muss dann eventuell wieder zurück umgeformt werden.
 
-> **Um Massen zu addieren bzw. subtrahieren, müssen wir sie in die gleiche Einheit ohne Komma umformen.**
+**Alternativ** könnt ihr aber auch einheitenweise addieren und subtrahieren. Ihr müsst nur am Ende schauen, ob ihr eventuell bei eurem Ergebnis etwas verändern müsst.
 
-**Bearbeite nun Im Kittyheft auf der Seite 17 die Nummer 1.**
+Das hört sich vielleicht ungewohnt an, wenn ihr die Videos anschaut, versteht ihr aber bestimmt, was gemeint ist.
+
+VIDEO Addition  
+
+VIDEO Subtraktion
+
+Übernimm die Beispiele für Addition und Subtraktion in dein Heft.
+
+**Addition**
+
+> $$
+\begin{aligned}
+14 min ~17 s + 29 min ~49 s &= (840 s + 17 s) + ( 1740 s + 49 s) \\
+&= 857 s + 1789 s \\
+&= 2646 s \\
+& = 44 min 6 s \\ \\
+ODER\\ \\
+14 min ~17 s + 29 min ~49 s &= 43 min ~66 s \\
+&= 44 min ~6 s
+\end{aligned}
+$$
+
+**Subtraktion**
+
+> $$
+\begin{aligned}
+6h ~4min - 3h ~17min &= (360min + 4min ) - (180min 17min) \\
+&= 364min - 197min \\
+&= 167min \\
+&= 2h ~47min \\ \\
+ODER \\ \\
+6h ~4min - 3h ~17 min &= 5h ~64min - 3h ~17min \\
+&= 2h ~47min
+\end{aligned}
+$$
 
 
-##Musterlösung Kitty S. 17 Nr. 1
+##Übungen Seite 27
 
-Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN an und klicke danach auf den oberen, rechten Pfeil.
-
-{{0-1}}
-********************************************************************************
-
-
-[[JAGUAR]]
-
-********************************************************************************
+**Bearbeite nun im Kittyheft auf der Seite 27 die Nummer 3 a-f.**
 
 {{1-2}}
 ********************************************************************************
@@ -63,157 +89,29 @@ Wenn du die Aufgabe gelöst hast, gib nun dein Lösungswort in GROSSBUCHSTABEN a
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
 
-![image](../graphics/3_Kitty_S17N1.png)  
+Lösungen kommen noch
 
 ********************************************************************************
 
-##Weitere Aufgaben
+##Textaufgaben Seite 29
 
-Du hast bereits den Merksatz in dein Heft geschrieben. Übernimm nun auch folgende Beispiele in dein Heft.
+**Bearbeite nun im Kittyheft auf der Seite 29 die Aufgabe 3a.**
 
-> 3,4 kg + 832 g = 3 400 g + 832 g = 4 232 g = 4,232 kg
+> Viele Bücher werden inzwischen auch als Hörbücher veröffentlicht. Ein Buch wird dabei auf mehreren CDs vorgelesen. Für das erste Buch der Harry Potter-Reihe „Harry Potter und der Stein der Weisen“ genügen noch 9 CDs die insgesamt 9 h 36 min dauern. Im Vergleich dazu werden für das letzte Buch „Harry Potter und die Heiligtümer des Todes“ 22 CDs mit einer Gesamtlaufzeit von 25 h und 40 min benötigt.
 
-> 0,04 t - 9 999 g = 40 000 g - 9 999 g = 30 001 g = 30,001 kg
-
-**Bearbeite nun im Kittyheft auf der Seite 17 von der Aufgabe 2 und 3 jeweils die erste Spalte**
-
-## Musterlösung Kitty S. 17 Nr. 2,3
-
-Wenn du die Aufgabe gelöst hast, vergleiche deine Ergebnisse, indem du oben auf die Pfeile klickst, und berichtige deine Fehler.
-
-{{1-2}}
-*************************************
-
-
-Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 2
-
-![image](../graphics/3_Kitty_S17N2.png)
-
-
-*************************************
-
-
-
-{{2-3}}
-*************************************
-
-
-Ergebnisse inklusive Rechenweg: Kittyheft S. 17 Nr. 3
-
-![image](../graphics/3_Kitty_S17N3.png)
-
-
-*************************************
-
-*Freiwillig: Wer möchte kann auf folgenden Seiten weitere Aufgaben üben. Mit dem Knopf "Neue Aufgabe stellen" erhältst du neue Rechnungen. Du siehst hier auch wunderbar den geforderten Rechenweg.*
-
-[Addition](http://www.realmath.de/Neues/Klasse5/masse/massenaddieren2.html)
-
-[Subtraktion](http://www.realmath.de/Neues/Klasse5/masse/massensub4.html)
-
-##Übungen
-
-Heute ist ein Übungstag.
-
-**Bearbeite im Kittyheft auf der Seite 17 in 25 Minuten so viele Aufgaben, wie du schaffst.**
-
-Dann vergleiche mit der [Musterlösung auf der vorherigen Seite](#5) und gib dir für jede Aufgabe einen Punkt. Berichtige auch deine Fehler.
-
-An die Klasse 5c: Schickt eurer Mathematiklehrerin bitte eine Mail, wie viele Aufgaben und wie viele Punkte ihr in der Zeit erarbeitet habt. Schickt ihr bitte auch ein Bild von euren letzten 6 Aufgaben. Betreff der Mail: "5c Vorname Nachname"
-
-
-
-**Bearbeite nun mindestens eine (freiwillige alle) Textaufgaben im Kittyheft auf der Seite 17**
-
-##Musterlösungen KittyS. 17 Nr. 4,5,6
-
-Vervollständige zuerst die Antwortsätze, die auch so oder ähnlich bei dir im Heft stehen sollten.
-
-Vergleiche danach deinen Rechenweg mit der Musterlösung (oben auf den rechten Pfeil klicken). Es ist wichtig, dass du alle nötigen Umformungen sauber in deinem Heft stehen hast.
-
-{{0-1}}
-*********************************************************************************
-
-**Kitty S. 17 Nr. 4**
-
-Lea macht Pralinen, indem sie 2 g Marzipan mit 0,3 g Marmelade bestreicht und mit 1,35 g Schokolade überzieht. Wie viel Gramm wiegt eine Praline?
-
-
-> Eine Praline wiegt ... g.
-
-> [[3,65]]
-***********************************************************************
-
-
-> Eine Praline wiegt 3,65 g.
-
-***********************************************************************
-
-**Kitty S. 17 Nr. 5**
-
-Paul möchte seinem Freund Bücher schicken. Die Bücher wiegen 458 g, 460g und 1,03 kg. Wie viel
-Gramm Süßigkeiten kann er noch dazulegen, wenn das Päckchen maximal 2 kg wiegen darf?
-
-
-> Er darf noch ... g dazulegen.
-
-> [[52]]
-***********************************************************************
-
-
-> Er darf noch 52 g dazulegen.
-
-
-***********************************************************************
-
-
-**Kitty S. 17 Nr. 6**
-
-Paul möchte seinem Freund Bücher schicken. Die Bücher wiegen 458 g, 460g und 1,03 kg. Wie viel
-Gramm Süßigkeiten kann er noch dazulegen, wenn das Päckchen maximal 2 kg wiegen darf?
-
-Mias Schulranzen wiegt 890 g. Ihre Bücher 1,3 kg, das Mäppchen 260 g, das Pausenbrot 95 g und die Wasserflasche 0,7 kg.
-
-(a) Wie viel Kilogramm wiegt der gepackte Ranzen?
-
-(b) Um wie viel Gramm überschreitet der Ranzen das empfohlene Maximalgewicht von 2,8 kg?
-
-
-> (a) Der gepackte Ranzen wiegt ... kg.
-
-> [[3,245]]
-***********************************************************************
-
-
-> (a) Der gepackte Ranzen wiegt 3,245 kg.
-
-
-***********************************************************************
-
-> (b) Der Ranzen überschreitet das empfohlene Maximalgewicht um ... g.
-
-> [[445]]
-***********************************************************************
-
-
-> (b) Der Ranzen überschreitet das empfohlene Maximalgewicht um 445 g.
-
-
-***********************************************************************
-
-*********************************************************************************
+> (a) Wie viel länger ist der letzte Band gegenüber des ersten? Gib das Ergebnis mit gemischten Einheiten an.
 
 
 {{1-2}}
-***********************************************************************
+********************************************************************************
 
 
-![image](../graphics/3_Kitty_S17N4_5_6.png)
-
-***********************************************************************
+Vergleiche hier deinen Rechenweg und berichtige deine Fehler.
 
 
+Lösung kommen noch
 
+********************************************************************************
 
 
 
