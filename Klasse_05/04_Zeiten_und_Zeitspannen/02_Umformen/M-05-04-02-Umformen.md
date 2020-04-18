@@ -128,13 +128,33 @@ $$
 
   Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-    {{1-2}}
-    ********************************
+{{1-2}}
+********************************
 
-  blub
-    ![image]()
+**Aufgabe 1**
 
-    ********************************
+$$
+\begin{aligned}
+&d) \quad & 100.000~s &= min~s &&= h~min ~s &&= d~ h~ min~ s~ \\
+&h) & 100.000 min	&= 1.666 h ~40 min &&= 69 d ~10 h ~40 min \\
+&k) & 10.000 h 	&= 416 d ~16 h &&= 1 a ~51 d ~16 h
+\end{aligned}
+$$
+
+**Aufgabe 2**
+
+$$
+\begin{aligned}
+&g) & 4 d ~5 h ~6 min &= 96 h + 5 h +6 min &&= 101 h + 6 min &&= 6066 min\\
+&h) & 7 d ~8 h ~9 min &= 168 h + 8h + 9 min &&= 176 h +9 min &&= 10560 min +9 min &&= 10569 min\\
+&i) & 9 h ~8 min~ 7 s &= 540 min +8 min +7 s &&= 548 min +7 s && =32887 s \\
+&j) & 6 h ~5 min~ 4 s &= 360 min +5 min +4 s &&= 365 min +4 s &&= 21900 s +4 s &&= 21904 s \\
+&k) & 3 h ~2 min ~1 s &= 180 min + 2 min + 1 s &&= 182 min +1 s &&= 10920 s + 1s &&= 10921 s
+\end{aligned}
+$$
+
+
+********************************
 
 #Übungen Seite 27
 
@@ -147,8 +167,8 @@ Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach 
   {{1-2}}
   ********************************
 
-blub
-  ![image]()
+kommt noch
+
 
   ********************************
 
