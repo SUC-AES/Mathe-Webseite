@@ -8,55 +8,24 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/M-05-03-Massen.md#1
 -->
 
-# Massen - Jahrgang 5
+# Zeiten und Zeitspannen - Jahrgang 5
 
-Diese Seite wurde im Zuge der Schulschließung wegen des Corona-Virus für die Schülerinnen und Schüler des fünften Jahrgang der Albert-Einstein-Schule entwickelt.
+Diese Seite ist an das schulinterne Arbeitsheft "Kitty" der Albert-Einstein-Schule in Maintal angelehnt, auf welches in regelmäßigen Abständen immer wieder verwiesen wird. Sie soll euch helfen, das Thema **Zeiten und Zeitspannen** besser zu verstehen. Das Thema ist thematisch so, wie im Arbeitsheft unterteilt.
 
-Sie lehnt sich an unser schuleigenes Arbeitsheft "Kitty" für Größen an. Mit dieser Seite können unsere Schülerinnen und Schüler in der Zeit bis zu den Osterferien das Thema **Massen** bearbeiten.
+Auf der nächsten Seite findet ihr die direkten Links zu den einzelnen Unterseiten.
 
-Neben der Aufteilung des Themas in kleinere Abschnitt mit Aufgabenblöcken für vier Tage in der Woche, können hier auch die Rechenwege zu den Aufgaben im Kitty-Heft eingesehen werden.
-
-
-
-# Liebe Eltern
-
-Zusätzlich zu den Mails erhalten Sie den Arbeitsauftrag für die nächsten drei Wochen auch auf diesem Weg. Die Kinder haben noch keine Ferien und sollen in den einzelnen Fächern an den Themen weiterarbeiten.
-
-In Mathematik sollen sie zuerst den Wochenplan "Geldwerte" beenden. Für die darauffolgende Tage erhalten die Kinder einen Arbeitsauftrag zum Thema "Massen". Ich werde es in kleinere Teile aufteilen, sodass die Kinder jeden Tag der Woche daran arbeiten können. Natürlich können sich die Kinder die Zeit anders einteilen. Sie sollten dennoch darauf achten, dass sie für einen größeren Lernerfolg jede Woche in Mathematik Aufgaben lösen. Inwieweit am Ende eine Lernkontrolle in Form eines Testes oder eine andere Notengebung erfolgt, steht noch nicht fest. Dennoch sollten die Kinder mit einem kleinen Test rechnen.
-
-Auf ein gutes Gelingen!
-
-*Susanne Suckfüll*
+Zusätzlich findet ihr zu jedem Tag der Woche einen täglichen Term. Mit diesem könnt ihr jeden Tag beginnen, um so euren Tag zu starten. Die Termschreibweise ist elementar in der Mathematik. Deswegen solltet ihr immer euren Rechenweg mit der Musterlösung vergleichen.
 
 
-# Liebe Schülerinnen und Schüler des fünften Jahrgangs
-
-Leider werden wir uns erst nach den Osterferien wiedersehen. Das auf Grund einer Pandemie die Schulen geschlossen bleiben, gab es bisher nicht in diesem Ausmaß. Allerdings heißt das für euch nicht, dass ihr jetzt fünf Wochen Osterferien habt. Ihr sollt trotzdem in den Themen der unterschiedlichen Fächer weiterarbeiten.
-
-Es ist bestimmt ungewohnt für euch, morgens mit dem Wecker aufzustehen und dann nicht in die Schule zu geben. Dennoch ist es wichtig, dass ihr eine gewisse Routine für zu Hause entwickelt, damit ihr motiviert an die Schularbeiten geht. Stellt weiterhin den Wecker, auch wenn es etwas später ist, frühstückt und macht euch dann an die Schulaufgaben. Wie in der Schule selber, könnt ihr hier auch kleine Pausen einlegen, am besten aber ohne Bildschirme jeder Arte.
-
-In Mathematik bearbeitet ihr bitte bis Mittwoch den Wochenplan zum Thema "Geldwerte". Die Abgabe erfolgt dann nach den Osterferien. Zusätzlich sollt ihr in der Zeit bis zu den Osterferien das Thema "Massen" bearbeiten. Die Mathematiklehrerinnen der 5. Klasse arbeiten gemeinsam, um euch die Lösungen des Kitty-Heftes zur Verfügung zu stellen. Auch möchten wir euch diese Webseite hier zur Verfügung stellen, auf der ihr weitere Hilfen zur Bearbeitung des Themas erhaltet. Nutzt vorhandene Musterlösungen und Rechenwege, um eure Aufgaben zu vergleichen. Wir sind gerade am Aufbau der Webseite und werden sie regelmäßig erweitern.
-
-Ihr erhaltet für jeden Tag der Woche ein kleines Paket an Aufgaben. Ihr könnt sie euch natürlich auch anders einteilen, solltet sie aber immer in der Woche machen, die dafür vorgesehen war. Richtet euch auch darauf ein, dass ihr, wenn es eure Lehrerin darüber informiert hat, einen kleinen Test am Ende des Themas Massen schreibt. Wie genau das abläuft, erfahrt ihr nach den Ferien.
-
-Mit dieser Seite und dem Kitty-Heft habt ihr dann die Möglichkeit, das Thema **Massen** zu bearbeiten.
-
-Wenn ihr Fragen habt, könnt ihr auch eine Mail an eure Mathematik-Lehrerin schreiben. Wir hoffen, dass die Schul-Server bald wieder so stabil laufen, dass alle Mails ankommen.
-
-Liebe Grüße, bleibt alle gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!
-
-Für die Mathematik-Lehrerinnen
-
- *Frau Suckfüll*
 
 
-# Übersicht über das Thema *Massen*
+# Übersicht über das Thema *Zeiten und Zeitspannen*
 
 Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
-[Massen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/M-05-03-Massen.md#1)
+[Zeiten und Zeitspannen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#1)
 
-[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/01%20Ma%C3%9Feinheiten/M-05-03-01-Ma%C3%9Feinheiten.md#2)
+[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/01_MaBeinheiten/M-05-04-01-MaBeinheiten.md#2)
 
 [02 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/02%20Umformen/M-05-03-02-Umformen.md#2)
 
@@ -64,7 +33,7 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
 [04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/04%20Multiplikation%20und%20Division/M-05-03-04-Multiplikation%20und%20Division.md#2)
 
-[05 Übungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/05%20%C3%9Cbungen/M-05-05-05-%C3%9Cbungen.md#2)
+[05 Berechnen von Zeitdauern](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/05%20%C3%9Cbungen/M-05-05-05-%C3%9Cbungen.md#2)
 
 [06 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/06%20Textaufgaben/M-05-03-06-Textaufgaben.md#1)
 
@@ -88,74 +57,27 @@ Durch das Anklicken des eingekreisten i erhältst du das korrekte Ergebnis. Der 
 
 ## Woche 1
 
-**Tag 1 - Donnerstag**
 
-  Berechne den Term und gib das Ergebnis an:
-  $ ( 16+ 12 \cdot 4 ) : (3 \cdot 13 - 31  )$
-
-  [[8]]
-  ***********************************************************************
-
-
-
-  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-  $$
-\begin{aligned}
-\quad & ( 16+ 12 \cdot 4 )  : (3 \cdot 13 - 31  ) \\
-= & (16+48) : (39 -31) \\
-= & 64 : 8 \\
-= & 8
-\end{aligned}
-$$
-
-
-  ***********************************************************************
-
-  **Tag 2 - Freitag**
-
-    Berechne den Term und gib das Ergebnis an:
-
-    $ [100-(42-23) \cdot 5] \cdot (100-87) $
-
-    [[65]]
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &[100-(42-23) \cdot 5] \cdot (100-87) \\
-    = & [100 - 19 \cdot 5] \cdot 13  \\
-    = & [100 - 95] \cdot 13  \\
-    = & 5 \cdot 13 \\
-    = & 65
-    \end{aligned}
-    $$
-
-    ***********************************************************************
-
-
-## Woche 2
 
 **Tag 1 - Montag**
 
   Berechne den Term und gib das Ergebnis an:
-    $ (34 + 17) \cdot 3 + 57 : 19 - 69)$
 
-    [[87]]
+    $ (72 + 3 \cdot 16) : ( 3 \cdot 7 -17 )$
+
+    [[30]]
     ***********************************************************************
 
 
-  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-  $$
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
   \begin{aligned}
-  \quad  & (34 + 17) \cdot 3 + 57 : 19 - 69  \\
-  = & 51 \cdot 3 + 3 - 69 \\
-  = & 153 + 3 - 69 \\
-  = & 156 - 69 \\
-  = & 87
-  \end{aligned}
-  $$
+  \quad & (72 + 3 \cdot 16) : ( 3 \cdot 7 -17 ) \\
+  = & (72 + 48 ) : (21 - 17) \\
+  = & 120 : 4\\
+  = & 30
+\end{aligned}
+$$
 
 
     ***********************************************************************
@@ -164,213 +86,96 @@ $$
 **Tag 2 - Dienstag**
 
   Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
-  $ ( 111-3^3 ) : ( 62- 6 \cdot 8 ) $
 
-  [[6]]
-  [[?]] $ 3^3 = 3 \cdot 3 \cdot 3$
+  $ [10^2 - ( 18+13) \cdot 3 ] \cdot 19 $
+
+  [[133]]
+  [[?]] $ 10^2 = 10 \cdot 10$
   ***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+  \quad & [10^2 - ( 18+13) \cdot 3 ] \cdot 19 \\
+  = & [100 - 31 \cdot 3 ] \cdot 19 \\
+  = & [100 - 93 ] \cdot 19 \\
+  = & 7 \cdot 19 \\
+  = & 133
+\end{aligned}
+$$
+
+  ***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+    $ 84:( 5^2 - 52:4) + 99 $
+
+    [[106]]
+    [[?]] $ 5^2 = 5 \cdot 5$
+    ***********************************************************************
 
 
   Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
   $$
   \begin{aligned}
-  \quad &(111-3^3 ) : ( 62- 6 \cdot 8 ) \\
-  = & (111 - 27) : 14  \\
-  = & 84 : 14 \\
-  = & 6
+    \quad & 84:( 5^2 - 52:4) + 99 \\
+    = & 84:( 25 - 13) + 99 \\
+    = & 84 : 12 + 99 \\
+    = & 7 + 99 \\
+    = & 106
   \end{aligned}
   $$
 
-  ***********************************************************************
-
-
-**Tag 3 - Mittwoch**
-
-    Berechne den Term und gib das Ergebnis an.
-    $ [89 + 3 \cdot (  34 -17) ] \cdot (11 -7 ) $
-
-    [[560]]
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad & [89 + 3 \cdot (  34 -17) ] \cdot (11 -7 ) \\
-    = & [89 + 3 \cdot 17] \cdot 4  \\
-    = & [89 + 51] \cdot 4 \\
-    = & 140 \cdot 4 \\
-    = & 560
-    \end{aligned}
-    $$
 
     ***********************************************************************
 
 **Tag 4 - Donnerstag**
 
     Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
-    $ ( 61 - 15 \cdot 3) \cdot (57 : 19 )^2 $
 
-    [[144]]
+    $ [( 94-28 ):11 + 70 :5 ]^2 $
+
+    [[400]]
     [[?]] Denke an Kla Po Pu Stri
     [[?]] Rechne zuerst die Klammer bevor du $( ... )^2$ rechnen kannst
-    [[?]] $ 3^2 = 3 \cdot 3$
+    [[?]] $ 20^2 = 20 \cdot 20$
     ***********************************************************************
 
 
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &( 61 - 15 \cdot 3) \cdot (57 : 19 )^2 \\
-    = & (61 - 45) \cdot 3^2  \\
-    = & 16 \cdot 9 \\
-    = & 144
-    \end{aligned}
-    $$
+  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+  $$
+  \begin{aligned}
+    \quad & [( 94-28 ):11 + 70 :5 ]^2 \\
+    = & [ 66:11 + 14 ]^2 \\
+    = & [ 6 + 14 ]^2 \\
+    = & 20^2 \\
+    = & 400
+  \end{aligned}
+  $$
 
     ***********************************************************************
 
 **Tag 5 - Freitag**
 
     Berechne den Term und gib das Ergebnis an.
-    $ (202 - 144 : 6 ) :2 - ( 28 + 37 ) $
 
-    [[24]]
+    $ (99+24 \cdot 7) - ( 200:8 + 76 ) $
+
+    [[166]]
     ***********************************************************************
 
 
     Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
     $$
     \begin{aligned}
-    \quad & (202 - 144 : 6 ) :2 - ( 28 + 37 ) \\
-    = & (202 - 24):2 - 65  \\
-    = & 178 : 2 - 65 \\
-    = & 89 - 65 \\
-    = & 24
-    \end{aligned}
-    $$
-
-        ***********************************************************************
-
-
-## Woche 3
-
-**Tag 1 - Montag**
-
-    Berechne den Term und gib das Ergebnis an.
-    $ [( 21 - 16 ) \cdot 18 -27] : ( 38-29 ) $
-
-    [[7]]
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &[( 21 - 16 ) \cdot 18 -27] : ( 38-29 ) \\
-    = & [5 \cdot 18 - 27] : 9 \\
-    = & [90 -27 ] : 9 \\
-    = & 63 : 9 \\
-    = & 7
-    \end{aligned}
-    $$
-
-        ***********************************************************************
-
-
-**Tag 2 - Dienstag**
-
-    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
-    $ [11 \cdot ( 52 - 6^2) - 171 ]^3 $
-
-    [[125]]
-    [[?]] Denke an Kla Po Pu Stri
-    [[?]] Berechne zuerst $6^2$
-    [[?]] Rechne danach die Klammer bevor du $[ ... ]^3$ rechnen kannst
-    [[?]] $ 5^3 = 5 \cdot 5 \cdot 5$
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &[11 \cdot ( 52 - 6^2) - 171 ]^3 \\
-    = & [11 \cdot (52 - 36) - 171 ]^3 \\
-    = & [11 \cdot 16 - 171 ]^3 \\
-    = & [176 - 171 ]^3 \\
-    = & 5^3 \\
-    = & 125
-    \end{aligned}
-    $$
-
-        ***********************************************************************
-
-
-**Tag 3 - Mittwoch**
-
-    Berechne den Term und gib das Ergebnis an.
-    $ 17 \cdot  ( 94 - 87 ) + 196 : (31-17) $
-
-    [[133]]
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &17 \cdot  ( 94 - 87 ) + 196 : (31-17) \\
-    = & 17 \cdot 7 + 196 : 14 \\
-    = & 119 + 14 \\
-    = & 133
-    \end{aligned}
-    $$
-
-        ***********************************************************************
-
-
-**Tag 4 - Donnerstag**
-
-    Berechne den Term und gib das Ergebnis an.
-    $ (1000 - 744) : ( 27 - 5 \cdot 5 )^6 $
-
-    [[4]]
-    [[?]] Denke an Kla Po Pu Stri
-    [[?]] Rechne zuerst die Klammer bevor du $( ... )^6$ rechnen kannst
-    [[?]] $ 2^6 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2$
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &(1000 - 744) : ( 27 - 5 \cdot 5 )^6 \\
-    = & 256 : ( 27 - 25 )^6 \\
-    = & 256 : 2^6 \\
-    = & 256 : 64 \\
-    = & 4
-    \end{aligned}
-    $$
-
-        ***********************************************************************
-
-
-**Tag 5 - Freitag**
-
-    Berechne den Term und gib das Ergebnis an.
-    $ 3 \cdot ( 100 - 7 \cdot 12 ) - 3 \cdot 14 $
-
-    [[6]]
-    ***********************************************************************
-
-
-    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-    $$
-    \begin{aligned}
-    \quad &3 \cdot ( 100 - 7 \cdot 12 ) - 3 \cdot 14 \\
-    = & 3 \cdot ( 100 - 84 ) - 42 \\
-    = & 3 \cdot 16 - 42 \\
-    = & 48 - 42 \\
-    = & 6
+      \quad & (99+24 \cdot 7) - ( 200:8 + 76 ) \\
+      = & (99+ 168) - (25 + 76) \\
+      = & 267 - 101 \\
+      = & 166
     \end{aligned}
     $$
 

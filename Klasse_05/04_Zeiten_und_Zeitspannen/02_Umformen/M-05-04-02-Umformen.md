@@ -8,12 +8,12 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
 -->
 
-# Massen - Jahrgang 5
+# Zeiten und Zeitspannen - Jahrgang 5
 
 
-**Übersicht über das Thema** ***Massen***
+**Übersicht über das Thema** ***Zeiten und Zeitspannen***
 
-Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+Das Thema Zeiten und Zeitspannen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
 [Massen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse%2005/03%20Massen/M-05-03-Massen.md#1).
 
@@ -35,15 +35,26 @@ Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt 
 
   Schreibe die Überschrift in dein Heft
 
->  **~~3.2 Umformen~~**
+>  **~~4.2 Umformen~~**
 
-  Du kennst die Einheitentabelle bereits von den Längen.
+Eine Einheitentabellen, wie wir sie von den Längen, Massen und den Geldwerten kennen, gibt es für die Zeiten nicht. Wir müssen dividieren, um in größere Maßeinheiten um zu formen.  
 
-  Für die Umrechnungszahl 1.000 hat jede Masseneinheit drei Spalten.
+Übernehme folgenden Merksatz rot in dein Heft.
 
-  **Löse nun im Kittyheft auf Seite 13 die Aufgabe 2**
+> Zum Umformen einer Größe in die nächstgrößere Einheit dividieren wir die Maßzahl durch die Umrechnungszahl. Das Ergebnis schreiben wir mit der nächstgrößeren Einheit, den Rest mit der ursprünglichen Einheit.
 
-  Wenn du damit fertig bist, gehe zur [nächsten Seite](#11)
+Jetzt hast du zwar einen Merksatz, vielleicht ist dir aber nicht klar, was dieser bedeutet. Dazu kannst du dir das Video ansehen oder direkt das Beispiel abschreiben.
+
+
+Beachte bei diesen Umrechnungen, dass die Division in der *Nebenrechnung (NR)* durchgeführt werden müssen. Das Ergebnis und der Rest haben dann verschiedene Bedeutungen.
+
+Übernimm die Beispiele in dein Heft:
+
+> |Rechnung | Nebenrechnungen |
+> |$60 min = 1 h   $         | $NR:\quad 60 : 60 = 1$ |
+> |$67 min = 1 h 7 min $     | $NR:\quad 67 : 60 = 1 Rest 7$ |
+> |$60 h = 2 d 12 h  $       | $NR:\quad 60 : 24 = 2 Rest 12$ |
+> |$$ \begin{aligned} 2345 min & = 39 h 5 min \\ & = 1d15h5min \end{aligned} $$ | $$ \begin{aligned} NR1 \quad  & 2345 : 60 = 39 Rest 5 \\ NR2 \quad & 39 : 24 = 1 Rest 15 \end{aligned} $$  |
 
 ##Musterlösung Kitty S. 13 Nr.2
 
