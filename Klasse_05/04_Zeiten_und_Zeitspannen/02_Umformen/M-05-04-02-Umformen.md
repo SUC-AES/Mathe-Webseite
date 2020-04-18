@@ -31,7 +31,7 @@ Das Thema Zeiten und Zeitspannen setzt sich aus verschiedenen Teilen zusammen. D
 
 
 
-# Umformen
+# Umformen in die nächstgrößere Einheit
 
   Schreibe die Überschrift in dein Heft
 
@@ -56,194 +56,58 @@ Beachte bei diesen Umrechnungen, dass die Division in der *Nebenrechnung (NR)* d
 > |$60 h = 2 d 12 h  $       | $NR:\quad 60 : 24 = 2 Rest 12$ |
 > |$$ \begin{aligned} 2345 min & = 39 h 5 min \\ & = 1d15h5min \end{aligned} $$ | $$ \begin{aligned} NR1 \quad  & 2345 : 60 = 39 Rest 5 \\ NR2 \quad & 39 : 24 = 1 Rest 15 \end{aligned} $$  |
 
-##Musterlösung Kitty S. 13 Nr.2
+##Übungen 1
 
-Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+**Bearbeite nun im Kittyheft auf der Seite 26 die Nummer 1 abc, efg, ij.**
 
-![image](../graphics/2_Kitty_S13N2.png)  
+Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
->  **Damit hast du den Arbeitsauftrag für Woche 1 Tag 1 geschafft. Bis morgen!!**
+  {{1-2}}
+  ********************************
 
+blub
+  ![image]()
 
-##Umformungen mit Kommas
+  ********************************
 
-Vervollständige den Merksatz "Das Komma steht immer ...".
+# Umformen in die kleinere Einheit
 
-
-[[hinter dem Einer der angegebenen Einheit.]]
-***********************************************************************
-
-
-Schreibe den vollständigen Merksatz rot in dein Heft.
-
-> Das Komma steht immer hinter dem Einer der angegebenen Einheit.
+Diese Umformung scheint leichter, du musst nur multiplizieren. Allerdings ist bei gemischten Größen die korrekte Schreibweise sehr wichtig. Du weißt, dass deine Lehrer darauf großen Wert legen.  Daher kannst du dir wieder ein Video anschauen, in dem du die korrekte Schreibweise siehst. Danach sollten die Beispiele wieder in deinem Heft stehen
 
 
-***********************************************************************
+Du musst die größere Einheit in die kleinere umformen und danach beide Zeitspannen addieren. Richtig sieht es so aus:
 
-Dieser Merksatz erlaubt dir, wie bei den Längen die Massen in die Wertetabelle einzutragen. Wenn du möchtest, kannst du dir auch dazu wieder ein [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=GK_HE9ehFlY) anschauen. Er erklärt auch direkt, wie du die Masse in einer anderen Einheit angeben kannst.
-
-!?[movie](https://www.youtube.com/watch?v=GK_HE9ehFlY)
-
-Nur die letzte Aussage: "1,5 Tonnen sind 1,5 Millionen Gramm" würden wir verbessern:
-Schreibe die 1,5 t in g. (Beachte dabei zwischen den Dreierpäckchen und vor der Einheit ein Leezeichen zu schreiben. Z.B. "123 123 000 g")
-
-[[1 500 000 g]]
+>
 
 
-  **Bearbeite nun im Kittyheft auf der Seite 14 die Nummern 1 und 2.**
+##Übungen 2
 
+  **Bearbeite nun im Kittyheft auf der Seite 26 die Nummer 2 a-f.**
 
+  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-
-
-##Musterlösung Kitty S. 14
-
-Wenn du die Aufgabe gelöst hast, vergleiche hier deine Ergebnisse und berichtige deine Fehler.
-
-Du kannst dir die Lösungen nacheinander anzeigen lassen. Drücke dafür oben auf den Pfeil nach rechts.
-
-
-{{1-2}}
-********************************
-
-![image](../graphics/2_Kitty_S14N1.png)
-
-********************************
-
-
-{{2-3}}
-********************************
-
-![image](../graphics/2_Kitty_S14N2.png)
-
-********************************
-
-
-
-##Aussagen zum Umformungen
-
-{{0-1}}
-********************************
-Versuche diese Aufgabe zuerst ohne das Pfeilbild. Wenn du dir nicht sicher bist, kannst du es natürlich versuchen.
-
-Bei mehreren richtigen Antworten musst du alle markieren.
-********************************
-
-
-{{1-2}}
-********************************
-**Aussage 1**
-
-  Um eine Masse in der nächstgrößeren Einheit anzugeben, muss ich das Komma ... verschieben.
-
-
-    [( )] um eine Stelle nach rechts
-    [( )] um eine Stelle nach links
-    [( )] um zwei Stellen nach rechts
-    [(X)] um drei Stellen nach links
+    {{1-2}}
     ********************************
 
-{{2-3}}
-********************************
-**Aussage 2**
+  blub
+    ![image]()
 
-    Bei gemischten Schreibweisen muss ich beachten, dass ...
-
-
-    [[X]] jede Einheit drei Stellen besitzt.
-    [[X]] ich Lücken immer mit Nullen auffülle, solange sie nicht als letzte Stelle hinter dem Komma stehen.
-    [[X]] nach den Tonnen immer die Kilogramm kommen.
-    [[X]] die größte Einheit immer vorne steht.
     ********************************
 
-{{3-4}}
-********************************
-**Aussage 3**
+## Restliche Übungen Seite 26
 
-  Ich kann die Masse 3 783,54 kg auch als ... schreiben.
+  **Bearbeite nun im Kittyheft auf der Seite 26 die Nummern 1 abc, efg, ij.**
 
+  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-  [( )] 3 t 783 kg 54 g
-  [( )] 3,783054 t
-  [(X)] 3 783 540 g  
-  ********************************
+    {{1-2}}
+    ********************************
 
-{{4-5}}
-********************************
-**Aussage 4**
+  blub
+    ![image]()
 
-  Die Masse 42 kg 37 g ist ... 42,37 kg.
+    ********************************
 
-  [(X)] kleiner als
-  [( )] genauso groß wieder
-  [( )] größer als
-  ********************************
-
-{{5-6}}
-********************************
-**Aussage 5**
-
-  Um Milligramm in Tonnen umzurechnen, muss ich das Komma ... verschieben.
-
-  [( )] um drei Stellen nach links
-  [( )] um drei Stellen nach rechts
-  [(X)] um neun Stellen nach links
-  [( )] um neun Stellen nach rechts
-  [( )] gar nicht
-  ********************************
-
-{{6-7}}
-********************************
-**Aussage 6**
-
-  Wenn ich das Komma um sechs Stellen nach rechts verschiebe, wandle ich ...
-
-  [( )] Tonnen in Kilogramm um.
-  [(X)] Tonnen in Gramm um.
-  [( )] Milligramm in Gramm um.
-  [( )] Milligramm in Kilogramm um.
-
-
-  ********************************
-
-
-## Kitty S. 15
-
-
-**Bearbeite nun auf der Seite 15 im Kittyheft jeweils die erste Spalte der Aufgaben 1 bis 3. Notiere dir auch schon die Lösungsbuchstaben.
-
-Notiere dir auch die benötigte Zeit und gib dir für jede korrekte Antwort einen Punkt.**
-
-Du erkennst an den Lösungsbuchstaben, wenn du etwas falsch gemacht hast. Du kannst stattdessen aber auch oben auf den Pfeil drücke, um die Musterlösung der Seite 15 zu erhalten.
-
-{{1}}
-***********************************
-
-[Musterlösung - PDF](https://github.com/SUC-AES/Mathe-Webseite/raw/master/Klasse%2005/03%20Massen/Datei/2_2_Kitty_S15.pdf)
-
-***********************************
-
-
-
-##Checkliste
-
-
-**Bearbeite nun im Kittyheft auf Seite 22 die beiden Themen "Einheiten" und "Schreibweisen" der Checkliste und übe dann selbständig auf der Seite 15 das, was du nicht konntest. Vergleiche deine Ergebnisse mit der Musterlösung der [letzten Seite](#15).**
-
-
-*Freiwillig: Wer möchte kann folgende Arbeitsblätter ausdrucken und üben.*
-
-*Achtung: Am Mittwoch Abend waren diese Seiten nicht zu erreichen. Ich hoffe, sie gehen jetzt wieder.*
-
-[Mit Einheitentabelle - PDF](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grma/ma_gw_au.pdf)
-
-[Ohne Einheitentabelle - PDF](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grma/ma_kt1.PDF)
-
-
-> **Damit ist die erste Woche schon vorbei. Wir wünschen euch ein schönes Wochende!!
-
-> Bleibt gesund und verhaltet euch so, dass es auch eure Mitmenschen bleiben!!**
 
 
 
