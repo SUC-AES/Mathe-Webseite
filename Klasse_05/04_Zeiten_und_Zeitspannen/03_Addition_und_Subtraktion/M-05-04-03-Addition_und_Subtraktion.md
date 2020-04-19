@@ -13,21 +13,21 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 **Übersicht über das Thema** ***Zeiten und Zeitspannen***
 
-Das Thema Massen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
-[Massen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/M-05-03-Massen.md#1).
+[Zeiten und Zeitspannen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#1)
 
-[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/01_MaBeinheiten/M-05-03-01-MaBeinheiten.md#2)
+[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/01_MaBeinheiten/M-05-04-01-MaBeinheiten.md#2)
 
-[02 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/02_Umformen/M-05-03-02-Umformen.md#2)
+[02 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/02_Umformen/M-05-04-02-Umformen.md#2)
 
-[03 Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/03_Addition_und_Subtraktion/M-05-03-03-Addition_und_Subtraktion.md#2)
+[03 Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/03_Addition_und_Subtraktion/M-05-04-03-Addition_und_Subtraktion.md#2)
 
-[04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/04_Multiplikation_und_Division/M-05-03-04-Multiplikation_und_Division.md#2)
+[04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/04_Multiplikation_und_Division/M-05-04-04-Multiplikation_und_Division.md#1)
 
-[05 Übungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/05_%C3%9Cbungen/M-05-05-05-Uebungen.md#2)
+[05 Berechnen von Zeitdauern]()
 
-[06 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/06_Textaufgaben/M-05-03-06-Textaufgaben.md#1)
+[06 Textaufgaben]()
 
 
 

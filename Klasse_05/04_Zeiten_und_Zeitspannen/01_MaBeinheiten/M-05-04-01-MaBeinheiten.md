@@ -13,21 +13,22 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 **Übersicht über das Thema** ***Zeiten und Zeitspannen***
 
-Das Thema Zeiten und Zeitspannen setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
 [Zeiten und Zeitspannen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#1)
 
 [01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/01_MaBeinheiten/M-05-04-01-MaBeinheiten.md#2)
 
-[02 Umformen]()
+[02 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/02_Umformen/M-05-04-02-Umformen.md#2)
 
-[03 Addition und Subtraktion]()
+[03 Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/03_Addition_und_Subtraktion/M-05-04-03-Addition_und_Subtraktion.md#2)
 
-[04 Multiplikation und Division]()
+[04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/04_Multiplikation_und_Division/M-05-04-04-Multiplikation_und_Division.md#1)
 
-[05 Übungen]()
+[05 Berechnen von Zeitdauern]()
 
 [06 Textaufgaben]()
+
 
 
 # Maßeinheiten
