@@ -160,17 +160,52 @@ $$
 
 **Bearbeite nun im Kittyheft auf der Seite 27 die Nummern 1 und 2.**
 
-Wundere dich nicht, dass hier wieder Brüche auftauchen. Auch wenn du sie nicht verstanden hast, weißt du bestimmt was eine halbe Stunde $( \frac 1 2 h)$ ist.
+Wundere dich nicht, dass hier wieder Brüche auftauchen. Auch wenn du sie nicht verstanden hast, weißt du bestimmt, was eine halbe Stunde $( \frac 1 2 h)$ ist.
 
-Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
+Gib den ersten Teil des Lösungssatzes in GROSSBUCHSTABEN an, danach kommstdu durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben. Vergleiche deine Ergebnisse und berichtige eventuelle Fehler.
 
-  {{1-2}}
-  ********************************
+[[JETZT IST ZEIT FUER]]
 
-kommt noch
+{{1-2}}
+********************************
+
+**Aufgabe 1**
+
+Wandle in die angegebene Einheit um.
+
+> $$
+\begin{aligned}
+&(a) &&2 \frac 1 4 h &&= 135 min \\
+&(b) &&7 \frac 1 2 min &&= 450 s \\
+&(c) &&192 h &&= 8 d \\
+&(d) &&10 \frac 1 2 min &&= 630 s \\
+&(e) &&3 h ~15 min ~3 s &&= 195 min ~3 s &&= 11703 s \\
+&(f) &&195 min &&= 3 \frac 1 4  h \\
+&(g) &&47 min &&= 2820 s \\
+&(h) &&1095 d &&= 3 a \\
+&(i) &&465 s &&= 7 \frac 3 4 min \\
+&(j) &&1 d ~13 h ~24 min &&= 37 h ~24 min &&= 2244 min
+\end{aligned}
+$$
+
+**Aufgabe 2: Schreibe in mit h und min in gemischter Schreibweise**
+
+> $$
+\begin{aligned}
+&(a) &689 min &= 11 h ~29 min \\
+&(b) &982 min &= 16 h ~22 min \\
+&(c) &703 min &= 11 h ~43 min \\
+&(d) &541 min &= 9 h ~1 min \\
+&(e) &1111 min &= 18 h ~31 min \\
+&(f) &348 min &= 5 h ~48 min \\
+&(g) &1234 min &= 20 h ~34 min \\
+&(h) &1439 min &= 23 h ~59 min \\
+\end{aligned}
+$$
 
 
-  ********************************
+
+********************************
 
 
 
