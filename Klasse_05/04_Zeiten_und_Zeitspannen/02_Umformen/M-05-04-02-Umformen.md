@@ -164,7 +164,7 @@ Wundere dich nicht, dass hier wieder Brüche auftauchen. Auch wenn du sie nicht 
 
 Gib den ersten Teil des Lösungssatzes in GROSSBUCHSTABEN an, danach kommstdu durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben. Vergleiche deine Ergebnisse und berichtige eventuelle Fehler.
 
-[[JETZT IST ZEIT FUER]]
+[[JETZT IST ZEIT FUER FR]]
 
 {{1-2}}
 ********************************
