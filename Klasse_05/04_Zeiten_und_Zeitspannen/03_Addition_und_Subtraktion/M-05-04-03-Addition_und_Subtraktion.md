@@ -82,14 +82,75 @@ $$
 
 **Bearbeite nun im Kittyheft auf der Seite 27 die Nummer 3 a-f.**
 
-{{1-2}}
+Gib die Lösungsbuchstaben in GROSSBUCHSTABEN ein, um die Musterlösung zu erhalten.
+
+[[EIZEIT]]
 ********************************************************************************
 
 
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
+> $$
+\begin{aligned}
+&(a) &&2 h ~1 min + 3 h ~49 min \\
+&&&=120 min + 1 min + 180 min + 49 min \\
+&&&= 350 min \\
+&&&= 5 h ~50 min \\
+&ODER:\\
+&&&2 h ~1 min + 3 h ~49 min \\
+&&&= (2 h + 3 h) + (1 min + 49 min)\\
+&&&= 5h~50 min\\
+\\
+&(b) &&3 h ~26 min + 7 h ~31 min + 15 min \\
+&&&= 180 min + 26 min + 420 min + 31 min + 15 min \\
+&&&= 672 min \\
+&&&= 11 h ~12 min \\
+&ODER:\\
+&&&3 h ~26 min + 7 h ~31 min + 15 min \\
+&&&= 10 h ~72 min \\
+&&&= 11 h ~12 min\\
+\\
+&(c) &&1 h ~16 min + 1 h ~17 min + 1 h ~18 min + 1 h ~19 min \\
+&&&=60 min + 16 min + 60 min + 17 min + 60 min + 18 min + 60 min + 19 min\\
+&&&= 310 min \\
+&&&= 5 h 10 min\\
+&ODER:\\
+&&&1 h ~16 min + 1 h ~17 min + 1 h ~18 min + 1 h ~19 min \\
+&&&= 4 h ~70 min \\
+&&&= 5 h ~10 min \\
+\\
+&(d) &&9 h ~12 min – 24 min \\
+&&&= (540 min + 12 min) – 24 min \\
+&&&= 552 min – 24 min\\
+&&&= 528 min \\
+&&&= 8 h ~48 min\\
+&ODER:\\
+&&&9 h ~12 min – 24 min \\
+&&&= 8h ~72 min - 24 min \\
+&&&= 8 h ~48 min\\
+\\
+&(e) &&11 h ~3 min – 2 h ~5 min \\
+&&&= (660 min + 3 min) – (120 min + 5 min)\\
+&&&= 663 min – 125 min \\
+&&&= 538 min \\
+&&&= 8 h ~58 min\\
+&ODER:\\
+&&&11 h ~3 min – 2 h ~5 min \\
+&&&= 10 h ~63 min - 2 h ~5 min \\
+&&&= 8 h ~58 min \\
+\\
+&(f) &&12 h – 3 h ~11 min – 2 h ~13 min\\
+&&&= 720 min – (180 min + 11 min) – (120 min + 13 min)\\
+&&&= 720 min – 191 min – 133 min \\
+&&&= 396 min \\
+&&&= 6 h ~36 min  \\
+&ODER:\\
+&&&12 h – 3 h ~11 min – 2 h ~13 min \\
+&&&= 11 h ~60 min - 3 h ~11 min - 2 h ~13 min \\
+&&&= 6 h ~36 min\\
+\end{aligned}
+$$
 
-Lösungen kommen noch
 
 ********************************************************************************
 
