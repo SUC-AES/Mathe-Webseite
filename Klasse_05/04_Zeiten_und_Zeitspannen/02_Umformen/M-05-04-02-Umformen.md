@@ -68,16 +68,18 @@ Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach 
 
 1) Gib mit gemischten Einheiten an:
 
-$$
+> $$
 \begin{aligned}
-&a) \quad & 100 ~s &	= 1 ~min ~40 ~s & \\
-&b) & 1.000 ~s &	=            ~min           ~s & \\
-&c) & 10.000 s	& =            ~min             ~s && =   ~h            ~min            ~s \\ \\
-&e) & 100 ~min &	= 1 ~h ~40 ~min & \\
-&f) & 1.000 ~min &	= 16 ~h ~40 ~min & \\
-&g) & 10.000 ~min & = 166 ~h ~40 ~min && = ~6 ~d ~22 ~h ~40 ~min \\ \\
-&i) & 100 h 	= ~4 ~d ~4 ~h & \\
-&j) & 1.000 h 	= ~41 ~d ~16 ~h &
+&a) \quad & 100 ~s &	= 1 ~min ~40 ~s  \\
+&b) & 1.000 ~s &	= 16min ~40s & \\
+&c) & 10.000 s	& = 166 min ~40 s \\ &&&= 2 h 46 min 40 s \\ \
+\\
+&e) & 100 ~min &	= 1 h ~40~min & \\
+&f) & 1.000 ~min &	= 16 h ~40 min & \\
+&g) & 10.000 ~min & = 166 ~h ~40 ~min \\ &&&= 6 d ~22 h ~40 min \\
+\\
+&i) & 100 h &= ~4 d ~4 h  \\
+&j) & 1.000 h &= ~41 d ~16 h \\
 \end{aligned}
 $$
 
@@ -92,10 +94,13 @@ Du musst die größere Einheit in die kleinere umformen und danach beide Zeitspa
 
 > $$
 \begin{aligned}
-&1 min ~5 s &&= 60 s + 5 s &&= 65 ~s \\
-&3 h ~27 min &&= 180 ~min + 27 min &&= 207 ~min \\
-&12 d ~5 h &&= 12 · 24 h + 5 h &&= 288 h + 5 h &&= ~293~h \\
-&2 h ~3 min ~5 s &&= 120 min + 3 min ~5 s &&= 123 min ~5 s &&= 7380 s+ 5 s &&= 7385 s
+&1 min ~5 s &&= 60 s + 5 s \\ &&&= 65 ~s \\
+\\
+&3 h ~27 min &&= 180 ~min + 27 min \\ &&&= 207 ~min \\
+\\
+&12 d ~5 h &&= 12 · 24 h + 5 h \\ &&&= 288 h + 5 h \\ &&&= ~293~h \\
+\\
+&2 h ~3 min ~5 s &&= 120 min + 3 min ~5 s \\ &&&= 123 min ~5 s \\ &&&= 7380 s+ 5 s \\ &&&= 7385 s
 \end{aligned}
 $$
 
@@ -109,14 +114,31 @@ $$
 {{1-2}}
 ********************************
 
-$$
+> $$
 \begin{aligned}
-&a) \quad & 1 min ~1 s &= 60 s + 1 s &&= 61 s \\
-&b) & 1 h ~1 min &= 60 min + 1 min &&= 61 min \\
-&c) & 1 d ~1 h &= 24 h + 1 h &&= 25 h \\
-&d) & 1 h ~1 min ~1 s &= 60 min +1 min +1 s &&= 61 min +1 s &&= 3660 s +1 s &&= 3661 s \\
-&e) & 1 d ~1 h ~1 min & = 24 h +1 h +1 min &&= 25 h +1 min &&= 1500 min + 1 min &&= 1501 min \\
-&f) & 1 d ~2 h ~3 min &= 24 h +2 h +3 min &&= 26 h +3 min &&= 1560min + 3 min &&= 1563 min
+&a) \quad & 1 min ~1 s &= 60 s + 1 s \\
+&&&= 61 s \\
+\\
+&b) & 1 h ~1 min &= 60 min + 1 min \\
+&&&= 61 min \\
+\\
+&c) & 1 d ~1 h &= 24 h + 1 h \\
+&&&= 25 h \\
+\\
+&d) & 1 h ~1 min ~1 s &= 60 min +1 min +1 s \\
+&&&= 61 min +1 s \\
+&&&= 3660 s +1 s \\
+&&&= 3661 s \\
+\\
+&e) & 1 d ~1 h ~1 min & = 24 h +1 h +1 min \\
+&&&= 25 h +1 min \\
+&&&= 1500 min + 1 min \\
+&&&= 1501 min \\
+\\
+&f) & 1 d ~2 h ~3 min &= 24 h +2 h +3 min \\
+&&&= 26 h +3 min \\
+&&&= 1560min + 3 min \\
+&&&= 1563 min\\
 \end{aligned}
 $$
 
@@ -126,18 +148,24 @@ $$
 
   **Bearbeite nun im Kittyheft auf der Seite 26 die Nummern 1 dhk und 2 g-k.**
 
-  Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
+Wenn du die Aufgaben gelöst hast, kannst du jetzt den Lösungssatz der Seite 26 in GROSSBUCHSTABEN ohne Satzzeichen eintragen. Dann erhältst du auch die Musterlösungen
 
-{{1-2}}
+[[DER TIGER STREUNT IM TIGERKAEFIG]]
 ********************************
 
 **Aufgabe 1**
 
 $$
 \begin{aligned}
-&d) \quad & 100.000~s &= min~s &&= h~min ~s &&= d~ h~ min~ s~ \\
-&h) & 100.000 min	&= 1.666 h ~40 min &&= 69 d ~10 h ~40 min \\
-&k) & 10.000 h 	&= 416 d ~16 h &&= 1 a ~51 d ~16 h
+&d) \quad &100.000 s &= 1666 min ~40 s \\
+&&&=   27 h ~46 min ~40 s \\
+&&&=  1 d ~3 h ~46 min ~40 s \\
+\\
+&h) & 100.000 min	&= 1.666 h ~40 min \\
+&&&= 69 d ~10 h ~40 min \\
+\\
+&k) & 10.000 h 	&= 416 d ~16 h \\
+&&&= 1 a ~51 d ~16 h&&
 \end{aligned}
 $$
 
@@ -145,11 +173,28 @@ $$
 
 $$
 \begin{aligned}
-&g) & 4 d ~5 h ~6 min &= 96 h + 5 h +6 min &&= 101 h + 6 min &&= 6066 min\\
-&h) & 7 d ~8 h ~9 min &= 168 h + 8h + 9 min &&= 176 h +9 min &&= 10560 min +9 min &&= 10569 min\\
-&i) & 9 h ~8 min~ 7 s &= 540 min +8 min +7 s &&= 548 min +7 s && =32887 s \\
-&j) & 6 h ~5 min~ 4 s &= 360 min +5 min +4 s &&= 365 min +4 s &&= 21900 s +4 s &&= 21904 s \\
-&k) & 3 h ~2 min ~1 s &= 180 min + 2 min + 1 s &&= 182 min +1 s &&= 10920 s + 1s &&= 10921 s
+&g) & 4 d ~5 h ~6 min &= 96 h + 5 h +6 min \\
+&&&= 101 h + 6 min \\
+&&&= 6066 min\\
+\\
+&h) & 7 d ~8 h ~9 min &= 168 h + 8h + 9 min \\
+&&&= 176 h +9 min \\
+&&&= 10560 min +9 min \\
+&&&= 10569 min\\
+\\
+&i) & 9 h ~8 min~ 7 s &= 540 min +8 min +7 s \\
+&&&= 548 min +7 s \\
+&&& =32887 s \\
+\\
+&j) & 6 h ~5 min~ 4 s &= 360 min +5 min +4 s \\
+&&&= 365 min +4 s \\
+&&&= 21900 s +4 s \\
+&&&= 21904 s \\
+\\
+&k) & 3 h ~2 min ~1 s &= 180 min + 2 min + 1 s \\
+&&&= 182 min +1 s \\
+&&&= 10920 s + 1s \\
+&&&= 10921 s\\
 \end{aligned}
 $$
 
@@ -165,8 +210,6 @@ Wundere dich nicht, dass hier wieder Brüche auftauchen. Auch wenn du sie nicht 
 Gib den ersten Teil des Lösungssatzes in GROSSBUCHSTABEN an, danach kommstdu durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben. Vergleiche deine Ergebnisse und berichtige eventuelle Fehler.
 
 [[JETZT IST ZEIT FUER FR]]
-
-{{1-2}}
 ********************************
 
 **Aufgabe 1**
@@ -179,12 +222,12 @@ Wandle in die angegebene Einheit um.
 &(b) &&7 \frac 1 2 min &&= 450 s \\
 &(c) &&192 h &&= 8 d \\
 &(d) &&10 \frac 1 2 min &&= 630 s \\
-&(e) &&3 h ~15 min ~3 s &&= 195 min ~3 s &&= 11703 s \\
+&(e) &&3 h ~15 min ~3 s &&= 195 min ~3 s \\ &&&&&= 11703 s \\
 &(f) &&195 min &&= 3 \frac 1 4  h \\
 &(g) &&47 min &&= 2820 s \\
 &(h) &&1095 d &&= 3 a \\
 &(i) &&465 s &&= 7 \frac 3 4 min \\
-&(j) &&1 d ~13 h ~24 min &&= 37 h ~24 min &&= 2244 min
+&(j) &&1 d ~13 h ~24 min &&= 37 h ~24 min \\ &&&&&= 2244 min
 \end{aligned}
 $$
 
