@@ -69,14 +69,43 @@ $$
 
 Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-{{1-2}}
+Gib die Lösungsbuchstaben als GROSSBUCHSTABEN an, um die Musterlösung zu erhalten.
+
+[[KIT]]
 ********************************************************************************
 
 
 Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
 
+> $$
+\begin{aligned}
+&(g) &&(7 h ~11 min)·6 &&= (420 min + 11 min) ·6 \\
+&&&&&= 431 min ·6 \\
+&&&&&= 2586 min \\
+&&&&&= 43 h ~6 min\\
+&ODER:\\
+&&&(7 h ~11 min)·6 &&= 42 h ~66 min \\
+&&&&&= 43 h ~6 min\\
+\\
+&(h) &&(1h ~29 min)·13 &&= (60 min + 29 min) ·13 \\
+&&&&&= 89 min ·13 \\
+&&&&&= 1157 min \\
+&&&&&= 19 h ~17 min\\
+&ODER:\\
+&&&(1h ~29 min)·13 &&= 13 h ~377 min \\
+&&&&&= 13 h + 6 h ~17 min \\
+&&&&&= 19 h ~17 min\\
+\\
+&(i) &&(2 h ~23 min)·5 &&= (120 min + 23 min) ·5 \\
+&&&&&= 143 min ·5 \\
+&&&&&= 715 min \\
+&&&&&= 11 h ~55 min\\
+&ODER:\\
+&&&(2 h ~23 min)·5 &&= 10 h ~115 min \\
+&&&&&= 11 h ~55 min\\
+\end{aligned}
+$$
 
-Lösungen kommen noch
 
 ********************************************************************************
 
@@ -103,20 +132,29 @@ $$
 
 **Bearbeite nun im Kittyheft auf der Seite 27 die Nummer 3 jk.**
 
-Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben.
 
-Gib den Lösungssatz der Seite 27 nur in GROSSBUCHSTABEN an.
+Du hast jetzt bestimmt den ganzen Lösungssatz der Seite 27 heraus. Gib in jetzt ein, verwende nur GROSSBUCHSTABEN und schreibe auch das Komma und ein Ausrufezeichen (!) an den Ende des Satzes. Wenn du ihn korrekt einträgst oder auf das "i" drückst, siehst du die letzten Musterlösungen.
 
-[[kommt noch]]
-
-{{1-2}}
+[[JETZT IST ZEIT FUER FREIZEIT, KITTY!]]
 ********************************************************************************
 
 
-Vergleiche hier deine Ergebnisse und berichtige deine Fehler.
+Vergleiche hier deine Ergebnisse und berichtige deine Fehler. Beachte, dass es bei der Division nur einen Rechenweg gibt.
 
+> $$
+\begin{aligned}
+&(j) &&(36 h ~6 min):6 &&= (2160 min + 6 min) : 6 \\
+&&&&&= 2166 min : 6 \\
+&&&&&= 361 min \\
+&&&&&= 6 h ~1 min  \\
+\\
+&(k) &&(10 h ~44 min):7 &&= (600 min + 44 min) : 7 \\
+&&&&&= 644 min : 7 \\
+&&&&&= 92 min \\
+&&&&&= 1 h ~32 min \\
+\end{aligned}
+$$
 
-Lösungen kommen noch
 
 ********************************************************************************
 
