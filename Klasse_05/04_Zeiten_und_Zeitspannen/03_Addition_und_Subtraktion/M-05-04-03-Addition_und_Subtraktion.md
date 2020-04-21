@@ -43,9 +43,9 @@ Bei der Addition und Subtraktion könnt ihr, so wie ihr es bisher von den andere
 
 Das hört sich vielleicht ungewohnt an, wenn ihr die Videos anschaut, versteht ihr aber bestimmt, was gemeint ist.
 
-VIDEO Addition  
+[Video: Addition von Zeitspannen - zwei verschiedene Wege](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/ETI25pe_HghOq-ebtgC4qZwBa4cgl9lQnYkZskynY9GYgA?e=UdxKkf)
 
-VIDEO Subtraktion
+[Video: Subtraktion von Zeitspannen - zwei verschiedene Wege](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EeAiA_QsR7xKrPZdRKXtYlABcz24u6oL94D0d8W4QsbBkQ?e=3caywJ)
 
 Übernimm die Beispiele für Addition und Subtraktion in dein Heft.
 
