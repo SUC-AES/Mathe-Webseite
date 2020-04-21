@@ -43,7 +43,7 @@ Bei dem zweiten Weg nutzt ihr tatsächlich das **Distributivgesetz**. Ihr könnt
 
 Wenn sich das erstmal ungewöhnlich für euch anhört, dann schaut euch das Video an. Ihr versteht es dann bestimmt.
 
-VIDEO Multiplikation
+[Video: Multiplikation einer Zeitspanne mit einer Zahl - zwei verschiedene Wege](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/ERpdGnTRFpRKhurLoYB7DHEBMkV6RdJgzK1Rc3bpc5K2rg?e=YXjFFs)
 
 
 Übernimm nun die beiden Wege aus diesem Beispiel für die Multiplikation in dein Heft. Gerne kannst du dabei auch noch zusätzliche Markierungen aus dem Video übernehmen.
