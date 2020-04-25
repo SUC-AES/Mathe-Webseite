@@ -156,22 +156,24 @@ Ihr könnt euch das Erklär-Video anschauen (Link auf der URL oder in Lanis). Hi
 
 Notiere dann das Tafelbild und alle Beispiele komplett in dein Heft :  
 
-Überlegung:
-                                      Anfang                   Ende
+> Überlegung:
 
-Anfang = Ende – Dauer           Der Anfang ist ein Zeitpunkt         ( z.B. 8:10 Uhr)
-Dauer = Ende – Anfang           Die Dauer ist eine Zeitspanne.       (z.B. es dauert 15 min)
-Ende = Anfang + Dauer           Das Ende ist ein Zeitpunkt.            (z.B. 8:25 Uhr)  
+> $$
+\begin{aligned}
+Anfang &= Ende ~–~ Dauer \qquad && \mathrm{Der~ Anfang ~ist ~ein ~Zeitpunkt.} \qquad && z.B. 8\mathrm{:}10 ~Uhr \\
+Dauer &= Ende ~ –~ Anfang \qquad && \mathrm{Die~ Dauer~ ist~ eine~ Zeitspanne.} && z.B. \mathrm{Es ~dauert~} 15 ~min. \\
+Ende &= Anfang~ + ~Dauer \qquad && \mathrm{Das Ende~ist ~ein ~Zeitpunkt.} && z.B. 8\mathrm{:}25 Uhr  \\
+\end{aligned}
+$$
 
 
 Übernimm auch die Beispiele in dein Heft.
 
 > Beispiel 1:
 
-> Hans beginnt um 11.05 Uhr seinen Arbeitsauftrag in Mathe zu bearbeiten . Er ist um
-13:30 Uhr fertig. Wie lange hat er dafür gebraucht? (Wie lange hat es gedauert?)
+> Hans beginnt um 11.05 Uhr seinen Arbeitsauftrag in Mathe zu bearbeiten . Er ist um 13:30 Uhr fertig. Wie lange hat er dafür gebraucht? (Wie lange hat es gedauert?)
 
-> gegeben:     Anfang   11:05 Uhr   → 11 h 5 min 
+> gegeben:     Anfang   11:05 Uhr   → 11 h 5 min
                    Ende      13:30 Uhr   → 13 h 30 min
 gesucht:      Dauer
 Dauer = Ende  - Anfang = (13 h 30 min ) - (11 h 5 min)  =  2 h 25 min
@@ -200,145 +202,6 @@ Antwort : Das Telefonat begann um 17:37 Uhr.
 **Bearbeite nun im Kittyheft auf der Seite 29 die Nummer 1 und 2.**
 
 Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung
-
-##blub
-
-> $$
-\begin{aligned}
-&a) \quad & 1 min ~1 s &= 60 s + 1 s \\
-&&&= 61 s \\
-\\
-&b) & 1 h ~1 min &= 60 min + 1 min \\
-&&&= 61 min \\
-\\
-&c) & 1 d ~1 h &= 24 h + 1 h \\
-&&&= 25 h \\
-\\
-&d) & 1 h ~1 min ~1 s &= 60 min +1 min +1 s \\
-&&&= 61 min +1 s \\
-&&&= 3660 s +1 s \\
-&&&= 3661 s \\
-\\
-&e) & 1 d ~1 h ~1 min & = 24 h +1 h +1 min \\
-&&&= 25 h +1 min \\
-&&&= 1500 min + 1 min \\
-&&&= 1501 min \\
-\\
-&f) & 1 d ~2 h ~3 min &= 24 h +2 h +3 min \\
-&&&= 26 h +3 min \\
-&&&= 1560min + 3 min \\
-&&&= 1563 min\\
-\end{aligned}
-$$
-
-********************************
-
-#Restliche Übungen Seite 26
-
-  **Bearbeite nun im Kittyheft auf der Seite 26 die Nummern 1 dhk und 2 g-k.**
-
-Wenn du die Aufgaben gelöst hast, kannst du jetzt den Lösungssatz der Seite 26 in GROSSBUCHSTABEN ohne Satzzeichen eintragen. Dann erhältst du auch die Musterlösungen
-
-[[DER TIGER STREUNT IM TIGERKAEFIG]]
-********************************
-
-**Aufgabe 1**
-
-$$
-\begin{aligned}
-&d) \quad &100.000 s &= 1666 min ~40 s \\
-&&&=   27 h ~46 min ~40 s \\
-&&&=  1 d ~3 h ~46 min ~40 s \\
-\\
-&h) & 100.000 min	&= 1.666 h ~40 min \\
-&&&= 69 d ~10 h ~40 min \\
-\\
-&k) & 10.000 h 	&= 416 d ~16 h \\
-&&&= 1 a ~51 d ~16 h&&
-\end{aligned}
-$$
-
-**Aufgabe 2**
-
-$$
-\begin{aligned}
-&g) & 4 d ~5 h ~6 min &= 96 h + 5 h +6 min \\
-&&&= 101 h + 6 min \\
-&&&= 6066 min\\
-\\
-&h) & 7 d ~8 h ~9 min &= 168 h + 8h + 9 min \\
-&&&= 176 h +9 min \\
-&&&= 10560 min +9 min \\
-&&&= 10569 min\\
-\\
-&i) & 9 h ~8 min~ 7 s &= 540 min +8 min +7 s \\
-&&&= 548 min +7 s \\
-&&& =32887 s \\
-\\
-&j) & 6 h ~5 min~ 4 s &= 360 min +5 min +4 s \\
-&&&= 365 min +4 s \\
-&&&= 21900 s +4 s \\
-&&&= 21904 s \\
-\\
-&k) & 3 h ~2 min ~1 s &= 180 min + 2 min + 1 s \\
-&&&= 182 min +1 s \\
-&&&= 10920 s + 1s \\
-&&&= 10921 s\\
-\end{aligned}
-$$
-
-
-********************************
-
-#Übungen Seite 27
-
-**Bearbeite nun im Kittyheft auf der Seite 27 die Nummern 1 und 2.**
-
-Wundere dich nicht, dass hier wieder Brüche auftauchen. Auch wenn du sie nicht verstanden hast, weißt du bestimmt, was eine halbe Stunde $( \frac 1 2 h)$ ist.
-
-Gib den ersten Teil des Lösungssatzes in GROSSBUCHSTABEN an, danach kommstdu durch das Drücken des Pfeils nach rechts auf die nächste Seite. Dort findest du die Musterlösung zu diesen Aufgaben. Vergleiche deine Ergebnisse und berichtige eventuelle Fehler.
-
-[[JETZT IST ZEIT FUER FR]]
-********************************
-
-**Aufgabe 1**
-
-Wandle in die angegebene Einheit um.
-
-> $$
-\begin{aligned}
-&(a) &&2 \frac 1 4 h &&= 135 min \\
-&(b) &&7 \frac 1 2 min &&= 450 s \\
-&(c) &&192 h &&= 8 d \\
-&(d) &&10 \frac 1 2 min &&= 630 s \\
-&(e) &&3 h ~15 min ~3 s &&= 195 min ~3 s \\ &&&&&= 11703 s \\
-&(f) &&195 min &&= 3 \frac 1 4  h \\
-&(g) &&47 min &&= 2820 s \\
-&(h) &&1095 d &&= 3 a \\
-&(i) &&465 s &&= 7 \frac 3 4 min \\
-&(j) &&1 d ~13 h ~24 min &&= 37 h ~24 min \\ &&&&&= 2244 min
-\end{aligned}
-$$
-
-**Aufgabe 2: Schreibe in mit h und min in gemischter Schreibweise**
-
-> $$
-\begin{aligned}
-&(a) &689 min &= 11 h ~29 min \\
-&(b) &982 min &= 16 h ~22 min \\
-&(c) &703 min &= 11 h ~43 min \\
-&(d) &541 min &= 9 h ~1 min \\
-&(e) &1111 min &= 18 h ~31 min \\
-&(f) &348 min &= 5 h ~48 min \\
-&(g) &1234 min &= 20 h ~34 min \\
-&(h) &1439 min &= 23 h ~59 min \\
-\end{aligned}
-$$
-
-
-
-********************************
-
 
 
 #Haftung für Links
