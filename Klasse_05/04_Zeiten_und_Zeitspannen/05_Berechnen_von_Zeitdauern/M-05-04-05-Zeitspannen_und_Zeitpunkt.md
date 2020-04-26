@@ -25,9 +25,8 @@ Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen.
 
 [04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/04_Multiplikation_und_Division/M-05-04-04-Multiplikation_und_Division.md#1)
 
-[05 Berechnen von Zeitdauern]()
+[05 Zeitspannen und Zeitpunkte](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/05_Berechnen_von_Zeitdauern/M-05-04-05-Zeitspannen_und_Zeitpunkt.md#2)
 
-[06 Textaufgaben]()
 
 
 
@@ -88,7 +87,7 @@ Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach 
 && Zeitspanne & → Zeitpunkt \\
 &(d) &9 h ~13 min & → \mathrm{vormittags~ um}~ 9\mathrm{:} 13 ~Uhr \\
 &(e) &1 d ~18 h ~6 min  & →  \mathrm{Morgen~ um}~ 18\mathrm{:}06 ~Uhr \\
-&(f) &2 d ~9 min & → \mathrm{Übermorgen~ vormittags~ um} ~9 ~Uhr \\
+&(f) &2 d ~9 min & → \mathrm{Übermorgen~ nachts~ um} ~0\mathrm{:}09 ~Uhr \\
 \end{aligned}
 $$
 
@@ -111,40 +110,40 @@ Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach 
 
 
 
-(a) Claus besteigt um 7:35 Uhr den Bus zum Schulzentrum. An welcher Haltestelle steigt er ein? Um wie viel Uhr erreicht er die Schule?
+> (a) Claus besteigt um 7:35 Uhr den Bus zum Schulzentrum. An welcher Haltestelle steigt er ein? Um wie viel Uhr erreicht er die Schule?
 
 
-{{1-2}}
+{{1-4}}
 ********************************
 
 
-> Antwort Er steigt an der Haltestelle "Bürgerhaus Hochstadt" ein und erreicht um 7:46 Uhr die Schule.
-
-********************************
-
-
-(b) Paula möchte ihre Freundin Petra besuchen. Sie sind um spätestens 15 Uhr verabredet. Welchen Bus muss Paula von „Bischofsheim Kleeblatt“ nach „Bischofsheim Taunusstraße“ nehmen. Um wie viel Uhr trifft sie sich mit Petra an der Haltestelle?
-
-
-{{2-3}}
-********************************
-
-
-> Antwort: Sie muss an der Haltestelle "Bischofsheim Kleeblatt" den Bus um 14:18 Uhr nehmen und trifft sich dann um 14:31 Uhr mit ihrer Freundin an der Haltestelle "Bischofsheim Taunusstraße".
+Antwort Er steigt an der Haltestelle "Bürgerhaus Hochstadt" ein und erreicht um 7:46 Uhr die Schule.
 
 ********************************
 
 
-(c) Frau Kaufrausch möchte um spätesten 14:10 Uhr im Einkaufszentrum sein. Von der Endhaltestelle „Enkheim“ läuft sie 13 Minuten. Um wie viel Uhr muss Frau Kaufrausch zu Hause loslaufen, wenn sie zur Haltestelle „Wachenbuchen Brucknerstraße“ 8 Minuten laufen muss?
+> (b) Paula möchte ihre Freundin Petra besuchen. Sie sind um spätestens 15 Uhr verabredet. Welchen Bus muss Paula von „Bischofsheim Kleeblatt“ nach „Bischofsheim Taunusstraße“ nehmen. Um wie viel Uhr trifft sie sich mit Petra an der Haltestelle?
 
-Tipp: Welchen Bus muss sie nehmen?
+
+{{2-4}}
+********************************
+
+
+Antwort: Sie muss an der Haltestelle "Bischofsheim Kleeblatt" den Bus um 14:18 Uhr nehmen und trifft sich dann um 14:31 Uhr mit ihrer Freundin an der Haltestelle "Bischofsheim Taunusstraße".
+
+********************************
+
+
+> (c) Frau Kaufrausch möchte um spätesten 14:10 Uhr im Einkaufszentrum sein. Von der Endhaltestelle „Enkheim“ läuft sie 13 Minuten. Um wie viel Uhr muss Frau Kaufrausch zu Hause loslaufen, wenn sie zur Haltestelle „Wachenbuchen Brucknerstraße“ 8 Minuten laufen muss?
+
+> Tipp: Welchen Bus muss sie nehmen?
 
 
 {{3-4}}
 ********************************
 
 
-> Der Bus, der um 14:07 Uhr ankommt, ist zu spät. Sie muss den eins früheren Bus nehmen, welcher um 13:37 Uhr losfährt. Dieser Bus fährt an der Haltestelle "Wachenbuchen Brucknerstraße" um 13:06 Uhr ab. Wenn sie 8 Minuten zur Haltestelle laufen muss, muss sie um 12:58 Uhr zu Hause loslaufen.
+Der Bus, der um 14:07 Uhr ankommt, ist zu spät. Sie muss den eins früheren Bus nehmen, welcher um 13:37 Uhr losfährt. Dieser Bus fährt an der Haltestelle "Wachenbuchen Brucknerstraße" um 13:06 Uhr ab. Wenn sie 8 Minuten zur Haltestelle laufen muss, muss sie um 12:58 Uhr zu Hause loslaufen.
 
 ********************************
 

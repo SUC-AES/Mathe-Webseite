@@ -33,9 +33,7 @@ Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen.
 
 [04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/04_Multiplikation_und_Division/M-05-04-04-Multiplikation_und_Division.md#1)
 
-[05 Berechnen von Zeitdauern]()
-
-[06 Textaufgaben]()
+[05 Zeitspannen und Zeitpunkte](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/05_Berechnen_von_Zeitdauern/M-05-04-05-Zeitspannen_und_Zeitpunkt.md#2)
 
 
 # Täglicher Term
