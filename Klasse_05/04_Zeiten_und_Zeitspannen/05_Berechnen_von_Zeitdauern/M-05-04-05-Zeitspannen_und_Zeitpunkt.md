@@ -221,12 +221,155 @@ $$
 > *Antwort : Das Telefonat begann um 17:37 Uhr.*
 
 
-##Übungen 3
+## Übungen 3 - Textaufgaben
 
 **Bearbeite nun im Kittyheft auf der Seite 29 die Nummer 1 und 2.**
 
-Wenn du die Aufgaben gelöst hast, kommst du durch das Drücken des Pfeils nach rechts, kommst du auf die nächste Seite. Dort findest du die Musterlösung
+Auf der nächsten Seite findest du die Lösungen. Auch dort gilt: Drücke auf den oberen Pfeil nach rechts und du siehst die Lösungen.
 
+
+## Aufgabe 2: Klassenfahrt zur Waldschule
+
+> Die 5. Klasse fährt als Klassenfahrt zur nahe gelegenen Waldschule. Die Klasse fährt Montag morgens um 8:37 Uhr los. Die Fahrt dauert mit dem Bus 1 h 6 min.
+
+> (a) Wann kommt die Klasse in der Waldschule an?
+
+
+{{1-3}}
+********************************
+
+
+*Gegeben:* Anfang 8:37 Uhr  →  8h 37 min;  Dauer 1 h 6 Minute
+
+*Gesucht:* Ende
+
+*Rechnung:* Ende = 8h 37 min + 1h 6 min = 9h 43min  →  9:43 Uhr
+
+*Antwort: Die Klasse kommt um 9:43 Uhr in der Waldschule an.*
+
+********************************
+
+> (b) Die Klasse ist insgesamt 4 d 6 h 44 min bei der Klassenfahrt (ab Abfahrt AES) unterwegs. Wann kommen die Schüler wieder an der AES an?
+
+
+{{2-3}}
+********************************
+
+
+*Gegeben:* Start 8:37 Uhr →  8h 37min; Dauer 4 d 6 h 44 min
+
+*Gesucht:* Ende
+
+*Überlegung:* Wir wissen, die Schüler kommen 4 Tage später wieder an der Schule an. Wir zählen: Der erste Tag ist am Dienstag vorbei, zweiter Tag Mittwoch, dritter Tag Donnerstag, vierter Tag Freitag. Wenn sie montags gestartet sind, bedeutet das, sie kommen freitags zurück. Um die genaue Uhrzeit zu ermitteln, rechnen wir:
+
+*Rechnung:* Ende = 8h 37min + 6h 44 min = 14h 81 min = 15h 21 min  →  5:21 Uhr
+
+*Antwort: Die Schüler kommen donnerstags um 15:21 Uhr wieder an der AES an.*
+
+********************************
+
+
+## Aufgabe 3: Urlaub Familie Dansky
+
+> Familie Dansky macht jedes Jahr in Dänemark Urlaub. Sie fahren um 6:32 Uhr los und kommen um 17:20 Uhr an.
+
+> (a) Wie lange waren Sie unterwegs?
+
+
+{{1-6}}
+********************************
+
+
+*Gegeben:* Anfang 6:32 Uhr → 6 h 32 min; Ende 17:20 Uhr → 17 h 20 min
+
+*Gesucht:* Dauer
+
+*Rechnung:* Dauer = 17 h 20min - 6 h 32 min = 16 h 80 min - 6 h 32 min = 10 h 48 min
+
+*Antwort: Sie waren 10 h und 48 min unterwegs.*
+
+********************************
+
+
+> (b) Wie lange ist die Fahrzeit, wenn Familie Dansky insgesamt 90 Minuten Pause macht?
+
+
+{{2-6}}
+********************************
+
+
+*Rechnung:* 10 h 48 min - 90 min = 9 h 108 min - 90 min = 9h 18 min
+
+*Antwort: Die Fahrzeit beträgt 9 h und 18 min.*
+
+********************************
+
+
+> (c) Die Großeltern kommen zu Besuch. Sie fahren inklusive Pausen 11 h 56 min. Sie kommen um 18:13 Uhr an. Wann sind sie losgefahren?
+
+
+{{3-6}}
+********************************
+
+
+*Gegeben:* Ende 18:13 Uhr → 18 h 13 min;  Dauer 11 h 56 min
+
+*Gesucht:* Anfang
+
+*Rechnung:* Anfang = 18 h 13 min - 11 h 56 min = 17 h 73 min - 11 h 56 min = 6 h 17 min → 6:17 Uhr
+
+*Antwort: Sie sind um 6:17 Uhr losgefahren.*
+
+********************************
+
+
+> (d) Die Familie plant einen gemeinsamen Fährausflug nach Schweden. Sie fahren um 9:35 Uhr los, die Fahrt dauert 7 h 47 min. Wann kommt die Familie in Schweden an?
+
+
+{{4-6}}
+********************************
+
+
+*Gegeben:* Abfang 9:35 Uhr → 9 h 35 min; Dauer 7 h 47 min
+
+*Gesucht:* Ende
+
+*Rechnung:* Ende = 9h 35 min + 7 h 47 min = 16 h 82 min = 17h 22 min →17:22 Uhr
+
+*Antwort: Die Familie kommt um 17:22 Uhr in Schweden an.*
+
+********************************
+
+
+> (e) Sie fahren mit der Fähre zurück nach Deutschland. Die Abfahrtszeit beträgt 22:15 Uhr. Sie kommen am nächsten Morgen um 6:42 Uhr an. Wie lange waren sie unterwegs?
+
+
+{{5-6}}
+********************************
+
+
+*Gegeben:* Ende Nächster Morgen um 6:42 Uhr → 1d 6h 42 min;
+
+*Gegeben:* Anfang 22:15 Uhr → 22 h15 min
+
+*Gesucht:* Dauer
+
+*Rechnung:* Dauer = 1d 6h 42 min - 22h 15 min = 30h 42 min -22h 15 min = 8h 27 min
+
+*Antwort: Sie waren 8 h und 27 min unterwegs.*
+
+********************************
+
+
+# Weitere Übungen
+
+Weitere Übungen, die du durchführen kannst, sind das hier angegebene Quiz oder der Klapptest im lo-net Selbstlernmaterial.
+
+Viel Spaß dabei!
+
+## Externe Links
+
+[Klapptest in lo-net](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grze/ze_kt2.PDF)
 
 #Haftung für Links
 
