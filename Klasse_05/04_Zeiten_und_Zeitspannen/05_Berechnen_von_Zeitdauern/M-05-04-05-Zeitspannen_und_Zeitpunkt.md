@@ -154,7 +154,7 @@ Heute sollt ihr "Fahrplan"-Rechnungen kennen lernen.
 
 Ihr könnt euch das Erklär-Video anschauen (Link auf der URL oder in Lanis). Hier werden dir die Rechnungen ausführlich erklärt. Ihr könnt natürlich vieles im Kopf bestimmen, aber auch bei diesen Aufgaben solltet ihr den korrekten Lösungsweg notieren können.
 
-Notiere dann das Tafelbild und alle Beispiele komplett in dein Heft :  
+Übernimm folgende Überlegung in dein Heft :  
 
 > Überlegung:
 
@@ -167,34 +167,58 @@ Ende &= Anfang~ + ~Dauer \qquad && \mathrm{Das Ende~ist ~ein ~Zeitpunkt.} && z.B
 $$
 
 
+[VIDEO: Beispiel 1]()
+
 Übernimm auch die Beispiele in dein Heft.
 
-> Beispiel 1:
+> **Beispiel 1**
 
 > Hans beginnt um 11.05 Uhr seinen Arbeitsauftrag in Mathe zu bearbeiten . Er ist um 13:30 Uhr fertig. Wie lange hat er dafür gebraucht? (Wie lange hat es gedauert?)
 
-> gegeben:     Anfang   11:05 Uhr   → 11 h 5 min
-                   Ende      13:30 Uhr   → 13 h 30 min
-gesucht:      Dauer
-Dauer = Ende  - Anfang = (13 h 30 min ) - (11 h 5 min)  =  2 h 25 min
-Antwort : Er hat 2 Stunden und 25 Minuten gebraucht, um den Auftrag zu erledigen.
+> *Gegeben:* Anfang 11:05 Uhr → 11 h 5 min;  Ende 13:30 Uhr → 13 h 30 min
 
-Beispiel 2: Hermine geht um 14:20 Uhr einkaufen. Sie braucht 1h 45 min, bis sie wieder zu Hause ist.
-Wann ist sie zu Hause angekommen?
-gegeben:     Anfang 14:20 Uhr     → 14 h 20 min
-                   Dauer 1 h 45 min
-gesucht:      Ende
-Ende = Anfang + Dauer = (14 h 20 min) + (1 h 45 min) = 15 h 65 min = 16 h 5 min   → 16:05 Uhr
-Weil das Ende ein Zeitpunkt ist, muss man jetzt wieder die Uhrzeit angeben.
-Antwort: Hermine ist 16:05 Uhr wieder zu Hause angekommen.
+> *Gesucht:* Dauer
 
-Beispiel 3: Marion telefoniert mit ihrer Tante. Als sie auflegt, stellt sie fest, dass es nun 19:23 Uhr ist und sieht auf dem  Display eine Telefonatdauer von 1 h 46 min angezeigt. Wann hat das Telefonat begonnen?
-gegeben:     Ende  19:23 Uhr      →19 h 23 min
-                   Dauer  1h 46 min
-gesucht:     Anfang
-Anfang = Ende – Dauer = 19 h 23 min - 1 h 46 min = 18 h 83 min - 1 h 46 min = 17 h 37 min
-Weil der Anfang ein Zeitpunkt ist, muss man jetzt wieder die Uhrzeit angeben.
-Antwort : Das Telefonat begann um 17:37 Uhr.  
+> *Rechnung:* Dauer = Ende  - Anfang = (13 h 30 min ) - (11 h 5 min)  =  2 h 25 min
+
+> *Antwort: Er hat 2 Stunden und 25 Minuten gebraucht, um den Auftrag zu erledigen.*
+
+
+[VIDEO: Beispiel 2]()
+
+Übernimm auch dieses Beispiel in dein Heft.
+
+> **Beispiel 2**
+
+> Hermine geht um 14:20 Uhr einkaufen. Sie braucht 1h 45 min, bis sie wieder zu Hause ist. Wann ist sie zu Hause angekommen?
+
+> *Gegeben:* Anfang 14:20 Uhr → 14 h 20 min;  Dauer 1 h 45 min
+
+> *Gesucht:* Ende
+
+> *Rechnung:* Ende = Anfang + Dauer = (14 h 20 min) + (1 h 45 min) = 15 h 65 min = 16 h 5 min   → 16:05 Uhr
+
+> Weil das Ende ein Zeitpunkt ist, muss man jetzt wieder die Uhrzeit angeben.
+
+> *Antwort: Hermine ist 16:05 Uhr wieder zu Hause angekommen.*
+
+[VIDEO: Beispiel 3]()
+
+Übernimm auch dieses Beispiel in dein Heft.
+
+> **Beispiel 3**
+
+> Marion telefoniert mit ihrer Tante. Als sie auflegt, stellt sie fest, dass es nun 19:23 Uhr ist und sieht auf dem  Display eine Telefonatdauer von 1 h 46 min angezeigt. Wann hat das Telefonat begonnen?
+
+> *Gegeben:* Ende  19:23 Uhr →19 h 23 min; Dauer  1h 46 min
+
+> *Gesucht:* Anfang
+
+> *Rechnung:* Anfang = Ende – Dauer = 19 h 23 min - 1 h 46 min = 18 h 83 min - 1 h 46 min = 17 h 37 min
+
+> Weil der Anfang ein Zeitpunkt ist, muss man jetzt wieder die Uhrzeit angeben.
+
+> *Antwort : Das Telefonat begann um 17:37 Uhr.*
 
 
 ##Übungen 3
