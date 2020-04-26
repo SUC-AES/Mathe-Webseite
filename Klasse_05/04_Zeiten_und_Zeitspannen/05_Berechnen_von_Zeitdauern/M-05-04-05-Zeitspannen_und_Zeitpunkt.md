@@ -362,9 +362,182 @@ Auf der nächsten Seite findest du die Lösungen. Auch dort gilt: Drücke auf de
 
 # Weitere Übungen
 
-Weitere Übungen, die du durchführen kannst, sind das hier angegebene Quiz oder der Klapptest im lo-net Selbstlernmaterial.
+Es gibt immer noch weitere Übungen, die du machen kannst.
+
+Vielleicht hast du Lust auf das Quiz. Du kannst es entweder hier im Browser bearbeiten oder dir das pdf runterladen.
+
+Bei den externen Links findest du auch einen Link zu einem Klapptest im lo-net Selbstlernmaterial.
+
 
 Viel Spaß dabei!
+
+## Quiz
+
+Drücke nach jeder Frage auf den Pfeil rechts
+
+
+{{0-1}}
+********************************
+
+
+**Aufgabe 1**
+
+Schreibe 120 h in der nächstgrößeren Einheit.
+(Beispiel 60 min = 1 h)
+
+[[ ]] 12 d
+[[ ]] 2d
+[[X]] 5d
+[[ ]] 10 d
+
+********************************
+
+
+{{1-2}}
+********************************
+
+
+**Aufgabe 2**
+
+Gib an, wieviel Minuten und Sekunden bei 3h 14 min 6s noch zur
+nächsten vollen Stundenzahl fehlen.
+
+[[ ]] 45 min 94 s
+[[X]] 45 min 54 s
+[[ ]] 6 min 54 s
+[[ ]] 46 min 54 s
+
+********************************
+
+
+{{2-3}}
+********************************
+
+
+**Aufgabe 3**
+
+Schreibe in gemischten Einheiten: 158 s.
+
+[[ ]] 1 min 58 s
+[[ ]] 15 min 8 s
+[[X]] 2 min 38 s
+[[ ]] 2 min 8 s
+
+********************************
+
+
+{{3-4}}
+********************************
+
+
+**Aufgabe 4**
+
+Berechne 1h 40min 27s + 18 h 33s + 4 h 19 min.
+
+[[ ]] 22h 59 min 60 s
+[[ ]] 23h 59 min
+[[ ]] 23h 59 min 59 s
+[[X]] 1d
+
+********************************
+
+
+{{4-5}}
+********************************
+
+
+**Aufgabe 5**
+
+Wandle 5 d 10 h 20 min in die kleinste vorkommende Einheit um.
+
+[[ ]] 51 020 min
+[[ ]] 8 720 min
+[[ ]] 18 620 min
+[[X]] 7 820 min
+
+********************************
+
+
+{{5-6}}
+********************************
+
+
+**Aufgabe 6**
+
+Schreibe 90 min 200s in gemischten Einheiten.
+
+[[X]] 1h 33min 20s
+[[ ]] 9h 20min
+[[ ]] 1h 30min 20s
+[[ ]] 90 200 s
+
+********************************
+
+
+{{6-7}}
+********************************
+
+
+**Aufgabe 7**
+
+Berechne die Zeitdauer zwischen Anfang 7:20 Uhr und Ende 8:05 Uhr.
+
+[[ ]] 85 min
+[[X]] 45 min
+[[ ]] 65 min
+[[ ]] 40 min
+
+********************************
+
+
+{{7-8}}
+********************************
+
+
+**Aufgabe 8**
+
+Gib an, wie spät es 37 min nach 8:55 Uhr ist.
+
+[[ ]] 9:37 Uhr
+[[ ]] 9 h 31 min
+[[X]] 9:32 Uhr
+[[ ]] 8:32 Uhr
+
+********************************
+
+
+{{8-9}}
+********************************
+
+
+**Aufgabe 9**
+
+Herr Filmfan möchte ins Kino gehen. Er rechnet für Hinfahrt und Parkplatzsuche 25 min, für das Anstehen zum Kartenkauf 10 min, für den Popcornkauf 5 min und 2 min zum Aufsuchen seines Platzes. Er möchte 5 min vor Beginn des Filmes im Kino sitzen. Der Film beginnt um 20.00 Uhr. Wann muss er losfahren?
+
+[[ ]] 19:07 Uhr
+[[ ]] 19:32 Uh
+[[ ]] 19:20 Uhr
+[[X]] 19:13 Uhr
+
+********************************
+
+
+{{9-10}}
+********************************
+
+
+**Aufgabe 10**
+
+Familie Reisefix möchte in den Urlaub auf eine Nordsee-Insel fahren. Sie fahren um 5:30 Uhr los, fahren 3h und 20 min, machen 45 min Pause, fahren dann noch mal 2 h 50 min und brauchen für die Parkplatzsuche und die Fährverbindung noch einmal zusammen 1h 20 min. Wann kommen sie am Ziel an?
+
+[[ ]] 14:30 Uhr
+[[ ]] 13:30 Uhr
+[[X]] 13:45 Uhr
+[[ ]] 14:45 Uhr
+
+
+********************************
+
 
 ## Externe Links
 
