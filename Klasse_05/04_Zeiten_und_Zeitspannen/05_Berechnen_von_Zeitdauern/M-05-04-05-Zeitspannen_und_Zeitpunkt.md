@@ -189,7 +189,7 @@ $$
 
 > **Beispiel 2**
 
-> Hermine geht um 14:20 Uhr einkaufen. Sie braucht 1h 45 min, bis sie wieder zu Hause ist. Wann ist sie zu Hause angekommen?
+> Hermine geht um 14:20 Uhr einkaufen. Sie braucht 1h 45 min, bis sie wieder zu Hause ist. Wann kommt sie zu Hause an?
 
 > *Gegeben:* Anfang 14:20 Uhr → 14 h 20 min;  Dauer 1 h 45 min
 
