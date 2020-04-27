@@ -153,7 +153,7 @@ Heute sollt ihr "Fahrplan"-Rechnungen kennen lernen.
 
 Ihr könnt euch das Erklär-Video anschauen (Link auf der URL oder in Lanis). Hier werden dir die Rechnungen ausführlich erklärt. Ihr könnt natürlich vieles im Kopf bestimmen, aber auch bei diesen Aufgaben solltet ihr den korrekten Lösungsweg notieren können.
 
-[VIDEO Erste Überlegungen](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EQD3LjcKNqdJt2iumUe5QUEBJGEZQRMfUbiEZNUn8llFmA?e=bdo3iy)
+[VIDEO: Erste Überlegungen](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EQD3LjcKNqdJt2iumUe5QUEBJGEZQRMfUbiEZNUn8llFmA?e=bdo3iy)
 
 Übernimm folgende Überlegung in dein Heft :  
 
@@ -168,7 +168,7 @@ Ende &= Anfang~ + ~Dauer \qquad && \mathrm{Das Ende~ist ~ein ~Zeitpunkt.} && z.B
 $$
 
 
-[VIDEO: Beispiel 1]()
+[VIDEO: Beispiel 1 Dauer](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EVdMCC10Qw1JlgZaI6uqyqgB0m4NFY7UvcvZbaxXV9p6ew?e=0obA71)
 
 Übernimm auch die Beispiele in dein Heft.
 
@@ -185,7 +185,7 @@ $$
 > *Antwort: Er hat 2 Stunden und 25 Minuten gebraucht, um den Auftrag zu erledigen.*
 
 
-[VIDEO: Beispiel 2]()
+[VIDEO: Beispiel 2 Ende](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EbmY4EQIuXZFkJ_fw6lQHHwBTzR51yh4ODuI3cFlG672vg?e=PXjS81)
 
 Übernimm auch dieses Beispiel in dein Heft.
 
@@ -203,7 +203,7 @@ $$
 
 > *Antwort: Hermine ist 16:05 Uhr wieder zu Hause angekommen.*
 
-[VIDEO: Beispiel 3]()
+[VIDEO: Beispiel 3 Anfang](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EZGVr-ulG2lApBAhRPseNGIBJ75wvG1fxSr0mVWjqPRi4A?e=9v9Aiq)
 
 Übernimm auch dieses Beispiel in dein Heft.
 
