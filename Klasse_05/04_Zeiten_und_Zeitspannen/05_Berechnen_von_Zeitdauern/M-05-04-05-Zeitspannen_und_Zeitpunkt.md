@@ -159,6 +159,8 @@ Ihr könnt euch das Erklär-Video anschauen (Link auf der URL oder in Lanis). Hi
 
 > Überlegung:
 
+> ![image](../graphics/5_Anfang-Dauer-Ende.png)
+
 > $$
 \begin{aligned}
 Anfang &= Ende ~–~ Dauer \qquad && \mathrm{Der~ Anfang ~ist ~ein ~Zeitpunkt.} \qquad && z.B. 8\mathrm{:}10 ~Uhr \\
