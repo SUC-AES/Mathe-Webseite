@@ -153,6 +153,8 @@ Heute sollt ihr "Fahrplan"-Rechnungen kennen lernen.
 
 Ihr könnt euch das Erklär-Video anschauen (Link auf der URL oder in Lanis). Hier werden dir die Rechnungen ausführlich erklärt. Ihr könnt natürlich vieles im Kopf bestimmen, aber auch bei diesen Aufgaben solltet ihr den korrekten Lösungsweg notieren können.
 
+[VIDEO Erste Überlegungen](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/susanne_suckfuell_aes-maintal_de/EQD3LjcKNqdJt2iumUe5QUEBJGEZQRMfUbiEZNUn8llFmA?e=bdo3iy)
+
 Übernimm folgende Überlegung in dein Heft :  
 
 > Überlegung:
