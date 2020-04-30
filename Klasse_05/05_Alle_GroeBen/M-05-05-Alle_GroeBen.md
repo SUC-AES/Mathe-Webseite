@@ -12,7 +12,7 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 
 Diese Seite ist an das schulinterne Arbeitsheft “Kitty” der Albert-Einstein-Schule in Maintal angelehnt, auf welches in regelmäßigen Abständen
-immer wieder verwiesen wird. Sie soll euch helfen, das Thema Zeiten und Zeitspannen besser zu verstehen. Das Thema ist thematisch so, wie im
+immer wieder verwiesen wird. Sie soll euch helfen, alle Einheiten zu wiederholen und zu vertiefen. Das Thema ist thematisch so, wie im
 Arbeitsheft unterteilt.
 
 Auf der nächsten Seite findet ihr die direkten Links zu den einzelnen Unterseiten.
@@ -162,6 +162,9 @@ $$
     $ 5^2 - (4^2 + 3^2) $
 
     [[0]]
+    [[?]] $ 5^2 = 5 \cdot 5 $
+    [[?]] $ 4^2 = 4 \cdot 4 $
+    [[?]] $ 3^2 = 3 \cdot 3 $
     ***********************************************************************
 
 
@@ -176,112 +179,6 @@ $$
     $$
 
         ***********************************************************************
-
-
-## Woche 2
-
-
-
-**Tag 1 - Montag**
-
-  Berechne den Term und gib das Ergebnis an:
-
-    $ (53 - 8) \cdot 4 - 11∙7 + 144 : 6 $
-
-    [[127]]
-    ***********************************************************************
-
-
-  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-  $$
-    \begin{aligned}
-    \quad & (53 - 8) \cdot 4 - 11 \cdot 7 + 144 : 6  \\
-    = & 45 \cdot 4 - 77 + 24 \\
-    = & 180 - 77 + 24 \\
-    = & 103 + 24 \\
-    = & 127
-  \end{aligned}
-  $$
-
-
-    ***********************************************************************
-
-
-**Tag 2 - Dienstag**
-
-  Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
-
-  $ (93 - 6 \cdot 12 ) : (  2 \cdot 47 - 87 ) $
-
-  [[3]]
-  ***********************************************************************
-
-
-  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-  $$
-  \begin{aligned}
-    \quad & (93 - 6 \cdot 12 ) : (  2 \cdot 47 - 87 ) \\
-    = & (93 - 72 ) : (  94 - 87 ) \\
-    = & 21 : 7 \\
-    = & 3
-  \end{aligned}
-  $$
-
-  ***********************************************************************
-
-
-**Tag 3 - Mittwoch**
-
-    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
-
-    $ (1058 -197) : (77 : 11)  $
-
-    [[123]]
-    [[?]] $ 5^2 = 5 \cdot 5$
-    ***********************************************************************
-
-
-  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-  $$
-  \begin{aligned}
-    \quad & (1058 -197) : (77 : 11) \\
-    = & 861 : 7 \\
-    = & 123
-  \end{aligned}
-  $$
-
-
-    ***********************************************************************
-
-**Tag 4 - Donnerstag**
-
-    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
-
-    $ [(4^2 + 4 \cdot 5):4- 144 : 24]^3$
-
-    [[27]]
-    [[?]] Denke an Kla Po Pu Stri
-    [[?]] Rechne zuerst $4^2$
-    [[?]] Rechne zuerst die Klammer bevor du $(... )^3$ rechnen kannst
-    [[?]] $ 3^3 = 3 \cdot 3 \cdot 3$
-    ***********************************************************************
-
-
-  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
-  $$
-  \begin{aligned}
-    \quad & [(4^2 + 4 \cdot 5):4- 144 : 24]^3 \\
-    = & [(16 +20):4- 6]^3 \\
-    = & [36 : 4 - 6 ]^3 \\
-    = & [9 - 6]^3 \\
-    = & 3^3 \\
-    = & 27
-  \end{aligned}
-  $$
-
-    ***********************************************************************
-
-
 
 
 #Haftung für Links
