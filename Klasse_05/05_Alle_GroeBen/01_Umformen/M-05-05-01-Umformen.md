@@ -72,41 +72,25 @@ Denke daran, du kannst aber auch immer in deinem eigenen Heft, im Kittyheft oder
 
 Die Übungen auf der Seite 30 und 31 sind Klapptests. Klappe dir die Lösungen nach hinten weg und löse dann die Aufgaben. Wenn du fertig bist, kannst du die Lösungen wieder zurück klappen und die Ergebnisse vergleichen. Berichtige deine Fehler. Die Rechenwege zur Aufgabe 4 auf der Seite 31 findest du auf der Seite [Brüche]().
 
-### Seite 32 Aufgabe 1
+###Lösung Seite 32 Aufgabe 1a
 
 Forme in die angegebene Einheit um.
 
+###Lösung Seite 32 Aufgabe 1b
 
 
-83,1 m =
- km
- 7200 kg =
- t
- 83,59 € =
- ct
- 28,71 dm =
- m
- 90.06 g =
- mg
- 2868 ct =
- €
- 9034,021 m =
- cm
- 56,34 t =
- g
- 38 € =
- ct
- 53,47 m=
- dm
- 84010 g=
- kg
- 9250 €=
- ct
+###Lösung Seite 32 Aufgabe 2a
+
+###Lösung Seite 32 Aufgabe 2b
 
 
 ##Externe Übung
 
-**Freiwillig:** Wer von euch noch weitere Übungen machen möchte, kann sich folgende Seite bei dem Aufgabenfuchs ansehen:
+**Freiwillig:**
+
+*Aufgabenfuchs*
+
+Wenn du noch weitere Übungen machen möchtest, kannst du dir folgende Seite bei dem Aufgabenfuchs ansehen:
 
 [Aufgabenfuchs](https://mathe.aufgabenfuchs.de/groessen/einfache-groessen-umrechnen.shtml)
 
@@ -115,6 +99,19 @@ Hier findest du Umrechnungsübungen zu vielen Einheiten. Du kannst dir bei jeder
 Mit dem Button "Neu" erhaltet ihr neue Aufgaben mit "Auswertung" könnt ihr eure Ergebnisse überprüfen.
 
 
+*Lo-net Selbstlernmaterial*
+
+Eine weitere tolle Seite ist von Thomas Unkelbach. Merke sie dir gut, du findest hier Aufgaben bis hoch zum Abitur. Einige Sachen erkennt ihr vielleicht wieder.
+
+[Selbstlernmaterial - Längen](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grla/grlaindex.html)
+
+[Selbstlernmaterial - Massen](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grma/grmaindex.html)
+
+[Selbstlernmaterial - Geldwerte](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grge/grgeindex.html)
+
+[Selbstlernmaterial - Zeiten](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grze/grzeindex.html)
+
+[Selbstlernmaterial - Gemischte Übungen](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grve/grveindex.html)
 
 
 #Haftung für Links
