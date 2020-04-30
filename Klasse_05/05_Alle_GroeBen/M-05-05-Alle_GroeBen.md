@@ -8,32 +8,32 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#2
 -->
 
-# Zeiten und Zeitspannen - Jahrgang 5
+# Alle Größen - Jahrgang 5
 
-Diese Seite ist an das schulinterne Arbeitsheft "Kitty" der Albert-Einstein-Schule in Maintal angelehnt, auf welches in regelmäßigen Abständen immer wieder verwiesen wird. Sie soll euch helfen, das Thema **Zeiten und Zeitspannen** besser zu verstehen. Das Thema ist thematisch so, wie im Arbeitsheft unterteilt.
+
+Diese Seite ist an das schulinterne Arbeitsheft “Kitty” der Albert-Einstein-Schule in Maintal angelehnt, auf welches in regelmäßigen Abständen
+immer wieder verwiesen wird. Sie soll euch helfen, das Thema Zeiten und Zeitspannen besser zu verstehen. Das Thema ist thematisch so, wie im
+Arbeitsheft unterteilt.
 
 Auf der nächsten Seite findet ihr die direkten Links zu den einzelnen Unterseiten.
 
-Zusätzlich findet ihr zu jedem Tag der Woche einen täglichen Term. Mit diesem könnt ihr jeden Tag beginnen, um so euren Tag zu starten. Die Termschreibweise ist elementar in der Mathematik. Deswegen solltet ihr immer euren Rechenweg mit der Musterlösung vergleichen.
+Zusätzlich findet ihr zu jedem Tag der Woche einen täglichen Term. Mit diesem könnt ihr jeden Tag beginnen, um so euren Tag zu starten. Die
+Termschreibweise ist elementar in der Mathematik. Deswegen solltet ihr immer euren Rechenweg mit der Musterlösung vergleichen.
 
 
+# Übersicht über das Thema *Alle Größen*
 
+Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
-# Übersicht über das Thema *Zeiten und Zeitspannen*
+[Alle Größen - Jahrgang 5]()
 
-Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+[01 Umformen]()
 
-[Zeiten und Zeitspannen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#1)
+[02 Alle Rechnungen]()
 
-[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/01_MaBeinheiten/M-05-04-01-MaBeinheiten.md#2)
+[03 Brüche]()
 
-[02 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/02_Umformen/M-05-04-02-Umformen.md#2)
-
-[03 Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/03_Addition_und_Subtraktion/M-05-04-03-Addition_und_Subtraktion.md#2)
-
-[04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/04_Multiplikation_und_Division/M-05-04-04-Multiplikation_und_Division.md#1)
-
-[05 Zeitspannen und Zeitpunkte](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/05_Berechnen_von_Zeitdauern/M-05-04-05-Zeitspannen_und_Zeitpunkt.md#2)
+[04 Textaufgaben]()
 
 
 # Täglicher Term
@@ -61,19 +61,21 @@ Durch das Anklicken des eingekreisten i erhältst du das korrekte Ergebnis. Der 
 
   Berechne den Term und gib das Ergebnis an:
 
-    $ (72 + 3 \cdot 16) : ( 3 \cdot 7 -17 )$
+    $ [7 \cdot (  83 + 27) - 14 \cdot 5 ] : 5^2$
 
-    [[30]]
+    [[28]]
+    [[?]] $ 5^2 = 5 \cdot 5 $
     ***********************************************************************
 
 
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
   \begin{aligned}
-  \quad & (72 + 3 \cdot 16) : ( 3 \cdot 7 -17 ) \\
-  = & (72 + 48 ) : (21 - 17) \\
-  = & 120 : 4\\
-  = & 30
+  \quad & [7 \cdot (  83 + 27) - 14 \cdot 5 ] : 5^2 \\
+  = &  [7 \cdot 110 - 70 ] : 25 \\
+  = &  [770 - 70 ] : 25 \\
+  = & 700 : 25
+  = & 28
 \end{aligned}
 $$
 
@@ -85,21 +87,20 @@ $$
 
   Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-  $ [10^2 - ( 18+13) \cdot 3 ] \cdot 19 $
+  $ 64:8+3 \cdot ( 24 + 3 \cdot 12 ) $
 
-  [[133]]
-  [[?]] $ 10^2 = 10 \cdot 10$
+  [[188]]
   ***********************************************************************
 
 
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
 \begin{aligned}
-  \quad & [10^2 - ( 18+13) \cdot 3 ] \cdot 19 \\
-  = & [100 - 31 \cdot 3 ] \cdot 19 \\
-  = & [100 - 93 ] \cdot 19 \\
-  = & 7 \cdot 19 \\
-  = & 133
+  \quad &  64:8+3 \cdot ( 24 + 3 \cdot 12 ) \\
+  = &  8 + 3 \cdot ( 24 + 36 ) \\
+  = & 8 + 3 \cdot 60 \\
+  = & 8 + 180 \\
+  = & 188
 \end{aligned}
 $$
 
@@ -110,21 +111,20 @@ $$
 
     Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-    $ 84:( 5^2 - 52:4) + 99 $
+    $ 42:( 71-65 )-( 13 \cdot 3 + 3 ):7 $
 
-    [[106]]
-    [[?]] $ 5^2 = 5 \cdot 5$
+    [[1]]
     ***********************************************************************
 
 
   Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
   $$
   \begin{aligned}
-    \quad & 84:( 5^2 - 52:4) + 99 \\
-    = & 84:( 25 - 13) + 99 \\
-    = & 84 : 12 + 99 \\
-    = & 7 + 99 \\
-    = & 106
+    \quad & 42:( 71-65 )-( 13 \cdot 3 + 3 ):7 \\
+    = & 42:6-( 39 + 3 ):7 \\
+    = & 7 - 42 : 7 \\
+    = & 7 -6 \\
+    = & 1
   \end{aligned}
   $$
 
@@ -135,23 +135,21 @@ $$
 
     Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-    $ [( 94-28 ):11 + 70 :5 ]^2 $
+    $ [ 7 \cdot ( 21 -4 ) + 9^2 ] \cdot ( 4 + 8 ) $
 
-    [[400]]
-    [[?]] Denke an Kla Po Pu Stri
-    [[?]] Rechne zuerst die Klammer bevor du $( ... )^2$ rechnen kannst
-    [[?]] $ 20^2 = 20 \cdot 20$
+    [[2400]]
+    [[?]] $ 9^2 = 9 \cdot 9 $
     ***********************************************************************
 
 
   Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
   $$
   \begin{aligned}
-    \quad & [( 94-28 ):11 + 70 :5 ]^2 \\
-    = & [ 66:11 + 14 ]^2 \\
-    = & [ 6 + 14 ]^2 \\
-    = & 20^2 \\
-    = & 400
+    \quad & [ 7 \cdot ( 21 -4 ) + 9^2 ] \cdot ( 4 + 8 ) \\
+    = & [ 7 \cdot 17 + 81 ] \cdot 12 \\
+    = & [ 119 + 81 ] \cdot 12 \\
+    = & 200\cdot 12 \\
+    = & 2400
   \end{aligned}
   $$
 
@@ -161,19 +159,19 @@ $$
 
     Berechne den Term und gib das Ergebnis an.
 
-    $ (99+24 \cdot 7) - ( 200:8 + 76 ) $
+    $ 5^2 - (4^2 + 3^2) $
 
-    [[166]]
+    [[0]]
     ***********************************************************************
 
 
     Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
     $$
     \begin{aligned}
-      \quad & (99+24 \cdot 7) - ( 200:8 + 76 ) \\
-      = & (99+ 168) - (25 + 76) \\
-      = & 267 - 101 \\
-      = & 166
+      \quad & 5^2 - (4^2 + 3^2) \\
+      = & 25 - ( 16 + 9) \\
+      = & 25 - 25 \\
+      = & 0
     \end{aligned}
     $$
 
