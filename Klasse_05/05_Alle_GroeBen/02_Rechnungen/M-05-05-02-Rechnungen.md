@@ -8,224 +8,113 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
 -->
 
-# Zeiten und Zeitspannen - Jahrgang 5
+# Alle Größen - Jahrgang 5
 
 
-**Übersicht über das Thema** ***Zeiten und Zeitspannen***
+**Übersicht über das Thema** ***Alle Größen***
 
-Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
-[Zeiten und Zeitspannen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#1)
+[Alle Größen - Jahrgang 5]()
 
-[01 Maßeinheiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/01_MaBeinheiten/M-05-04-01-MaBeinheiten.md#2)
+[01 Umformen]()
 
-[02 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/02_Umformen/M-05-04-02-Umformen.md#2)
+[02 Alle Rechnungen]()
 
-[03 Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/03_Addition_und_Subtraktion/M-05-04-03-Addition_und_Subtraktion.md#2)
+[03 Brüche]()
 
-[04 Multiplikation und Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/04_Multiplikation_und_Division/M-05-04-04-Multiplikation_und_Division.md#1)
-
-[05 Zeitspannen und Zeitpunkte](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/05_Berechnen_von_Zeitdauern/M-05-04-05-Zeitspannen_und_Zeitpunkt.md#2)
+[04 Textaufgaben]()
 
 
-
-# Maßeinheiten
+# Alle Rechenarten
 
 Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
 
-> **~~4. Größen: Zeiten und Zeitspannen ~~**
+> **~~5.2 Alle Rechenarten~~**
 
-> **~~4.1 Maßeinheiten~~**
+Erinnere dich, was du über die verschiedene Rechenarten mit Größen weißt.
 
+Vervollständige die Aussagen korrekt
 
-Wir rechnen insgesamt mit fünf verschiedenen Maßeinheiten (in alphabetischer Reihenfolge): Jahre, Minuten, Sekunden, Stunden und Tage.
+> **Addition**
 
-Entscheide, wie die Einheiten der Größe nach geordnet werden:
+> Ich addiere zwei oder mehr Größen, indem ich ...
 
-[[größte] (zweitgrößte) (drittgrößte) (viertgrößter) [kleinste ]]
-[ [X]          [ ]          [ ]           [ ]           [ ]    ] Jahr
-[ [ ]          [ ]          [ ]           [X]           [ ]    ] Minuten
-[ [ ]          [ ]          [ ]           [ ]           [X]    ] Sekunden
-[ [ ]          [ ]          [X]           [ ]           [ ]    ] Stunden
-[ [ ]          [X]          [ ]           [ ]           [ ]    ] Tage
-***********************************************************************
-
-
-Der Größe nach geordnet sind es: Jahr (y) - Tag (d) - Stunde (h) - Minute (min) - Sekunde (s)
-
-***********************************************************************
-
-## Pfeilbild
-
-Wie immer soll in das Heft ein Pfeilbild mit den Umrechnungspfeilen. Wenn du es erklärt haben möchtest, kannst du dir folgendes [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=wDnvjW-sDLc) anschauen. Lehrer Schmidt benutzt noch die Monate, die mathematisch gesehen immer 30 Tage haben, auch zum Beispiel der Januar und der Februar. Wir benutzen die Monate nicht, sondern nur das Jahr. Es gibt allerdings erstmal keine Schaltjahre, wir rechnen immer mit 365 Tagen.
-
-In dem Video erklärt Lehrer Schmidt auch gleich einfache Umrechnungen, wie du sie danach auch lösen sollst.
-
-!?[movie](https://www.youtube.com/watch?v=wDnvjW-sDLc)
-
-Übernimm nun das Pfeilbild in dein Matheheft.
-
-> ![image](../graphics/1_Pfeilbild.png)
+> [[ ]] die Zahlen einfach addiere und die erste Einheit dahinter schreibe.
+> [[ ]] alle Einheiten durch die kleinste Einheit ersetze und dann die Zahlen addiere.
+> [[ ]] alle Größen in die gleiche Einheit umforme und die Zahlen dann addiere.
+> [[X]] alle Größen in der gleichen Einheit ohne Komma umforme und dann die Zahlen addiere.
+***********************************
 
 
-**Übersicht über die Zeitspannen**
-
-Übertrage die untere Aufgabe in dein Matheheft und fülle dabei auch die Lücken aus. Wenn du dies getan hast, schreibe in das untere Feld "fertig", um die Musterlösung zu erhalten.
-
-> $$
-  \begin{aligned}
-    1 y  & = .................. & d & = .................. & h & = .................. & min & = .................. s \\
-    1 d & = .................. & h & = .................. & min & = .................. & s & \\
-    1 h & = ................. & min & = .................. & s & & & \\
-    1 min & = .................. & s & & & & & \\
-  \end{aligned}
-$$
+> Genauso funktioniert natürlich auch die Subtraktion.
 
 
-[[fertig]]
-***********************************************************************
+***********************************
 
 
-Vergeiche deine Ergebnisse und berichtige eventuelle Fehler.
+> **Multiplikation**
 
-Achte darauf die Zahlen in Dreierpäckchen zusammenzufassen. Du kannst sie dann viel besser lesen.
+> Ich multipliziere eine Größe mit einer Zahl, indem ich ...
 
-$$
-  \begin{aligned}
-    1 y  & = & 365 & d & = & 8.760 & h & = & 525.600 & min & = 31.536.000 s  \\
-    1 d & = & 24 & h & = & 1.440 & min & = & 86.400 & s & \\
-    1 h & = & 60 & min & = & 3.600 & s & & & & \\
-    1 min & = & 60 & s & & & & & & & \\
-  \end{aligned}
-$$
+> [[ ]] das Komma einfach weglasse und die Zahlen multipliziere und dann die Einheit dahinter schreibe.
+> [[ ]] darauf achte, dass die Zahl und die Größe die gleiche Einheit haben.
+> [[X]] die Größe in eine Einheit ohne Komma umforme und dann multipliziere.
 
 
+> **Division - Teil 1**
 
-***********************************************************************
+> Ich dividiere eine Größe durch eine Zahl, indem ich ...
+
+> [[X]] die Größe in eine Einheit ohne Komma umforme und dann dividiere.
+> [[ ]] das Komma weglasse und im Ergebnis an die gleiche Stelle setze.
+> [[ ]] Größe und Zahl in der gleichen Einheit umforme und dann dividiere.
+***********************************
+
+
+> Eventuell muss es in eine sogar noch kleinere Einheit umgeformt werden, wenn die Division nicht aufgeht:
+
+> $2 m : 5$ *geht nicht*. Deswegen wird es in $20 dm : 5$ umgeformt.
+
+
+***********************************
+
+
+> **Division - Teil 2**
+
+> Ich dividiere eine Größe durch eine weitere Größe, indem ich ...
+
+> [[ ]] die Größe in eine Einheit ohne Komma umforme und dann dividiere.
+> [[ ]] das Komma weglasse und im Ergebnis an die gleiche Stelle setze.
+> [[X]] die Größen in die gleiche Einheit ohne Komma umforme und beim Ergebnis die Einheit weglasse.
+> [[ ]] die Größen in die gleiche Einheit ohne Komma umforme und dividiere.
+***********************************
+
+
+> Beispiel: $350 kg : 7 kg = 50$
+
+
+***********************************
+
 
 
 ## Übung 1
 
-Wandle in die nächstkleinere Einheit um. Du kennst bereits die Umrechnungszahlen, als Hilfe kannst du dir aber auch das Pfeilbild daneben legen.
 
-Schreibe die Aufgaben auch immer in dein Heft.
+# Einheitenweise Addieren und Subtrahieren
 
-3 min = ... s
+Diese Art der Addition und Subtraktion ist eine alternative zu den bisherigen Rechenwegen. Die Bearbeitung dieses Teiles ist **freiwillig**:
 
-[[180]]
+Bisher habt ihr die Größen immer in die gleiche Einheit ohne Komma umgeformt. Du kennst aber bereits von den Zeiten das einheitenweise Addieren und Subtrahieren. Die Aufgabe 4 auf der Seite 33 im Kittyheft ist eine Aufgabe, in der du dies auch bei den anderen Einheiten üben kannst. Übernimm die Beispiel in dein Heft. Hinter den einzelnen Zeilen stehen Kommentare, die du beachten kannst. Sie erklären dir, was gerechnet wurde. Achtung: Bei der Subtraktion darfst du wieder "Robin Hood" spielen.
 
-5 h = ... min
+[VIDEO Einheitenweise Addieren und Subtrahieren]
 
-[[300]]
+Übernimm jetzt die Beispiele in dein Heft:
 
-7 d = ... h
-
-[[168]]
-
-9 y = ... d
-
-[[3285]]
-
-90 min = ... s
-
-[[5400]]
-
-21 h = ... min
-
-[[1260]]
-
-10 d = ... h
-
-[[240]]
-
-16 y = ... d
-
-[[5840]]
-
-48 min = ... s
-
-[[2880]]
-
-48 h = ... min
-
-[[2880]]
-
-48 d = ... h
-
-[[1152]]
-
-48 y = ... d
-
-[[17520]]
+> asfd
 
 
 ## Übung 2
-
-Wandle in die nächstgrößere Einheit um. Du kannst auch hier zur Hilfe wieder das Pfeilbild benutzen.
-
-Schreibe die Aufgaben auch immer in dein Heft.
-
-660 s = ... min
-
-[[11]]
-
-120 min = ... h
-
-[[2]]
-
-72 h = ... d
-
-[[3]]
-
-1825 d = ... y
-
-[[5]]
-
-1260 s = ... min
-
-[[21]]
-
-2400 min = ... h
-
-[[40]]
-
-216 h = ... d
-
-[[9]]
-
-540 s = ... min
-
-[[9]]
-
-5940 min = ... h
-
-[[99]]
-
-1200 h = ... d
-
-[[50]]
-
-2100 s = ... min
-
-[[35]]
-
-2820 min = ... h
-
-[[47]]
-
-
-
-##Externe Übung
-
-**Freiwillig:** Wer von euch noch weitere Übungen machen möchte, kann sich folgende Seite bei dem Aufgabenfuchs ansehen:
-
-[Aufgabenfuchs](https://mathe.aufgabenfuchs.de/groessen/einfache-groessen-umrechnen.shtml)
-
-Hier findet ihr Umrechnungsübungen zu vielen Einheiten. Geht zu dem Punkt "6) Zeit". Hier könnt ihr die Einheiten einstellen, zwischen denen ihr umrechnen wollt. Ihr könnt sogar von Sekunden in Tage umrechnen, wenn ihr das möchtet. Das ist aber ziemlich kompliziert.
-
-Mit dem Button "Neu" erhaltet ihr neue Aufgaben mit "Auswertung" könnt ihr eure Ergebnisse überprüfen.
-
-
 
 
 #Haftung für Links
