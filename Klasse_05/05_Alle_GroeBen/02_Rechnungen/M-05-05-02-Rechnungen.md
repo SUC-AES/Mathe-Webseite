@@ -98,7 +98,7 @@ Vervollständige die Aussagen korrekt
 
 
 
-## Übung 1
+## Lösung Seite 33 Aufgabe 3
 
 
 # Einheitenweise Addieren und Subtrahieren
@@ -109,12 +109,37 @@ Bisher habt ihr die Größen immer in die gleiche Einheit ohne Komma umgeformt. 
 
 [VIDEO Einheitenweise Addieren und Subtrahieren]
 
-Übernimm jetzt die Beispiele in dein Heft:
+Übernimm jetzt die Beispiele in dein Heft.
 
-> asfd
+> **Addition**
+
+> $$
+\begin{aligned}
+& 84 m ~3 dm~ 7 cm + 2 m ~8 dm ~1 cm  \\
+&= (84+2) m~ (3+8) dm~ (7+1) cm  &&diesen~ Schritt ~darf ~man~ weglassen \\
+&= 86 m~ 11 dm ~8 cm   &&Achtung: ~11 dm = 1 m ~1 dm! \\
+&= 87 m ~1 dm ~8 cm \\
+\end{aligned}
+$$
 
 
-## Übung 2
+Bei der Subtraktion darfst statt diesen Textes wie im Video, die Pfeile für "Robin Hood" einzeichnen.
+
+> **Subtraktion**
+
+> $$
+\begin{aligned}
+&7 t~ 480 kg~ 123 g - 875 kg ~34 g \\
+&= 6 t ~1480 kg~ 123 kg - 875 kg~ 34 g &&Hast~ du~ es~ gemerkt? \\
+&&&480 - 875 ~geht~ nicht,~ also~ "Robin~ Hood" \\
+&= 6 t~ (1480 - 875) kg ~(123 - 34) g  &&diesen~ Schritt~ darf~ man~ weglassen \\
+&= 6t ~605 kg ~89 g \\
+\end{aligned}
+$$
+
+
+
+##Lösung Seite 33 Aufgabe 4
 
 
 #Haftung für Links
