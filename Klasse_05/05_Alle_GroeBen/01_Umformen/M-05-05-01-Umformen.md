@@ -93,10 +93,35 @@ Die Übungen auf der Seite 30 und 31 sind Klapptests. Klappe dir die Lösungen n
 \end{aligned}
 $$
 
+
 ###Lösung Seite 32 Aufgabe 1b
+
+> Gib in gemischter Schreibweise an. Einheiten, die nicht vorkommen, müssen nicht geschrieben werden.
+
+> $$
+\begin{aligned}
+1942,867 ~m & =  1 km  ~942 m \\
+59267,56 ~kg & = 59 t ~267 kg 560 g \\
+38044,06 ~m & = 38 km ~44 m ~6 cm \\
+0,06840002 ~t & = 68 kg ~400 g ~20 mg \\
+0,030907 ~km & = 30 m ~9 dm ~7 mm \\
+2907,26081 ~kg & = 2 t ~907 kg ~260 g ~81 mg \\
+\end{aligned}
+$$
 
 
 ###Lösung Seite 32 Aufgabe 2a
+
+> Zeiten umrechnen: Gib in der angegebenen Einheit an.
+
+> $$
+\begin{aligned}
+17 ~h & = 61.200 ~s & 3 h~ 23 min & = 203 ~min \\
+771 ~min & = 46.260 ~s & 11 d ~11 h ~1 min & = 16.501 ~min \\
+75.600 ~s & = 21 ~h & 36 min ~27 s & =   2.187 ~s \\
+1.870 ~min & = 1d ~10 h ~10 min \qquad & 7 h ~21 min ~37 s & =   26.497 ~s \\
+\end{aligned}
+$$
 
 ###Lösung Seite 32 Aufgabe 2b
 
