@@ -28,7 +28,7 @@ Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kanns
 
 # Alle Rechenarten
 
-Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
+Schreibe die Überschrift in dein Heft:
 
 > **~~5.2 Alle Rechenarten~~**
 

@@ -74,7 +74,24 @@ Die Übungen auf der Seite 30 und 31 sind Klapptests. Klappe dir die Lösungen n
 
 ###Lösung Seite 32 Aufgabe 1a
 
-Forme in die angegebene Einheit um.
+> Forme in die angegebene Einheit um.
+
+> $$
+\begin{aligned}
+83,1 ~m & = 0,0831~km \qquad & \qquad  43 m ~7 cm & = 430,7 ~dm \\
+7200 ~kg & =  7,2 ~t & 84 t ~73 g & = 84000,73 ~kg\\
+83,59 ~€ & =   8359 ~ct & 72 € ~9 ct & = 72,09 ~€ \\
+28,71 ~dm & =   2,871 ~m & \quad 34 km~ 9 m ~2 dm & = 34009,2 ~m \\
+90.06 ~g & =    90060 ~mg & 271 kg~ 5g & = 271005 ~g \\
+2868 ~ct & =   28,86 ~€ & 94 € ~761 ct & = 10161  ~ct \\
+9034,021 ~m & = 903402,1 ~cm & 2 m ~75 mm & = 2075 ~cm \\
+56,34 ~t & =   56340000 ~g & 76 kg~ 867mg & = 76,000867 ~kg \\
+38 ~€ & = 3800 ~ct & 194 €~ 67 ct & = 194,67~ € \\
+53,47 ~m & =  534,7 ~dm & 53km ~47 m & = 530470 ~dm \\
+84010 ~g & = 84,01 ~kg & 1 kg ~85 g ~3 mg & = 1085,003 ~g \\
+9250 ~€ & = 925000 ~ct & 94 €~ 2 ct & = 94,02~ € \\
+\end{aligned}
+$$
 
 ###Lösung Seite 32 Aufgabe 1b
 

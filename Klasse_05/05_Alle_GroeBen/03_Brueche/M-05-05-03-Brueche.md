@@ -33,22 +33,6 @@ Schreibe die Überschrift in dein Heft.
 > **~~5.3 Brüche~~**
 
 
-Wir rechnen insgesamt mit fünf verschiedenen Maßeinheiten (in alphabetischer Reihenfolge): Jahre, Minuten, Sekunden, Stunden und Tage.
-
-Entscheide, wie die Einheiten der Größe nach geordnet werden:
-
-[[größte] (zweitgrößte) (drittgrößte) (viertgrößter) [kleinste ]]
-[ [X]          [ ]          [ ]           [ ]           [ ]    ] Jahr
-[ [ ]          [ ]          [ ]           [X]           [ ]    ] Minuten
-[ [ ]          [ ]          [ ]           [ ]           [X]    ] Sekunden
-[ [ ]          [ ]          [X]           [ ]           [ ]    ] Stunden
-[ [ ]          [X]          [ ]           [ ]           [ ]    ] Tage
-***********************************************************************
-
-
-Der Größe nach geordnet sind es: Jahr (y) - Tag (d) - Stunde (h) - Minute (min) - Sekunde (s)
-
-***********************************************************************
 
 ## Pfeilbild
 
