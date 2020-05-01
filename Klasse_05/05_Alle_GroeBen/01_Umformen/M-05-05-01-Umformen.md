@@ -123,7 +123,19 @@ $$
 \end{aligned}
 $$
 
+
 ###Lösung Seite 32 Aufgabe 2b
+
+> Zeiten umrechnen: Gib in gemischter Schreibweise an.
+
+> $$
+\begin{aligned}
+9 .317 ~s & = 155 min ~17 s && = 2 h ~35 min ~17 s \\
+34 .561 ~s & =  576 min ~1 s && = 9 h ~36 min ~1 s \\
+7 .589 ~min & =  126 h ~29 min && = 5 d ~6 h ~29 min \\
+41 .289 ~min & =   688 h ~9 min && = 28 d ~16 h ~9 min \\
+\end{aligned}
+$$
 
 
 ##Externe Übung
