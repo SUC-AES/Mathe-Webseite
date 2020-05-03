@@ -187,7 +187,7 @@ Rechne mit gemischten Einheiten und gib das Ergebnis in gemischten Einheiten an:
 
 $$
 \begin{aligned}
-&(a) \quad && 25 m ~8 dm ~7 cm + 796 m~ 9 cm + 8 m ~9 dm ~6 cm & \qquad *sehr ausführlicher Weg* \\
+&(a) \quad && 25 m ~8 dm ~7 cm + 796 m~ 9 cm + 8 m ~9 dm ~6 cm & \qquad *sehr ~ausführlicher ~Weg* \\
 &&& = ( 25 + 796 + 8 ) ~m + ( 8  + 9 ) ~dm + (7  + 9 + 6 ) ~cm \\
 &&& = 829m +  17 dm + 22 cm \\
 &&& = 829 m + 17 dm + 2 dm ~2 cm \\
