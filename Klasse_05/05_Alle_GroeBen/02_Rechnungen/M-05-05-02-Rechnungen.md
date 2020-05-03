@@ -26,7 +26,7 @@ Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kanns
 [04 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/04_Textaufgaben/M-05-05-04-Textaufgaben.md#1)
 
 
-Für weitere Themen der Klassen 5 gehen Sie zurück auf die dortige Übersichtsseite:
+**Weitere Themen in der Klasse 5**
 
 [Zurück zur Klasse 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/M05_Themen.md#2)
 
