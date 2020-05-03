@@ -101,6 +101,42 @@ Vervollständige die Aussagen korrekt
 ## Lösung Seite 33 Aufgabe 3
 
 
+Rechne ohne Komma und gib das Ergebnis in der angegebenen Einheit an.
+
+$$
+\begin{aligned}
+&(a)\quad && 24,68 ~m + 684~ dm + 1950 ~cm \\
+&&&= 2.469 ~cm + 6.840 ~cm + 1.950 ~cm \\
+&&&= 11.259 ~cm \\
+&&&= 112,59 ~m \\
+\\
+&(b) && 10 ~kg – 0,00381 ~t + 35,7 ~kg \\
+&&&= 10 ~kg – 3,81 ~kg + 35, 7 ~kg\\
+&&& = 10.000 ~g – 3.810 ~g + 35.700 ~g \\
+&&& = 41.890 ~g \\
+&&& = 41, 89 ~kg \\
+\\
+&(c) && 5 h ~55 min + 420 s – 155 min \\
+&&&= 300 ~min + 55 ~min + 7 ~min – 155 ~min \\
+&&& = 207 ~min \\
+\\
+&(d) && 54,06 ~€ \cdot 17 \\
+&&&= 5.406~ ct \cdot 17 \\
+&&&= 91.902 ~ct \\
+&&& = 919,02 ~€ \\
+\\
+&(e) && 5 kg ~250 g : 6 ~g \\
+&&& = 5.250~ g : 6 ~g \\
+&&& = 875 \\
+\\
+&(f) && 7 h ~30 min : 6 \\
+&&& = (420 ~min + 30 ~min) : 6 \\
+&&&= 450 ~min : 6 \\
+&&& = 75 ~min \\
+&&& = 1 h ~15 min \\
+\end{aligned}
+$$
+
 # Einheitenweise Addieren und Subtrahieren
 
 Diese Art der Addition und Subtraktion ist eine alternative zu den bisherigen Rechenwegen. Die Bearbeitung dieses Teiles ist **freiwillig**:
@@ -116,7 +152,7 @@ Bisher habt ihr die Größen immer in die gleiche Einheit ohne Komma umgeformt. 
 > $$
 \begin{aligned}
 & 84 m ~3 dm~ 7 cm + 2 m ~8 dm ~1 cm  \\
-&= (84+2) m~ (3+8) dm~ (7+1) cm  &&diesen~ Schritt ~darf ~man~ weglassen \\
+&= (84+2) m~ (3+8) dm~ (7+1) cm  \qquad &&diesen~ Schritt ~darf ~man~ weglassen \\
 &= 86 m~ 11 dm ~8 cm   &&Achtung: ~11 dm = 1 m ~1 dm! \\
 &= 87 m ~1 dm ~8 cm \\
 \end{aligned}
@@ -130,7 +166,7 @@ Bei der Subtraktion darfst statt diesen Textes wie im Video, die Pfeile für "Ro
 > $$
 \begin{aligned}
 &7 t~ 480 kg~ 123 g - 875 kg ~34 g \\
-&= 6 t ~1480 kg~ 123 kg - 875 kg~ 34 g &&Hast~ du~ es~ gemerkt? \\
+&= 6 t ~1480 kg~ 123 kg - 875 kg~ 34 g \qquad  &&Hast~ du~ es~ gemerkt? \\
 &&&480 - 875 ~geht~ nicht,~ also~ "Robin~ Hood" \\
 &= 6 t~ (1480 - 875) kg ~(123 - 34) g  &&diesen~ Schritt~ darf~ man~ weglassen \\
 &= 6t ~605 kg ~89 g \\
@@ -141,6 +177,34 @@ $$
 
 ##Lösung Seite 33 Aufgabe 4
 
+Rechne mit gemischten Einheiten und gib das Ergebnis in gemischten Einheiten an:
+
+$$
+\begin{aligned}
+&(a) \quad && 25 m ~8 dm ~7 cm + 796 m~ 9 cm + 8 m ~9 dm ~6 cm & \qquad *sehr ausführlicher Weg* \\
+&&& = ( 25 + 796 + 8 ) ~m + ( 8  + 9 ) ~dm + (7  + 9 + 6 ) ~cm \\
+&&& = 829m +  17 dm + 22 cm \\
+&&& = 829 m + 17 dm + 2 dm ~2 cm \\
+&&& = 829 m + 19 dm ~2 cm \\
+&&& = 829 m + 1 m ~9 dm~ 2 cm \\
+&&& = 830 m ~9 dm ~2 cm \\
+\\
+&(b) && 89 t ~97 kg ~287 g + 98 t ~79 kg ~782 g + 5 t ~5 kg ~278 g \\
+&&& = (89 + 98 + 5) ~t + (97 + 79 + 5) ~kg + (287 + 782 + 278) ~g \\
+&&& = 192 t + 181 kg + 1.347 g \\
+&&& = 192 t + 181 kg + 1 kg ~347 g \\
+&&& = 192 t + 182 kg 347 g \\
+&&& = 192 t ~ 182 kg ~ 347 g \\
+\\
+&(c) && 99 km ~999 m ~9 dm – 15 km ~5 m ~5 dm – 3 km ~600 m ~1 dm \\
+&&& = ( 99 - 15 - 3 ) ~km \quad ( 999 - 5 - 600) ~m \quad ( 9 - 5 -1 ) ~dm \\
+&&& = 91 km ~394 m ~3 dm \\
+\\
+&(d) && 27 kg ~689 g ~145 mg – 5 kg ~480 g ~67 mg – 9 kg ~27 g ~8 mg \\
+&&& = (27 - 5 - 9) ~kg \quad ( 689 - 480 - 27) ~g \quad (145 -67 - 8) ~mg \\
+&&&= 13 kg ~182 g ~70 mg\\
+\end{aligned}
+$$
 
 #Haftung für Links
 
