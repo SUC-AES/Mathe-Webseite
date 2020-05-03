@@ -27,6 +27,21 @@ Das Thema *Zeiten und Zeitspannen* setzt sich aus verschiedenen Teilen zusammen.
 
 [05 Zeitspannen und Zeitpunkte](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/05_Berechnen_von_Zeitdauern/M-05-04-05-Zeitspannen_und_Zeitpunkt.md#2)
 
+$\qquad$
+
+**Weitere Themen in der Klasse 5**
+
+[03 Größen - Massen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/M-05-03-Massen.md#1)
+
+[04 Größen - Zeiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#2)
+
+[05 Größen - Gemischte Aufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
+
+$\qquad$
+
+[Zurück zur Klasse 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/M05_Themen.md#2)
+
+
 
 
 # Multiplikation
