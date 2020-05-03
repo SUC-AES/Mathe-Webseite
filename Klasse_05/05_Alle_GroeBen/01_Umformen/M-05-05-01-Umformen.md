@@ -15,15 +15,20 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
 
-[Alle Größen - Jahrgang 5]()
+[Alle Größen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
 
-[01 Umformen]()
+[01 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/01_Umformen/M-05-05-01-Umformen.md#1)
 
-[02 Alle Rechnungen]()
+[02 Alle Rechnungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/02_Rechnungen/M-05-05-02-Rechnungen.md#1)
 
 [03 Brüche]()
 
-[04 Textaufgaben]()
+[04 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/04_Textaufgaben/M-05-05-04-Textaufgaben.md#1)
+
+
+Für weitere Themen der Klassen 5 gehen Sie zurück auf die dortige Übersichtsseite:
+
+[Zurück zur Klasse 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/M05_Themen.md#2)
 
 
 
