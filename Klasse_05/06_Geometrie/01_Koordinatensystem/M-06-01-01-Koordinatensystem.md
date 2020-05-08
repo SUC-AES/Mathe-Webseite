@@ -36,144 +36,96 @@ Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie
 
 > **~~6.1 Koordinatensystem~~**
 
+Wie auch bei den anderen Themen gibt es hier ein [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=NAaR4nL0Joo), in dem ihr viel über das Thema "Koordinatensystem" lernen könnt:
 
-## Alle Pfeilbilder
+!?[movie](https://www.youtube.com/watch?v=NAaR4nL0Joo)
 
-Schaue dir nochmal die Pfeilbilder aller Einheiten an. Wenn du möchtest, kannst du sie nochmal in dein Heft übernehmen.
-
-> ***Längeneinheiten***
-
-> ![image](../graphics/1-Pfeilbild_Laengen.png)
+Übernimm nun aus deinem Mathematikbuch Seite 61 den blauen Kasten in dein Heft. Zeichne auch das Koordinatensystem ab und beachte, dass an beide Achsen Pfeile gehören. Das kennst du bereits von den Diagrammen. Die *x-Achse* geht immer von links nach rechts, die *y-Achse* von unten nach oben. Die Achsen müssen auch mit diesen Buchstaben beschriftet werden. Wichtig ist ebenfalls, dass du die Zahlen immer 1 cm (also 2 Kästchen) auseinander schreibst.
 
 
-> ***Masseneinheiten***
+## Punkte einzeichnen
 
-> ![image](../graphics/1-Pfeilbild_Massen.png)
+Bearbeite im Buch auf der Seite 62 die Aufgabe 2.
 
-
-> ***Geldwerte***
-
-> ![image](../graphics/1-Pfeilbild_Geldwerte.png)
+Zeichne dazu ein Koordinatensystem in dein Heft. Zeichne mit Bleistift und beschrifte die Punkte immer mit dem Buchstaben (GROSSBUCHSTABE), der dazu gehört.
 
 
-> ***Zeiteinheiten***
+Gib an, wie das Bild aussieht, du siehst dann auch eine Grafik, ob du richtig gezeichnet hast. Sollte ein Punkt falsch eingezeichnet sein, berichtige deinen Fehler.
 
-> ![image](../graphics/1-Pfeilbild_Zeiten.png)
-
-
-Du kennst bereits Lehrer Schmidt. Er hat einige gute Videos gedreht. Wenn du die gesammelten Videos zu allen Einheiten anschauen willst, kannst du auf seiner Seite die entsprechenden Videos finden:
-
-[Homepage von Lehrer Schmidt](https://www.lehrer-schmidt.de/mathematik/gr%C3%B6%C3%9Fen-ma%C3%9Feinheiten/)
+[[Schiff]]
+************************************************
 
 
-Denke daran, du kannst aber auch immer in deinem eigenen Heft, im Kittyheft oder in deinem Buch nachlesen.
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/EQugTJa6bDFJnJgesNeiPeABpdWvqooJtkKr617wov0Pfg?e=S9cY7H)
+
+************************************************
+
+**Bizz-Heft Seite 2**
+
+Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt: Verbinde die Punkte in alphabetischer Reihenfolge und schreibe in die Lösung, was du gezeichnet hast, um die Musterlösung zu sehen.
 
 
-## Aufgaben Umformungen
+> Zeichne die Punkte jeweils in ein passendes Koordinatensystem und verbinde sie in alphabetischer Reihenfolge. Welches Symbol ergibt sich?
 
-Die Übungen auf der Seite 30 und 31 sind Klapptests. Klappe dir die Lösungen nach hinten weg und löse dann die Aufgaben. Wenn du fertig bist, kannst du die Lösungen wieder zurück klappen und die Ergebnisse vergleichen. Berichtige deine Fehler. Die Rechenwege zur Aufgabe 4 auf der Seite 31 findest du auf der Seite [Brüche]().
+> Seite 2 Aufgabe 1
 
-###Lösung Seite 32 Aufgabe 1a
-
-> Forme in die angegebene Einheit um.
-
-> $$
-\begin{aligned}
-83,1 ~m & = 0,0831~km \qquad & \qquad  43 m ~7 cm & = 430,7 ~dm \\
-7200 ~kg & =  7,2 ~t & 84 t ~73 g & = 84000,73 ~kg\\
-83,59 ~€ & =   8359 ~ct & 72 € ~9 ct & = 72,09 ~€ \\
-28,71 ~dm & =   2,871 ~m & \quad 34 km~ 9 m ~2 dm & = 34009,2 ~m \\
-90.06 ~g & =    90060 ~mg & 271 kg~ 5g & = 271005 ~g \\
-2868 ~ct & =   28,86 ~€ & 94 € ~761 ct & = 10161  ~ct \\
-9034,021 ~m & = 903402,1 ~cm & 2 m ~75 mm & = 2075 ~cm \\
-56,34 ~t & =   56340000 ~g & 76 kg~ 867mg & = 76,000867 ~kg \\
-38 ~€ & = 3800 ~ct & 194 €~ 67 ct & = 194,67~ € \\
-53,47 ~m & =  534,7 ~dm & 53km ~47 m & = 530470 ~dm \\
-84010 ~g & = 84,01 ~kg & 1 kg ~85 g ~3 mg & = 1085,003 ~g \\
-9250 ~€ & = 925000 ~ct & 94 €~ 2 ct & = 94,02~ € \\
-\end{aligned}
-$$
+> A (3/4); B (1/4); C (1/5); D (6/5); E (6/4); F (4/4); G (4/1); H (3/1)
 
 
-###Lösung Seite 32 Aufgabe 1b
-
-> Gib in gemischter Schreibweise an. Einheiten, die nicht vorkommen, müssen nicht geschrieben werden.
-
-> $$
-\begin{aligned}
-1942,867 ~m & =  1 km  ~942 m \\
-59267,56 ~kg & = 59 t ~267 kg 560 g \\
-38044,06 ~m & = 38 km ~44 m ~6 cm \\
-0,06840002 ~t & = 68 kg ~400 g ~20 mg \\
-0,030907 ~km & = 30 m ~9 dm ~7 mm \\
-2907,26081 ~kg & = 2 t ~907 kg ~260 g ~81 mg \\
-\end{aligned}
-$$
+[[T]]
+************************************************
 
 
-###Lösung Seite 32 Aufgabe 2a
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ES831ASgsPVLgpG-HjpphF0BdjZEOASdl-7eZtR00_opeg?e=ny6JpV)
 
-> Zeiten umrechnen: Gib in der angegebenen Einheit an.
-
-> $$
-\begin{aligned}
-17 ~h & = 61.200 ~s & 3 h~ 23 min & = 203 ~min \\
-771 ~min & = 46.260 ~s & 11 d ~11 h ~1 min & = 16.501 ~min \\
-75.600 ~s & = 21 ~h & 36 min ~27 s & =   2.187 ~s \\
-1.870 ~min & = 1d ~10 h ~10 min \qquad & 7 h ~21 min ~37 s & =   26.497 ~s \\
-\end{aligned}
-$$
+************************************************
 
 
-###Lösung Seite 32 Aufgabe 2b
+> Seite 2 Aufgabe 2a
 
-> Zeiten umrechnen: Gib in gemischter Schreibweise an.
-
-> $$
-\begin{aligned}
-9 .317 ~s & = 155 min ~17 s && = 2 h ~35 min ~17 s \\
-34 .561 ~s & =  576 min ~1 s && = 9 h ~36 min ~1 s \\
-7 .589 ~min & =  126 h ~29 min && = 5 d ~6 h ~29 min \\
-41 .289 ~min & =   688 h ~9 min && = 28 d ~16 h ~9 min \\
-\end{aligned}
-$$
+> A (1/2); B (3/2); C (3/1); D (5/3); E (3/5); F (3/4); G (1/4)
 
 
-##Externe Übung
-
-**Freiwillig:**
-
-*Aufgabenfuchs*
-
-Wenn du noch weitere Übungen machen möchtest, kannst du dir folgende Seite bei dem Aufgabenfuchs ansehen:
-
-[Aufgabenfuchs](https://mathe.aufgabenfuchs.de/groessen/einfache-groessen-umrechnen.shtml)
-
-Hier findest du Umrechnungsübungen zu vielen Einheiten. Du kannst dir bei jeder Größe die Einheiten einstellen, zwischen denen denen umrechnen willst.
-
-Mit dem Button "Neu" erhaltet ihr neue Aufgaben mit "Auswertung" könnt ihr eure Ergebnisse überprüfen.
+[[Pfeil]]
+************************************************
 
 
-*Lo-net Selbstlernmaterial*
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ESN8ZfN_vWdHhe2qiB5ul9sBTXGKMLxa3LKc10keI1nmVw?e=yBkgmn)
 
-Eine weitere tolle Seite ist von Thomas Unkelbach. Merke sie dir gut, du findest hier Aufgaben bis hoch zum Abitur. Einige Sachen erkennt ihr vielleicht wieder.
-
-[Selbstlernmaterial - Längen](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grla/grlaindex.html)
-
-[Selbstlernmaterial - Massen](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grma/grmaindex.html)
-
-[Selbstlernmaterial - Geldwerte](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grge/grgeindex.html)
-
-[Selbstlernmaterial - Zeiten](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grze/grzeindex.html)
-
-[Selbstlernmaterial - Gemischte Übungen](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/grve/grveindex.html)
+************************************************
 
 
-*Weitere Linksammlung*
+> Seite 2 Aufgabe 2b
 
-Diese Linksammlung wird vom staatlichen Schulamt empfohlen. Einige Links kennt ihr bereits.
+> A (1/1); B (4/1); C (2/2); D (3/5); E (1/5)
 
-[Linksammlung - Onlineübung](http://onlineuebung.de/mathe/rechnen-mit-groessen/)
+
+[[Stiefel]]
+************************************************
+
+
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/EWl14tgEI0dJkn_KXtJq1z8BtSEuzEIvrhY4r4y4ameXUw?e=o2xzQk)
+
+************************************************
+
+
+> Seite 2 Aufgabe 3
+
+> (2/0) -> (3/5) -> (4/0)	-> (4/6) -> (6/7) -> (9/6) -> (9/0) -> (10/5) -> (11/0) -> (11/6) -> (13/9) -> (15/8) -> (15/9) -> (16/9) -> (12/13) -> (12/11) -> (10/9) -> (6/11) -> (2/9) -> (0/9) -> (2/8) -> Anfang
+
+[[Reh]]
+************************************************
+
+
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/Ea26IkYQYPFNrfYr7HgLK9ABru0r-S2IgT3yozjrfQv2AA?e=PvCu9U)
+
+************************************************
+
+
+## Punkte ablesen
+
+
+## Externe Links
 
 
 #Haftung für Links
