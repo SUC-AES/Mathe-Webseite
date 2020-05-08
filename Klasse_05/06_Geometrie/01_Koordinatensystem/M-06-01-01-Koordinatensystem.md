@@ -81,6 +81,7 @@ Vervollständige zuerst den oberen Kasten. Wenn du dies getan hast, dann gibt FE
 
 ************************************************
 
+$\quad$
 
 Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt: Verbinde die Punkte in alphabetischer Reihenfolge und schreibe in die Lösung, was du gezeichnet hast, um die Musterlösung zu sehen.
 
@@ -143,6 +144,57 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 
 
 ## Punkte ablesen
+
+
+> Um Punkte in einem Koordinatensystem abzulesen, gehe wie folgt vor:
+
+> • Denke dir eine Linie nach unten bis zur x-Achse und lies den x-Wert ab.
+
+> • Denke dir eine Linie nach links bis zur y-Achse und lies den y-Wert ab.
+
+> • Gib den Punkt mit einem Großbuchstaben an, indem du zuerst den x- und dann den y-Wert angibst.
+
+$\quad$
+
+**Bizz-Heft Seite 3**
+
+> Seite 3 Aufgabe 1
+
+Lies die Punkte ab und gib die y-Koordinate des letzten Punktes G ein, um die komplette Musterlösung zu sehen
+
+[[1]]
+************************************************
+
+
+A (1/2), B (2/5), C (5/7), D (4/5), E (0/4), F (5/3), G (7/1)
+
+************************************************
+
+
+> Seite 3 Aufgabe 2a
+
+Lies die Punkte der Lokomotive ab und gib die x-Koordinate des letzten Punktes R ein, um die komplette Musterlösung zu sehen
+
+[[2]]
+************************************************
+
+
+A (1/2), B (2/3), C (2/5), D (1/6), E (4/6), F (3/5), G (3/4), H (5/4), I (5/7), J (9/7), K (8/6), L (8/2), M (7/1), N (6/1), O (5/2), P (4/2), Q (3/1), R (2/1)
+
+************************************************
+
+
+Lies die Punkte des Wagens ab und gib die x-Koordinate des letzten Punktes J' ein, um die komplette Musterlösung zu sehen
+
+[[9]]
+************************************************
+
+
+A' (9/5), B' (16/5), C' (16/2), D' (15/1), E' (14/1), F' (13/2), G' (12/2), H' (11/1), I' (10/1), J' (9/2)
+
+************************************************
+
+
 
 
 ## Externe Links
