@@ -21,7 +21,7 @@ Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kanns
 
 [02 Alle Rechnungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/02_Rechnungen/M-05-05-02-Rechnungen.md#1)
 
-[03 Brüche]()
+[03 Brüche](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/03_Brueche/M-05-05-03-Brueche.md#2)
 
 [04 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/04_Textaufgaben/M-05-05-04-Textaufgaben.md#1)
 
