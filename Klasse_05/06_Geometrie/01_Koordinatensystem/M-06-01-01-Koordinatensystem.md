@@ -60,7 +60,27 @@ Gib an, wie das Bild aussieht, du siehst dann auch eine Grafik, ob du richtig ge
 
 ************************************************
 
+$\qquad$
+
 **Bizz-Heft Seite 2**
+
+
+Vervollständige zuerst den oberen Kasten. Wenn du dies getan hast, dann gibt FERTIG in den Kasten ein und vergleiche dein Ergebnis mit der Musterlösung.
+
+[[FERTIG]]
+************************************************
+
+
+> Das linke Koordinatensystem besteht aus einer x-Achse. Diese verläuft von *links* nach *rechts*. Die x-Achse wurde um eine y-Achse ergänzt, die von *unten* nach *oben* verläuft.
+
+> In das Koordinatensystem werden Punkte als Kreuze eingezeichnet.
+
+> Ein Punkt besteht aus einer x-Koordinate, diese entspricht dem Wert auf der x-Achse und einer y-Koordinate, dem Wert der y-Achse. Die Punkte werden mit P ( x / y ) angegeben.
+
+> Sprich: „Der Punkt P ist x Stab y.“
+
+************************************************
+
 
 Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt: Verbinde die Punkte in alphabetischer Reihenfolge und schreibe in die Lösung, was du gezeichnet hast, um die Musterlösung zu sehen.
 
