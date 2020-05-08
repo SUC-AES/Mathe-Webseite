@@ -8,33 +8,22 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#2
 -->
 
-# Alle Größen - Jahrgang 5
+# Geometrie - Jahrgang 5
 
 
-Diese Seite ist an das schulinterne Arbeitsheft “Kitty” der Albert-Einstein-Schule in Maintal angelehnt, auf welches in regelmäßigen Abständen
-immer wieder verwiesen wird. Sie soll euch helfen, alle Einheiten zu wiederholen und zu vertiefen. Das Thema ist thematisch so, wie im
-Arbeitsheft unterteilt.
+Diese Seite ist an das schulinterne Arbeitsheft “Bizz” der Albert-Einstein-Schule in Maintal angelehnt, auf welches in regelmäßigen Abständen
+immer wieder verwiesen wird. Sie soll euch helfen, die Themen zu erarbeiten.
 
-Auf der nächsten Seite findet ihr die direkten Links zu den einzelnen Unterseiten.
-
-Zusätzlich findet ihr zu jedem Tag der Woche einen täglichen Term. Mit diesem könnt ihr jeden Tag beginnen, um so euren Tag zu starten. Die
+Zusätzlich findet ihr zu jedem Tag der Woche einen täglichen Term. Mit diesem könnt ihr beginnen, um so euren Tag zu starten. Die
 Termschreibweise ist elementar in der Mathematik. Deswegen solltet ihr immer euren Rechenweg mit der Musterlösung vergleichen.
 
+Diese und die übergeordnete Webseite behandelt folgende Themen:
 
-**Übersicht über das Thema** ***Alle Größen***
+**Übersicht über das Thema** ***Geometrie***
 
-Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+[Geometrie - Jahrgang 5]()
 
-[Alle Größen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
-
-[01 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/01_Umformen/M-05-05-01-Umformen.md#1)
-
-[02 Alle Rechnungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/02_Rechnungen/M-05-05-02-Rechnungen.md#1)
-
-[03 Brüche]()
-
-[04 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/04_Textaufgaben/M-05-05-04-Textaufgaben.md#1)
-
+[01 Koordinatensystem]()
 
 $\qquad$
 
@@ -45,6 +34,8 @@ $\qquad$
 [04 Größen - Zeiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#2)
 
 [05 Größen - Gemischte Aufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
+
+[06 Geometrie - Jahrgang 5]()
 
 $\qquad$
 
@@ -78,21 +69,22 @@ Durch das Anklicken des eingekreisten i erhältst du das korrekte Ergebnis. Der 
 
   Berechne den Term und gib das Ergebnis an:
 
-    $ [7 \cdot (  83 + 27) - 14 \cdot 5 ] : 5^2$
+    $ 17 \cdot (7^2-22 \cdot 2)-18 - 3^3 $
 
-    [[28]]
-    [[?]] $ 5^2 = 5 \cdot 5 $
+    [[40]]
+    [[?]] $ 7^2 = 7 \cdot 7 $
     ***********************************************************************
 
 
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
   \begin{aligned}
-  \quad & [7 \cdot (  83 + 27) - 14 \cdot 5 ] : 5^2 \\
-  = &  [7 \cdot 110 - 70 ] : 25 \\
-  = &  [770 - 70 ] : 25 \\
-  = & 700 : 25
-  = & 28
+  \quad & 17 \cdot (7^2-22 \cdot 2)-18 - 3^3 \\
+  = & 17 \cdot (49 - 44)-18 - 27 \\
+  = & 17 \cdot 5 -18 - 27 \\
+  = & 85 - 18 - 27\\
+  = & 67 - 27 \\
+  = & 40
 \end{aligned}
 $$
 
@@ -104,20 +96,20 @@ $$
 
   Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-  $ 64:8+3 \cdot ( 24 + 3 \cdot 12 ) $
+  $ 90 : 3 + 5 \cdot (24 + 6 ) : 3 $
 
-  [[188]]
+  [[80]]
   ***********************************************************************
 
 
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
 \begin{aligned}
-  \quad &  64:8+3 \cdot ( 24 + 3 \cdot 12 ) \\
-  = &  8 + 3 \cdot ( 24 + 36 ) \\
-  = & 8 + 3 \cdot 60 \\
-  = & 8 + 180 \\
-  = & 188
+  \quad & 90 : 3 + 5 \cdot (24 + 6 ) : 3 \\
+  = & 30 + 5 \cdot 30 : 3 \\
+  = & 30 +150 : 3 \\
+  = & 30 + 50 \\
+  = & 80
 \end{aligned}
 $$
 
@@ -128,20 +120,20 @@ $$
 
     Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-    $ 42:( 71-65 )-( 13 \cdot 3 + 3 ):7 $
+    $ [1228:(82-78) + 440]-124 \cdot 3 $
 
-    [[1]]
+    [[375]]
     ***********************************************************************
 
 
   Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
   $$
   \begin{aligned}
-    \quad & 42:( 71-65 )-( 13 \cdot 3 + 3 ):7 \\
-    = & 42:6-( 39 + 3 ):7 \\
-    = & 7 - 42 : 7 \\
-    = & 7 -6 \\
-    = & 1
+    \quad & [1228:(82-78) + 440]-124 \cdot 3 \\
+    = & [1228:4 + 440]-372 \\
+    = & [307 + 440] - 372 \\
+    = & 747 - 372 \\
+    = & 375
   \end{aligned}
   $$
 
@@ -152,9 +144,9 @@ $$
 
     Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-    $ [ 7 \cdot ( 21 -4 ) + 9^2 ] \cdot ( 4 + 8 ) $
+    $ left[11 \cdot (36 -27 )+9^2 right] \cdot  (16-14) $
 
-    [[2400]]
+    [[360]]
     [[?]] $ 9^2 = 9 \cdot 9 $
     ***********************************************************************
 
@@ -162,11 +154,11 @@ $$
   Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
   $$
   \begin{aligned}
-    \quad & [ 7 \cdot ( 21 -4 ) + 9^2 ] \cdot ( 4 + 8 ) \\
-    = & [ 7 \cdot 17 + 81 ] \cdot 12 \\
-    = & [ 119 + 81 ] \cdot 12 \\
-    = & 200\cdot 12 \\
-    = & 2400
+    \quad & left[11 \cdot (36 -27 )+9^2 right] \cdot  (16-14) \\
+    = & left[11 \cdot 9 + 81 right] \cdot 2 \\
+    = & [ 99 + 81 ] \cdot 2 \\
+    = & 180 \cdot 2 \\
+    = & 360
   \end{aligned}
   $$
 
@@ -176,22 +168,22 @@ $$
 
     Berechne den Term und gib das Ergebnis an.
 
-    $ 5^2 - (4^2 + 3^2) $
+    $ 9^2 +12^2 - 4^3 $
 
-    [[0]]
-    [[?]] $ 5^2 = 5 \cdot 5 $
-    [[?]] $ 4^2 = 4 \cdot 4 $
-    [[?]] $ 3^2 = 3 \cdot 3 $
+    [[161]]
+    [[?]] $ 9^2 = 9 \cdot 9 $
+    [[?]] $ 12^2 = 12 \cdot 12 $
+    [[?]] $ 4^3 = 4 \cdot 4 \cdot 4 $
     ***********************************************************************
 
 
     Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
     $$
     \begin{aligned}
-      \quad & 5^2 - (4^2 + 3^2) \\
-      = & 25 - ( 16 + 9) \\
-      = & 25 - 25 \\
-      = & 0
+      \quad & 9^2 +12^2 - 4^3 \\
+      = & 81 + 144 - 64 \\
+      = & 225 - 64 \\
+      = & 161
     \end{aligned}
     $$
 
