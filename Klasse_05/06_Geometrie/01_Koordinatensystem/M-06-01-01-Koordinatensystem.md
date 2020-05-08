@@ -196,8 +196,19 @@ A' (9/5), B' (16/5), C' (16/2), D' (15/1), E' (14/1), F' (13/2), G' (12/2), H' (
 
 
 
+## Externe Links - Geogebra
 
-## Externe Links
+
+Geogebra ist ein kostenloses, dynamisches Mathematik-Computerprogramm. Es läuft auf allen Betriebssystemen und kann auch auf dem Tablett oder Handy als kostenlose App genutzt werden. Wir werden hier nur Applets benutzen, die im Browser laufen.
+
+**Autorin Birgit Lachner**
+
+[Koordinaten von Punkten ... wie war das gleich?](https://www.geogebra.org/m/DrGpByXD)
+
+[ÜBUNG: Punkte einstellen](https://www.geogebra.org/m/d6EMX5f9)
+
+[ÜBUNG: Ablesen von Koordinaten](https://www.geogebra.org/m/CHT8zP8s)
+
 
 
 #Haftung für Links
