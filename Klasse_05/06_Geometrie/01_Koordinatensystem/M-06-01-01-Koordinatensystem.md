@@ -97,7 +97,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ES831ASgsPVLgpG-HjpphF0BdjZEOASdl-7eZtR00_opeg?e=ny6JpV)
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ES831ASgsPVLgpG-HjpphF0BdjZEOASdl-7eZtR00_opeg?e=Hz22Oj)
 
 ************************************************
 
@@ -111,7 +111,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ESN8ZfN_vWdHhe2qiB5ul9sBTXGKMLxa3LKc10keI1nmVw?e=yBkgmn)
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ESN8ZfN_vWdHhe2qiB5ul9sBTXGKMLxa3LKc10keI1nmVw?e=i4zTbg)
 
 ************************************************
 
@@ -125,7 +125,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/EWl14tgEI0dJkn_KXtJq1z8BtSEuzEIvrhY4r4y4ameXUw?e=o2xzQk)
+![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/EWl14tgEI0dJkn_KXtJq1z8BtSEuzEIvrhY4r4y4ameXUw?e=AF8OTS)
 
 ************************************************
 
