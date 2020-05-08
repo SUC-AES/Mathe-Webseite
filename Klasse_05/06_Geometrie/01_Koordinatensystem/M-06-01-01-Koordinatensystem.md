@@ -56,7 +56,7 @@ Gib an, wie das Bild aussieht, du siehst dann auch eine Grafik, ob du richtig ge
 ************************************************
 
 
-![image](../graphics/LSgelb_62_2.png)
+> ![image](../graphics/LSgelb_62_2.png)
 
 ************************************************
 
@@ -97,7 +97,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ES831ASgsPVLgpG-HjpphF0BdjZEOASdl-7eZtR00_opeg?e=ny6JpV)
+> ![image](../graphics/KooSys_2_1.png)
 
 ************************************************
 
@@ -111,7 +111,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/ESN8ZfN_vWdHhe2qiB5ul9sBTXGKMLxa3LKc10keI1nmVw?e=yBkgmn)
+> ![image](../graphics/KooSys_2_2a.png)
 
 ************************************************
 
@@ -125,7 +125,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/EWl14tgEI0dJkn_KXtJq1z8BtSEuzEIvrhY4r4y4ameXUw?e=o2xzQk)
+> ![image](../graphics/KooSys_2_2b.png)
 
 ************************************************
 
@@ -138,7 +138,7 @@ Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt:
 ************************************************
 
 
-![image](https://aesmaintalde-my.sharepoint.com/:i:/g/personal/suc_aes-maintal_de/Ea26IkYQYPFNrfYr7HgLK9ABru0r-S2IgT3yozjrfQv2AA?e=PvCu9U)
+> ![image](../graphics/KooSys_2_3.png)
 
 ************************************************
 
