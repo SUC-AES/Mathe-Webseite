@@ -201,6 +201,7 @@ A' (9/5), B' (16/5), C' (16/2), D' (15/1), E' (14/1), F' (13/2), G' (12/2), H' (
 
 Geogebra ist ein kostenloses, dynamisches Mathematik-Computerprogramm. Es läuft auf allen Betriebssystemen und kann auch auf dem Tablett oder Handy als kostenlose App genutzt werden. Wir werden hier nur Applets benutzen, die im Browser laufen.
 
+
 **Autorin Birgit Lachner**
 
 [Koordinaten von Punkten ... wie war das gleich?](https://www.geogebra.org/m/DrGpByXD)
@@ -209,6 +210,12 @@ Geogebra ist ein kostenloses, dynamisches Mathematik-Computerprogramm. Es läuft
 
 [ÜBUNG: Ablesen von Koordinaten](https://www.geogebra.org/m/CHT8zP8s)
 
+
+**GeoGebra Translation Team German**
+
+[Ordne Punkte Koordinaten zu](https://www.geogebra.org/m/HvaK6bmn)
+
+[Koordinaten von Punkten ablesen](https://www.geogebra.org/m/SkuasskG)
 
 
 #Haftung für Links
