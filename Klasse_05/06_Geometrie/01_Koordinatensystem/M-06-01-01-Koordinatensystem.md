@@ -8,33 +8,18 @@ script: url.js
 View this file on https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathematik-5/master/2_Massen_1.md
 -->
 
-# Alle Größen - Jahrgang 5
+# Geometrie - Jahrgang 5
+
+Das Thema *Geometrie* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite
+springen:
 
 
-**Übersicht über das Thema** ***Alle Größen***
+**Übersicht über das Thema** ***Geometrie***
 
-Das Thema *Alle Größen* setzt sich aus verschiedenen Teilen zusammen. Du kannst direkt durch das Klicken auf die Links hier auf die korrekte Seite springen:
+[Geometrie - Jahrgang 5]()
 
-[Alle Größen - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
+[01 Koordinatensystem]()
 
-[01 Umformen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/01_Umformen/M-05-05-01-Umformen.md#1)
-
-[02 Alle Rechnungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/02_Rechnungen/M-05-05-02-Rechnungen.md#1)
-
-[03 Brüche]()
-
-[04 Textaufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/04_Textaufgaben/M-05-05-04-Textaufgaben.md#1)
-
-
-$\qquad$
-
-**Weitere Themen in der Klasse 5**
-
-[03 Größen - Massen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/03_Massen/M-05-03-Massen.md#1)
-
-[04 Größen - Zeiten](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/04_Zeiten_und_Zeitspannen/M-05-04-Zeiten_und_Zeitspannen.md#2)
-
-[05 Größen - Gemischte Aufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
 
 $\qquad$
 
@@ -43,13 +28,13 @@ $\qquad$
 
 
 
-# Umformungen aller Maßeinheiten
+# Koordinatensystem
 
 Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
 
-> **~~5. Alle Größen ~~**
+> **~~6. Geometrie ~~**
 
-> **~~5.1 Umformen~~**
+> **~~6.1 Koordinatensystem~~**
 
 
 ## Alle Pfeilbilder
