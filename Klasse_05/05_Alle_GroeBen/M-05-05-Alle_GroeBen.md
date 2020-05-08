@@ -198,6 +198,137 @@ $$
         ***********************************************************************
 
 
+## Woche 2
+
+
+
+**Tag 1 - Montag**
+
+  Berechne den Term und gib das Ergebnis an:
+
+    $ 17 \cdot (7^2-22 \cdot 2)-18 - 3^3 $
+
+    [[40]]
+    [[?]] $ 7^2 = 7 \cdot 7 $
+    ***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+  \begin{aligned}
+  \quad & 17 \cdot (7^2-22 \cdot 2)-18 - 3^3 \\
+  = & 17 \cdot (49 - 44)-18 - 27 \\
+  = & 17 \cdot 5 -18 - 27 \\
+  = & 85 - 18 - 27\\
+  = & 67 - 27 \\
+  = & 40
+\end{aligned}
+$$
+
+
+    ***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+  Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+  $ 90 : 3 + 5 \cdot (24 + 6 ) : 3 $
+
+  [[80]]
+  ***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+  \quad & 90 : 3 + 5 \cdot (24 + 6 ) : 3 \\
+  = & 30 + 5 \cdot 30 : 3 \\
+  = & 30 +150 : 3 \\
+  = & 30 + 50 \\
+  = & 80
+\end{aligned}
+$$
+
+  ***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+    $ [1228:(82-78) + 440]-124 \cdot 3 $
+
+    [[375]]
+    ***********************************************************************
+
+
+  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+  $$
+  \begin{aligned}
+    \quad & [1228:(82-78) + 440]-124 \cdot 3 \\
+    = & [1228:4 + 440]-372 \\
+    = & [307 + 440] - 372 \\
+    = & 747 - 372 \\
+    = & 375
+  \end{aligned}
+  $$
+
+
+    ***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+    Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+    $ left[11 \cdot (36 -27 )+9^2 right] \cdot  (16-14) $
+
+    [[360]]
+    [[?]] $ 9^2 = 9 \cdot 9 $
+    ***********************************************************************
+
+
+  Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+  $$
+  \begin{aligned}
+    \quad & left[11 \cdot (36 -27 )+9^2 right] \cdot  (16-14) \\
+    = & left[11 \cdot 9 + 81 right] \cdot 2 \\
+    = & [ 99 + 81 ] \cdot 2 \\
+    = & 180 \cdot 2 \\
+    = & 360
+  \end{aligned}
+  $$
+
+    ***********************************************************************
+
+**Tag 5 - Freitag**
+
+    Berechne den Term und gib das Ergebnis an.
+
+    $ 9^2 +12^2 - 4^3 $
+
+    [[161]]
+    [[?]] $ 9^2 = 9 \cdot 9 $
+    [[?]] $ 12^2 = 12 \cdot 12 $
+    [[?]] $ 4^3 = 4 \cdot 4 \cdot 4 $
+    ***********************************************************************
+
+
+    Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+    $$
+    \begin{aligned}
+      \quad & 9^2 +12^2 - 4^3 \\
+      = & 81 + 144 - 64 \\
+      = & 225 - 64 \\
+      = & 161
+    \end{aligned}
+    $$
+
+        ***********************************************************************
+
+
+
+
 #Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
