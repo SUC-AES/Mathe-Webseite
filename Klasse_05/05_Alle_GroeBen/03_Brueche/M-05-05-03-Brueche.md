@@ -33,176 +33,170 @@ Schreibe die Überschrift in dein Heft.
 > **~~5.3 Brüche~~**
 
 
+Bereits bei den Massen habt ihr die Brüche kennengelernt. Einige haben es verstanden, aber viele haben auch gesagt, dass sie noch Hilfe brauchen. Es gibt inzwischen ein Video, in dem die Umformungen von Brüchen erklärt werden.
 
-## Pfeilbild
+## Brüche mit dem Zahlwert $\frac 1 2$
 
-Wie immer soll in das Heft ein Pfeilbild mit den Umrechnungspfeilen. Wenn du es erklärt haben möchtest, kannst du dir folgendes [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=wDnvjW-sDLc) anschauen. Lehrer Schmidt benutzt noch die Monate, die mathematisch gesehen immer 30 Tage haben, auch zum Beispiel der Januar und der Februar. Wir benutzen die Monate nicht, sondern nur das Jahr. Es gibt allerdings erstmal keine Schaltjahre, wir rechnen immer mit 365 Tagen.
+Die Beispiele hier beziehen sich immer auf den Bruch $\frac 1 2 $. Im ersten Schritt musst du den Bruch umschreiben, dass ist für dich neu und hast du noch nicht im Unterricht gehört. Wenn du ihn umgeschrieben hast, kannst du die Division, so wie du sie kennengelernt hast, durchführen. Beachte, dass du die Größe in eine kleinere Einheit umformen musst, wenn du die Zahlen nicht dividieren kannst.
 
-In dem Video erklärt Lehrer Schmidt auch gleich einfache Umrechnungen, wie du sie danach auch lösen sollst.
+[VIDEO - Brüche mit $\frac 1 2$]()
 
-!?[movie](https://www.youtube.com/watch?v=wDnvjW-sDLc)
+Übertrage nun die Beispiele in dein Heft.
 
-Übernimm nun das Pfeilbild in dein Matheheft.
-
-> ![image](../graphics/1_Pfeilbild.png)
-
-
-**Übersicht über die Zeitspannen**
-
-Übertrage die untere Aufgabe in dein Matheheft und fülle dabei auch die Lücken aus. Wenn du dies getan hast, schreibe in das untere Feld "fertig", um die Musterlösung zu erhalten.
+> **Längen**
 
 > $$
   \begin{aligned}
-    1 y  & = .................. & d & = .................. & h & = .................. & min & = .................. s \\
-    1 d & = .................. & h & = .................. & min & = .................. & s & \\
-    1 h & = ................. & min & = .................. & s & & & \\
-    1 min & = .................. & s & & & & & \\
+    & \frac 1 2 ~km  && = 1 ~km : 2  && = 1.000 ~m : 2 && = 500 ~m  \\
+    & \frac 1 2 ~m  && = 1 ~m : 2  && = 10 ~dm : 2 && = 5 ~dm  \\
   \end{aligned}
 $$
 
 
-[[fertig]]
-***********************************************************************
 
+> **Massen**
 
-Vergeiche deine Ergebnisse und berichtige eventuelle Fehler.
-
-Achte darauf die Zahlen in Dreierpäckchen zusammenzufassen. Du kannst sie dann viel besser lesen.
-
-$$
+> $$
   \begin{aligned}
-    1 y  & = & 365 & d & = & 8.760 & h & = & 525.600 & min & = 31.536.000 s  \\
-    1 d & = & 24 & h & = & 1.440 & min & = & 86.400 & s & \\
-    1 h & = & 60 & min & = & 3.600 & s & & & & \\
-    1 min & = & 60 & s & & & & & & & \\
+    & \frac 1 2 ~kg  && = 1 ~kg : 2  && = 1.000 ~g : 2 && = 500 ~g  \\
+    & \frac 1 2 ~g  && = 1 ~g : 2  && = 1.000 ~mg : 2 && = 500 ~mg  \\
   \end{aligned}
 $$
 
 
 
-***********************************************************************
+> **Zeiten**
+
+> $$
+  \begin{aligned}
+    & \frac 1 2 ~h  && = 1 ~h : 2  && = 60 min : 2 && = 30 ~min  \\
+    & \frac 1 2 ~d  && = 1 ~d : 2  && = 24 ~h : 2 && = 12 ~h \\
+  \end{aligned}
+$$
 
 
-## Übung 1
-
-Wandle in die nächstkleinere Einheit um. Du kennst bereits die Umrechnungszahlen, als Hilfe kannst du dir aber auch das Pfeilbild daneben legen.
-
-Schreibe die Aufgaben auch immer in dein Heft.
-
-3 min = ... s
-
-[[180]]
-
-5 h = ... min
-
-[[300]]
-
-7 d = ... h
-
-[[168]]
-
-9 y = ... d
-
-[[3285]]
-
-90 min = ... s
-
-[[5400]]
-
-21 h = ... min
-
-[[1260]]
-
-10 d = ... h
-
-[[240]]
-
-16 y = ... d
-
-[[5840]]
-
-48 min = ... s
-
-[[2880]]
-
-48 h = ... min
-
-[[2880]]
-
-48 d = ... h
-
-[[1152]]
-
-48 y = ... d
-
-[[17520]]
+## Übungen zu Brüchen mit $\frac 1 2$
 
 
-## Übung 2
+Gib die Lösung zu folgenden Aufgaben an. Vergleiche danach deine Rechnung mit der Musterlösung und berichtige deine Fehler.
 
-Wandle in die nächstgrößere Einheit um. Du kannst auch hier zur Hilfe wieder das Pfeilbild benutzen.
 
-Schreibe die Aufgaben auch immer in dein Heft.
-
-660 s = ... min
-
-[[11]]
-
-120 min = ... h
-
-[[2]]
-
-72 h = ... d
-
-[[3]]
-
-1825 d = ... y
+> $\frac 1 2$ cm = ... mm
 
 [[5]]
+**************************************
 
-1260 s = ... min
 
-[[21]]
+$\frac 1 2 ~cm = 1 ~cm : 2 = 10 ~mm : 2= 5 ~mm$
 
-2400 min = ... h
-
-[[40]]
-
-216 h = ... d
-
-[[9]]
-
-540 s = ... min
-
-[[9]]
-
-5940 min = ... h
-
-[[99]]
-
-1200 h = ... d
-
-[[50]]
-
-2100 s = ... min
-
-[[35]]
-
-2820 min = ... h
-
-[[47]]
+**************************************
 
 
 
-##Externe Übung
+> $\frac 1 2$ t = ... kg
 
-**Freiwillig:** Wer von euch noch weitere Übungen machen möchte, kann sich folgende Seite bei dem Aufgabenfuchs ansehen:
+[[500]]
+**************************************
 
-[Aufgabenfuchs](https://mathe.aufgabenfuchs.de/groessen/einfache-groessen-umrechnen.shtml)
 
-Hier findet ihr Umrechnungsübungen zu vielen Einheiten. Geht zu dem Punkt "6) Zeit". Hier könnt ihr die Einheiten einstellen, zwischen denen ihr umrechnen wollt. Ihr könnt sogar von Sekunden in Tage umrechnen, wenn ihr das möchtet. Das ist aber ziemlich kompliziert.
+$\frac 1 2 ~t = 1 ~t : 2 = 1.000 ~kg : 2= 500 ~kg$
 
-Mit dem Button "Neu" erhaltet ihr neue Aufgaben mit "Auswertung" könnt ihr eure Ergebnisse überprüfen.
+**************************************
+
+
+
+> $\frac 1 2$ min = ... s
+
+[[30]]
+**************************************
+
+
+$\frac 1 2 ~min = 1 ~min : 2 = 60 ~s : 2= 30 ~s$
+
+**************************************
+
+
+
+## Weitere Brüche
+
+
+Den Bruch $\frac 1 2$ hast du jetzt bestimmt verstanden. Wenn nicht, schaue dir das Video nochmal an. Dieses Umschreiben funktioniert aber auch mit anderen Brüchen. Schaue dir hierzu das zweite Video an und übernimm dann auch diese Beispiele in dein Heft.
+
+[VIDEO - Weitere Brüche]()
+
+Übertrage nun die Beispiele in dein Heft.
+
+> **Längen**
+
+> $$
+  \begin{aligned}
+    & \frac 2 5 ~km  && = 2 ~km : 5  && = 2.000 ~m : 5 && = 400 ~m  \\
+    & \frac{1}{10} ~m  && = 1 ~m : 10  && = 10 ~dm : 10 && = 1 ~dm  \\
+  \end{aligned}
+$$
+
+
+
+> **Massen**
+
+> $$
+  \begin{aligned}
+    & \frac 1 8 ~kg  && = 1 ~kg : 8  && = 1.000 ~g : 8 && = 125 ~g  \\
+    & \frac 5 2 ~g  && = 5 ~g : 2  && = 5.000 ~mg : 2 && = 2.500 ~mg  \\
+  \end{aligned}
+$$
+
+
+
+> **Zeiten**
+
+> $$
+  \begin{aligned}
+    & \frac 1 3 ~h  && = 1 ~h : 3  && = 60 min : 3 && = 20 ~min  \\
+    & \frac{7}{12} ~d  && = 7 ~d : 12  && = 168 ~h : 12 && = 14 ~h \\
+  \end{aligned}
+$$
+
+
+## Übungen zu weiteren Brüchen
+
+Gib die Lösung zu folgenden Aufgaben an. Vergleiche danach deine Rechnung mit der Musterlösung und berichtige deine Fehler.
+
+
+> $\frac 4 5$ cm = ... mm
+
+[[8]]
+**************************************
+
+
+$\frac 4 5 ~cm = 4 ~cm : 5 = 40 ~mm : 5= 8 ~mm$
+
+**************************************
+
+
+
+> $\frac{11}{4}$ t = ... kg
+
+[[2.750]]
+**************************************
+
+
+$\frac{11}{4} ~t = 11 ~t : 4 = 11.000 ~kg : 4 = 2.750 ~kg$
+
+**************************************
+
+
+
+> $\frac{4}{15}$ min = ... s
+
+[[16]]
+**************************************
+
+
+$\frac{4}{15} ~min = 4 ~min : 15 = 240 ~s : 15 = 16 ~s$
+
+**************************************
+
 
 
 
