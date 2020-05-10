@@ -41,7 +41,7 @@ Bereits bei den Massen habt ihr die Brüche kennengelernt. Einige haben es verst
 
 Die Beispiele hier beziehen sich immer auf den Bruch $\frac 1 2 $. Im ersten Schritt musst du den Bruch umschreiben, dass ist für dich neu und hast du noch nicht im Unterricht gehört. Wenn du ihn umgeschrieben hast, kannst du die Division, so wie du sie kennengelernt hast, durchführen. Beachte, dass du die Größe in eine kleinere Einheit umformen musst, wenn du die Zahlen nicht dividieren kannst.
 
-[VIDEO - Brüche mit $\frac 1 2$]()
+[VIDEO - Brüche mit $\frac 1 2$](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/suc_aes-maintal_de/EZFNyD_IPpFGmUpY8L562toBWnk9SQV5seEv5WtFRgeJ8w?e=itR0gb)
 
 Übertrage nun die Beispiele in dein Heft.
 
@@ -124,7 +124,7 @@ $\frac 1 2 ~min = 1 ~min : 2 = 60 ~s : 2= 30 ~s$
 
 Den Bruch $\frac 1 2$ hast du jetzt bestimmt verstanden. Wenn nicht, schaue dir das Video nochmal an. Dieses Umschreiben funktioniert aber auch mit anderen Brüchen. Schaue dir hierzu das zweite Video an und übernimm dann auch diese Beispiele in dein Heft.
 
-[VIDEO - Weitere Brüche]()
+[VIDEO - Weitere Brüche](https://aesmaintalde-my.sharepoint.com/:v:/g/personal/suc_aes-maintal_de/EfbALnDxEBBAu2UNY65reWAB2w8sp7MljaEzxOxIXIrhQw?e=p2bSOl)
 
 Übertrage nun die Beispiele in dein Heft.
 
