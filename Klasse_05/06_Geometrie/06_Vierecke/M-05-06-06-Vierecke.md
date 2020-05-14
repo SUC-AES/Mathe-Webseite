@@ -20,6 +20,7 @@ springen:
 
 [01 Koordinatensystem](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/01_Koordinatensystem/M-06-01-01-Koordinatensystem.md#2)
 
+[06 Vierecke]()
 
 $\qquad$
 
@@ -28,194 +29,76 @@ $\qquad$
 
 
 
-# Koordinatensystem
+#Vierecke
 
-Beginne in deinem Heft eine neue Seite mit den beiden Überschriften, die du wie immer auch in dein Inhaltsverzeichnis schreiben sollst.
+Übernimm die folgende Überschrift in dein Heft
 
-> **~~6. Geometrie ~~**
+> **~~6.2 Vierecke~~**
 
-> **~~6.1 Koordinatensystem~~**
-
-Wie auch bei den anderen Themen gibt es hier ein [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=NAaR4nL0Joo), in dem ihr viel über das Thema "Koordinatensystem" lernen könnt:
-
-!?[movie](https://www.youtube.com/watch?v=NAaR4nL0Joo)
-
-Übernimm nun aus deinem Mathematikbuch Seite 61 den blauen Kasten in dein Heft. Zeichne auch das Koordinatensystem ab und beachte, dass an beide Achsen Pfeile gehören. Das kennst du bereits von den Diagrammen. Die *x-Achse* geht immer von links nach rechts, die *y-Achse* von unten nach oben. Die Achsen müssen auch mit diesen Buchstaben beschriftet werden. Wichtig ist ebenfalls, dass du die Zahlen immer 1 cm (also 2 Kästchen) auseinander schreibst.
+Zum Wiederholen der Koordinatensysteme zeichne bitte jede der folgende Figuren in ein eigenes Koordinatensystem. Wenn du damit fertig bist, entscheide, welches Vieleck beziehungsweise welches besondere Viereck hier vorliegt. Gib das bei der Frage an und erhalte die Musterlösung. Vergleiche und berichtige eventuelle Fehler.
 
 
-## Punkte einzeichnen
+Achte beim Koordinatensystem darauf
 
-Bearbeite im Buch auf der Seite 62 die Aufgabe 2.
+* die Achsen korrekt mit x (nach rechts) und y (nach oben) zu beschriften,
+* zwischen 0 und 1, 1 und 2 sowie allen anderen Zahlen den Abstand von 1 cm einzuhalten.
 
-Zeichne dazu ein Koordinatensystem in dein Heft. Zeichne mit Bleistift und beschrifte die Punkte immer mit dem Buchstaben (GROSSBUCHSTABE), der dazu gehört.
+Du zeichnest folgende Figuren. Gib zu jedem Bild an, um welche der Figuren es sich handelt:
 
+*Dreieck, Fünfeck, Sechseck, allgemeines Viereck, Quadrat, Rechteck, Raute, Parallelogramm, Drache, Trapez*
 
-Gib an, wie das Bild aussieht, du siehst dann auch eine Grafik, ob du richtig gezeichnet hast. Sollte ein Punkt falsch eingezeichnet sein, berichtige deinen Fehler.
+> Figur 1:
 
-[[Schiff]]
-************************************************
-
-
-> ![image](../graphics/LSgelb_62_2.png)
-
-************************************************
-
-$\qquad$
-
-**Bizz-Heft Seite 2**
+[[blub]]
+*************************************************
 
 
-Vervollständige zuerst den oberen Kasten. Wenn du dies getan hast, dann gibt FERTIG in den Kasten ein und vergleiche dein Ergebnis mit der Musterlösung.
+[image]()
 
-[[FERTIG]]
-************************************************
+*************************************************
 
 
-> Das linke Koordinatensystem besteht aus einer x-Achse. Diese verläuft von *links* nach *rechts*. Die x-Achse wurde um eine y-Achse ergänzt, die von *unten* nach *oben* verläuft.
 
-> In das Koordinatensystem werden Punkte als Kreuze eingezeichnet.
 
-> Ein Punkt besteht aus einer x-Koordinate, diese entspricht dem Wert auf der x-Achse und einer y-Koordinate, dem Wert der y-Achse. Die Punkte werden mit P ( x / y ) angegeben.
 
-> Sprich: „Der Punkt P ist x Stab y.“
+# Externe Links
 
-************************************************
+**~~Lehrer Schmidt~~**
+
+[Lehrer Schmidt](https://www.youtube.com/watch?v=Ve-Hzdc47Tk) erklärt auch nochmal, welche verschiedenen Vierecke es gibt. Du kannst dir sein Video anschauen. Beachte, dass er alle gleich langen Seiten mit dem gleichen Buchstaben benennt. Wir machen das anders, du erfährst in der Schule wie es richtig wäre, hilft dir vielleicht aber beim Verständnis.
+
+!?[movie](https://www.youtube.com/watch?v=Ve-Hzdc47Tk)
 
 $\quad$
 
-Bearbeite nun im Bizz-Heft auf der Seite 2 die Aufgaben 1 bis 3. Auch hier gilt: Verbinde die Punkte in alphabetischer Reihenfolge und schreibe in die Lösung, was du gezeichnet hast, um die Musterlösung zu sehen.
+**~~Aufgabenfuchs~~**
 
+Auf der Seite des [Aufgabenfuchses](https://www.aufgabenfuchs.de/mathematik/flaeche/viereck/vierecksarten.shtml) finden sich auch schöne Aufgaben zu Vierecken.
 
-> Zeichne die Punkte jeweils in ein passendes Koordinatensystem und verbinde sie in alphabetischer Reihenfolge. Welches Symbol ergibt sich?
-
-> Seite 2 Aufgabe 1
-
-> A (3/4); B (1/4); C (1/5); D (6/5); E (6/4); F (4/4); G (4/1); H (3/1)
-
-
-[[T]]
-************************************************
-
-
-> ![image](../graphics/KooSys_2_1.png)
-
-************************************************
-
-
-> Seite 2 Aufgabe 2a
-
-> A (1/2); B (3/2); C (3/1); D (5/3); E (3/5); F (3/4); G (1/4)
-
-
-[[Pfeil]]
-************************************************
-
-
-> ![image](../graphics/KooSys_2_2a.png)
-
-************************************************
-
-
-> Seite 2 Aufgabe 2b
-
-> A (1/1); B (4/1); C (2/2); D (3/5); E (1/5)
-
-
-[[Stiefel]]
-************************************************
-
-
-> ![image](../graphics/KooSys_2_2b.png)
-
-************************************************
-
-
-> Seite 2 Aufgabe 3
-
-> (2/0) -> (3/5) -> (4/0)	-> (4/6) -> (6/7) -> (9/6) -> (9/0) -> (10/5) -> (11/0) -> (11/6) -> (13/9) -> (15/8) -> (15/9) -> (16/9) -> (12/13) -> (12/11) -> (10/9) -> (6/11) -> (2/9) -> (0/9) -> (2/8) -> Anfang
-
-[[Reh]]
-************************************************
-
-
-> ![image](../graphics/KooSys_2_3.png)
-
-************************************************
-
-
-## Punkte ablesen
-
-
-> Um Punkte in einem Koordinatensystem abzulesen, gehe wie folgt vor:
-
-> • Denke dir eine Linie nach unten bis zur x-Achse und lies den x-Wert ab.
-
-> • Denke dir eine Linie nach links bis zur y-Achse und lies den y-Wert ab.
-
-> • Gib den Punkt mit einem Großbuchstaben an, indem du zuerst den x- und dann den y-Wert angibst.
+Diese beinhalten aber mehr Informationen, als ihr bisher kennt. Bearbeite daher die Aufgaben 1 und 3a. Ziehe bei der Aufgabe 1 die Punkte so, dass du jeden Vierecktyp einmal dargestellt hast. Freiwillig kannst du auf dieser Seite auch noch die Aufgabe 8 bearbeiten.
+[Aufgabenfuchs - Vierecke](https://www.aufgabenfuchs.de/mathematik/flaeche/viereck/vierecksarten.shtml)
 
 $\quad$
 
-**Bizz-Heft Seite 3**
+**~~Geogebra~~**
 
-> Seite 3 Aufgabe 1
+Geogebra kennst du bereits von den Koordinatensystemen. Es gibt fertige Aktivitäten, die du machen kannst.
 
-Lies die Punkte ab und gib die y-Koordinate des letzten Punktes G ein, um die komplette Musterlösung zu sehen
+Der Inhalt dieser Seiten führen über den bekannten Stoff hinaus. Sie sind für diejenigen von euch gedacht, die viel Spaß an Mathematik haben und schon mehr ausprobieren wollen! Die übrigen müssen die Seiten nicht machen.
 
-[[1]]
-************************************************
+Beachte folgende Tipps zu den einzelnen Seiten:
 
+[GEOGEBRA - Namen zuordnen](https://www.geogebra.org/m/RzsgsgR7#material/LaXSGHqP)
+MIT WEITEREN VIERECKEN
 
-A (1/2), B (2/5), C (5/7), D (4/5), E (0/4), F (5/3), G (7/1)
+Bei dieser Seite sollst du die Begriffe den Bildern zuordnen. Dabei  wird der Drache Deltoid genannt. Auch findest du hier weitere Vierecke, die du bisher nicht kanntest. Du brauchst diese Namen vorerst aber noch nicht.
 
-************************************************
+[GEOGEBRA - Eigenschaften zuordnen](https://www.geogebra.org/m/RzsgsgR7#material/lNn1FVX7)
+SCHWIERIG
 
-
-> Seite 3 Aufgabe 2a
-
-Lies die Punkte der Lokomotive ab und gib die x-Koordinate des letzten Punktes R ein, um die komplette Musterlösung zu sehen
-
-[[2]]
-************************************************
+Bei dieser Seite wird auch auf Winkel und Symmetrie eingegangen. Diese haben wir noch nicht besprochen, vielleicht kennst du die Begriffe noch aus der Grundschule und kannst die Aufgaben trotzdem lösen.
 
 
-A (1/2), B (2/3), C (2/5), D (1/6), E (4/6), F (3/5), G (3/4), H (5/4), I (5/7), J (9/7), K (8/6), L (8/2), M (7/1), N (6/1), O (5/2), P (4/2), Q (3/1), R (2/1)
-
-************************************************
-
-
-Lies die Punkte des Wagens ab und gib die x-Koordinate des letzten Punktes J' ein, um die komplette Musterlösung zu sehen
-
-[[9]]
-************************************************
-
-
-A' (9/5), B' (16/5), C' (16/2), D' (15/1), E' (14/1), F' (13/2), G' (12/2), H' (11/1), I' (10/1), J' (9/2)
-
-************************************************
-
-
-
-## Externe Links - Geogebra
-
-
-Geogebra ist ein kostenloses, dynamisches Mathematik-Computerprogramm. Es läuft auf allen Betriebssystemen und kann auch auf dem Tablett oder Handy als kostenlose App genutzt werden. Wir werden hier nur Applets benutzen, die im Browser laufen.
-
-
-**Autorin Birgit Lachner**
-
-[Koordinaten von Punkten ... wie war das gleich?](https://www.geogebra.org/m/DrGpByXD)
-
-[ÜBUNG: Punkte einstellen](https://www.geogebra.org/m/d6EMX5f9)
-
-[ÜBUNG: Ablesen von Koordinaten](https://www.geogebra.org/m/CHT8zP8s)
-
-
-**GeoGebra Translation Team German**
-
-[Ordne Punkte Koordinaten zu](https://www.geogebra.org/m/HvaK6bmn)
-
-[Koordinaten von Punkten ablesen](https://www.geogebra.org/m/SkuasskG)
 
 
 #Haftung für Links
