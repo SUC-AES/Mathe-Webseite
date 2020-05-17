@@ -29,13 +29,16 @@ $\qquad$
 
 
 
-#Vierecke
+#Vierecke und andere Vielecke
 
 Übernimm die folgende Überschrift in dein Heft
 
-> **~~6.2 Vierecke~~**
+> **~~6.2 Vierecke und andere Vielecke~~**
 
 Zum Wiederholen der Koordinatensysteme zeichne bitte jede der folgende Figuren in ein eigenes Koordinatensystem. Wenn du damit fertig bist, entscheide, welches Vieleck beziehungsweise welches besondere Viereck hier vorliegt. Gib das bei der Frage an und erhalte die Musterlösung. Vergleiche und berichtige eventuelle Fehler.
+
+
+## Vielecke zeichnen
 
 
 Achte beim Koordinatensystem darauf
@@ -52,7 +55,7 @@ Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und 
 *************************************************
 
 
-> [image]()
+> ![image](../graphics/06_1-1-Viereck.png)
 
 *************************************************
 
@@ -64,7 +67,7 @@ Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und 
 *************************************************
 
 
-> [image]()
+> ![image](../graphics/06_1-2-Fuenfeck.png)
 
 *************************************************
 
@@ -75,7 +78,7 @@ Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und 
 *************************************************
 
 
-> [image]()
+> ![image](../graphics/06_1-3-Dreieck.png)
 
 *************************************************
 
@@ -86,9 +89,84 @@ Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und 
 *************************************************
 
 
-> [image]()
+> ![image](../graphics/06_1-4-Sechseck.png)
 
 *************************************************
+
+
+## Vierecke zeichnen
+
+
+Zeichne sechs Koordinatensysteme (x-Ache bis 6 und y-Achse bis 5) in dein Heft und dann die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und verbinde sie der Reihe nach. Vergleiche deine gezeichneten Viereck mit den Vierecken auf der Seite 18 im Bizz-Heftbzw. mit der Seite 72 in deinem Mathebuch. Gib an, um welches besondere Viereck es sich bei deinen Figuren handelt.
+
+
+> Figur 1: A(2/1);  B(5/1);  C(5/4);  D(2/4)
+
+[[Quadrat]]
+*************************************************
+
+
+> ![image](../graphics/06_2-1-Quadrat.png)
+
+*************************************************
+
+
+
+> Figur 2: A(2/1);  B(5/1);  C(4/3);  D(2/3)
+
+[[Trapez]]
+*************************************************
+
+
+> ![image](../graphics/06_2-2-Trapez.png)
+
+*************************************************
+
+
+> Figur 3: A(1/1);  B(5/1);  C(6/3);  D(2/3)
+
+[[Parallelogramm]]
+*************************************************
+
+
+> ![image](../graphics/06_2-3-Parallelogramm.png)
+
+*************************************************
+
+
+> Figur 4: A(3/0);  B(4/2);  C(3/4);  D(2/2)
+
+[[Raute]]
+*************************************************
+
+
+> ![image](../graphics/06_2-4-Raute.png)
+
+*************************************************
+
+
+> Figur 5: A(1/1);  B(4/1);  C(4/3);  D(1/3)
+
+[[Rechteck]]
+*************************************************
+
+
+> ![image](../graphics/06_2-5-Rechteck.png)
+
+*************************************************
+
+
+> Figur 6: A(1/2);  B(2/1);  C(5/2);  D(2/3)
+
+[[Drache]]
+*************************************************
+
+
+> ![image](../graphics/06_2-6-Drache.png)
+
+*************************************************
+
+
 
 
 
@@ -102,16 +180,18 @@ Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und 
 
 $\quad$
 
+
 **~~Aufgabenfuchs~~**
 
 Auf der Seite des [Aufgabenfuchses](https://www.aufgabenfuchs.de/mathematik/flaeche/viereck/vierecksarten.shtml) finden sich auch schöne Aufgaben zu Vierecken.
 
 Diese beinhalten aber mehr Informationen, als ihr bisher kennt. Bearbeite daher die Aufgaben 1 und 3a. Ziehe bei der Aufgabe 1 die Punkte so, dass du jeden Vierecktyp einmal dargestellt hast. Freiwillig kannst du auf dieser Seite auch noch die Aufgabe 8 bearbeiten.
+
 [Aufgabenfuchs - Vierecke](https://www.aufgabenfuchs.de/mathematik/flaeche/viereck/vierecksarten.shtml)
 
 $\quad$
 
-**~~Geogebra~~**
+**~~Geogebra:~~ Nur für Könner**
 
 Geogebra kennst du bereits von den Koordinatensystemen. Es gibt fertige Aktivitäten, die du machen kannst.
 
