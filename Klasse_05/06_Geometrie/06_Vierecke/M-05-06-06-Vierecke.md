@@ -43,21 +43,52 @@ Achte beim Koordinatensystem darauf
 * die Achsen korrekt mit x (nach rechts) und y (nach oben) zu beschriften,
 * zwischen 0 und 1, 1 und 2 sowie allen anderen Zahlen den Abstand von 1 cm einzuhalten.
 
-Du zeichnest folgende Figuren. Gib zu jedem Bild an, um welche der Figuren es sich handelt:
+Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und dann die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und verbinde sie der Reihe nach. Gib an, um welches Vieleck es sich handelt: *Dreieck, Viereck, Fünfeck, Sechseck:*
 
-*Dreieck, Fünfeck, Sechseck, allgemeines Viereck, Quadrat, Rechteck, Raute, Parallelogramm, Drache, Trapez*
 
-> Figur 1:
+> Figur 1: A(1/1);  B(3/1);  C(3/2);  D(2/4)
 
-[[blub]]
+[[Viereck]]
 *************************************************
 
 
-[image]()
+> [image]()
 
 *************************************************
 
 
+
+> Figur 2: A(1/2);  B(3/3);  C(5/2);  D(4/5);  E(2/4)
+
+[[Fünfeck]]
+*************************************************
+
+
+> [image]()
+
+*************************************************
+
+
+> Figur 3: A(1/2);  B(5/1);  C(4/3)
+
+[[Dreieck]]
+*************************************************
+
+
+> [image]()
+
+*************************************************
+
+
+> Figur 4: A(0/1);  B(2/0);  C(4/1);  D(2/4);  E(2/2);  F(1/3)
+
+[[Sechseck]]
+*************************************************
+
+
+> [image]()
+
+*************************************************
 
 
 
