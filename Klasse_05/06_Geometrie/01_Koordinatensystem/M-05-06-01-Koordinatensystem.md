@@ -204,7 +204,7 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 **************************************
 
 
-> ![image](..)
+> ![image](../graphics/01_Weitere_Figur_1.png)
 
 **************************************
 
@@ -213,7 +213,7 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 **************************************
 
 
-> ![image](..)
+> ![image](../graphics/01_Weitere-Figur_2.png)
 
 **************************************
 
@@ -222,7 +222,7 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 **************************************
 
 
-> ![image](..)
+> ![image](../graphics/01_Weitere-Figur_3.png)
 
 **************************************
 
@@ -231,7 +231,7 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 **************************************
 
 
-> ![image](..)
+> ![image](../graphics/01_Weitere-Figur_4.png)
 
 **************************************
 
@@ -240,7 +240,7 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 **************************************
 
 
-> ![image](..)
+> ![image](../graphics/01_Weitere-Figur_5.png)
 
 **************************************
 
@@ -249,7 +249,7 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 **************************************
 
 
-> ![image](..)
+> ![image](../graphics/01_Weitere-Figur_6.png)
 
 **************************************
 
