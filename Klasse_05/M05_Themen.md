@@ -38,7 +38,7 @@ Die Seite ist eine zusätzlich zu den Wochenplänen ausgegebenen Hilfe, die Them
 
 [05 Größen - Gemischte Aufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
 
-[06 Geometrie](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/M-06-Geometrie.md#2)
+[06 Geometrie](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/M-05-06-Geometrie.md#2)
 
 
 
