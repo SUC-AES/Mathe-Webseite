@@ -201,6 +201,8 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 
 
 > Aufgabe 1: ( 2 / 1 ) -> ( 8 / 1 ) -> ( 8 / 5 ) -> ( 7 / 6 ) -> ( 7 / 8 ) -> ( 6 / 8 ) -> ( 6 / 7 ) -> ( 5 / 8 ) -> ( 2 / 5 ) -> ( 2 / 1 )
+
+[[Haus]]
 **************************************
 
 
@@ -210,6 +212,8 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 
 
 > Aufgabe 2: ( 2 / 1 ) -> ( 7 / 1 ) -> ( 8 / 3 ) -> (4 / 3 ) -> ( 4 / 5 ) -> ( 7 / 5 ) -> ( 3 / 8 ) -> ( 3 / 3 ) -> ( 1 / 3 ) -> ( 2 / 1 )
+
+[[Schiff]]
 **************************************
 
 
@@ -219,6 +223,8 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 
 
 > Aufgabe 3: ( 2 / 2 ) -> ( 3 / 1 ) -> ( 5 / 1 ) -> ( 6 / 2 ) -> ( 6 / 6 ) -> ( 5 / 4 ) -> ( 4 / 6 ) -> ( 3 / 4 ) -> ( 2 / 6 ) -> ( 2 / 2 )
+
+[[Tulpe]]
 **************************************
 
 
@@ -228,6 +234,8 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 
 
 > Aufgabe 4: ( 1 / 2 )-> ( 2 / 2 ) -> ( 6 / 7 ) -> ( 6 / 8 ) -> ( 1 / 8 ) -> ( 1 / 7 ) -> ( 5 / 7 ) -> ( 1 / 2 )
+
+[[7]]
 **************************************
 
 
@@ -237,6 +245,8 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 
 
 > Aufgabe 5: ( 2 / 1 ) -> ( 4 / 1 ) -> ( 10 / 7 ) -> ( 8 / 7 ) -> ( 6 / 5 ) -> ( 4 / 7 ) -> ( 2 / 7 ) -> ( 5 / 4 ) -> ( 2 / 1 )
+
+[[Y]]
 **************************************
 
 
@@ -246,6 +256,8 @@ Zeichne die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und ve
 
 
 > Aufgabe 6: ( 1 / 1 ) -> ( 2 / 1 ) -> ( 3 / 3 ) -> ( 5 / 3 ) -> ( 6 / 1 ) -> ( 7 / 1 ) -> ( 4 / 7 ) -> ( 1 / 1 )
+
+[[A]]
 **************************************
 
 
