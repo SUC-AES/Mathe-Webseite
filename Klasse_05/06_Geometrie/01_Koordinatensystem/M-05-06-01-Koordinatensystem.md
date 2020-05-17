@@ -18,7 +18,7 @@ springen:
 
 [Geometrie - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/M-05-06-Geometrie.md#1)
 
-[01 Koordinatensystem](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/01_Koordinatensystem/M-06-01-01-Koordinatensystem.md#2)
+[01 Koordinatensystem](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/01_Koordinatensystem/M-05-06-01-Koordinatensystem.md#2)
 
 [06 Vierecke und andere Vielecke](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/06_Vierecke/M-05-06-06-Vierecke.md#2)
 
