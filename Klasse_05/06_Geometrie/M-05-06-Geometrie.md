@@ -191,6 +191,138 @@ $$
 
         ***********************************************************************
 
+## Woche 2
+
+**Tag 1 - Montag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$ 106: ( 2^3+5 \cdot 3^2)-1 $
+
+[[1]]
+[[?]] $ 2^3 = 2 \cdot 2 \cdot 2 $
+[[?]] $ 3^2 = 3 \cdot 3 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 106: ( 2^3+5 \cdot 3^2)-1 \\
+= & 106: (8+5 \cdot 9)-1 \\
+= & 106: (8+45)-1 \\
+= & 106:53 -1\\
+= & 2-1 \\
+= & 1
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ 3 \cdot [15+2 \cdot (26-12)+7^2] $
+
+[[276]]
+[[?]] $ 7^2 = 7 \cdot 7 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 3 \cdot [15+2 \cdot (26-12)+7^2] \\
+= & 3 \cdot (15+2 \cdot 14+49) \\
+= & 3 \cdot (15+28+49) \\
+= & 3 \cdot (43+49) \\
+= & 3 \cdot 92 \\
+= & 276
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ [(17+3^3) \cdot 7]:28-6 $
+
+[[5]]
+[[?]] $ 3^3 = 3 \cdot 3 \cdot 3 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & [(17+3^3) \cdot 7]:28-6 \\
+= & [(17+27) \cdot 7]: 28 -6 \\
+= & [44 \cdot 7] : 28 -6 \\
+= & 308 : 28-6 \\
+= & 11 - 6 \\
+= & 5
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ [6^2 \cdot (12^2-11^2)]:276) $
+
+[[3]]
+[[?]] $ 6^2 = 6 \cdot 6 $
+[[?]] $ 12^2 = 12 \cdot 12 $
+[[?]] $ 11^2 = 11 \cdot 11 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & [6^2 \cdot (12^2-11^2)]:276) \\
+= & [36 \cdot (144-121)]:276 \\
+= & [36 \cdot 23]:276 \\
+= & 828:276 \\
+= & 3
+\end{aligned}
+$$
+
+***********************************************************************
+
+**Tag 5 - Freitag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ (37+5 \cdot 3): (28-3 \cdot 5) $
+
+[[4]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & (37+5 \cdot 3): (28-3 \cdot 5) \\
+= & (37+15): (28-15) \\
+= & 52 : 13 \\
+= & 4
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+
 
 #Haftung für Links
 
