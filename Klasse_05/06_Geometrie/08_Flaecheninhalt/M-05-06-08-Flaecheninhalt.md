@@ -22,6 +22,8 @@ springen:
 
 [06 Vierecke und andere Vielecke](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/06_Vierecke/M-05-06-06-Vierecke.md#2)
 
+[08 Flächeninhalte]()
+
 $\qquad$
 
 **Weitere Themen der Klasse 5**
@@ -32,7 +34,7 @@ $\qquad$
 
 [05 Größen - Gemischte Aufgaben](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/05_Alle_GroeBen/M-05-05-Alle_GroeBen.md#2)
 
-[06 Geometrie - Jahrgang 5](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/M-05-06-Geometrie.md#1)
+[06 Geometrie](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/M-05-06-Geometrie.md#1)
 
 $\qquad$
 
@@ -41,187 +43,314 @@ $\qquad$
 
 
 
-#Vierecke und andere Vielecke
+#Flächeninhalt
 
 Übernimm die folgende Überschrift in dein Heft
 
-> **~~6.2 Vierecke und andere Vielecke~~**
+> **~~6.3 Flächeninhalt~~**
 
-Zum Wiederholen der Koordinatensysteme zeichne bitte jede der folgende Figuren in ein eigenes Koordinatensystem. Wenn du damit fertig bist, entscheide, welches Vieleck beziehungsweise welches besondere Viereck hier vorliegt. Gib das bei der Frage an und erhalte die Musterlösung. Vergleiche und berichtige eventuelle Fehler.
+Dieses Thema hat mehrere Unterthemen, die du bearbeiten sollst.
 
 
-## Vielecke zeichnen
+#Maßeinheiten
 
+Übernimm die folgende Überschrift in dein Heft
 
-Achte beim Koordinatensystem darauf
+> **~~A) Maßeinheiten~~**
 
-* die Achsen korrekt mit x (nach rechts) und y (nach oben) zu beschriften,
-* zwischen 0 und 1, 1 und 2 sowie allen anderen Zahlen den Abstand von 1 cm einzuhalten.
+Heute arbeitet ihr mit dem Buch. Wichtig für die Flächen und für euer "Gefühl" für die Flächen ist es, sich die Größe einer Fläche gut vorstellen zu können. Bis auf die Einheit Hektar (ha) und Ar (a) werden alle Einheiten durch die Seitenlänge des Quadrats beschrieben. Aus der Seitenlänge des Quadrats 1 km wird die Flächeneinheit $1 km^2$, aus der Seitenlänge des Quadrats 1 cm wird die Flächeneinheit $1 cm^2,$ etc. Da es aber zwischen einem Quadratkilometer und einem Quadratmeter viele Flächen gibt, kommt es zu den zusätzlichen Einheiten Hektar und Ar.
 
-Zeichne vier Koordinatensysteme (x- und y-Achse jeweils bis 5) in dein Heft und dann die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und verbinde sie der Reihe nach. Gib an, um welches Vieleck es sich handelt: *Dreieck, Viereck, Fünfeck, Sechseck:*
+Schreibt heute bitte die Seite 155 (in Schönschrift) bis auf das Pfeilbild ab in euer Heft. Die Tabelle im blauen Kasten ist sehr wichtig, nehmt dafür eine eigene Seite in eurem Heft und legt das Heft quer. Male schöne Bilder, um die Größenvorstellung richtig darzustellen.
 
+Zeichne für die Frage des nächsten Abschnitts, einen Quadratdezimeter (ein Quadrat mit Seitenlänge 1 dm = ......... cm) in dein Heft. Unterteile es in Quadrate des Flächeninhalts $1 cm^2$.
 
-> Figur 1: A(1/1);  B(3/1);  C(3/2);  D(2/4)
+*FREIWILLIG: Unterteile das linke, obere Quadrat mit $1 cm^2$ Flächeninhalt in Quadrate mit der Seitenlänge 1 mm. Wie viele Quadrate mit Flächeninhalt $1 mm^2$ passen in das Quadrat von $1 cm^2$?*
 
-[[Viereck]]
-*************************************************
+Übernimm nun das Pfeilbild in dein Heft und ergänze den Satz darunter:
 
+> ![image](../graphics/08_Pfeilbild_Flaecheninhalt.png)
 
-> ![image](../graphics/06_1-1-Viereck.png)
+> Die Umrechnungszahl zwischen den Einheiten ist immer 100.
 
-*************************************************
+> Bei der Verschiebung des Kommas wird es für benachbarte Maßeinheiten immer um zwei Stellen verschoben.
 
+## Aufgabe Buch
 
+Bearbeite nun im Buch auf der Seite 156 die Aufgabe 1. Gib dann "FERTIG" ein, um die Musterlösung zu erhalten.
 
-> Figur 2: A(1/2);  B(3/3);  C(5/2);  D(4/5);  E(2/4)
+[[FERTIG]]
+******************************************
 
-[[Fünfeck]]
-*************************************************
 
+Der Größe nach geordnet ergibt sich:
 
-> ![image](../graphics/06_1-2-Fuenfeck.png)
+> | Fläche | Größe |
+> | Bodensee | $571 km^2 $ |
+> | Golfplatz | $46 ha $ |
+> | Spielfeld in der Halle | $4 a $ |
+> | Zimmertür | $2 m^2 $ |
+> | Seite des Mathebuchs | $5 dm^2 $ |
+> | Briefmarke | $4 cm^2 $ |
 
-*************************************************
+******************************************
 
 
-> Figur 3: A(1/2);  B(5/1);  C(4/3)
+# Flächeninhalt und Umfang von Quadrat und Rechteck
 
-[[Dreieck]]
-*************************************************
+Übernimm die folgende Überschrift in dein Heft
 
+> **~~B) Flächeninhalt und Umfang von Quadrat und Rechteck~~**
 
-> ![image](../graphics/06_1-3-Dreieck.png)
+Mit dem Begriff "Flächeninhalt" hast du dich gestern auseinander gesetzt.
 
-*************************************************
+Wenn du den Flächeninhalt eines Quadrats oder eines Rechtecks ausrechnen möchtest, musst du dich fragen, wie viele kleine Quadrate von der Größe $1 cm^2$ passen in dein gezeichnetes Rechteck. Da du die Rechnung bestimmt einmal erklärt haben möchtest, kannst du dir dazu ein [Video von Lehrer Schmidt](https://www.youtube.com/watch?v=QVDlT7eYnTU) anschauen. Dieses ist nur zu Flächeninhalten, du kannst aber auch unten das anschauen, welches Flächeninhalt und Umfang eines Rechtecks zeigt.
 
+Diese hier gefällt mir, weil weitere Beispiele dabei sind:
 
-> Figur 4: A(0/1);  B(2/0);  C(4/1);  D(2/4);  E(2/2);  F(1/3)
+!?[movie](https://www.youtube.com/watch?v=QVDlT7eYnTU)
 
-[[Sechseck]]
-*************************************************
+Für den Umfang musst du dir vorstellen, eine kleine Ameise läuft einmal auf den Seiten des Quadrats bzw. des Rechtecks entlang.
 
+Die Frage ist: *Welche Strecke ist sie gelaufen?*
 
-> ![image](../graphics/06_1-4-Sechseck.png)
+ Auch hier ist der Rechenweg wieder wichtig. Es gibt zwei Beispiele von Lehrer Schmidt je eines für ein Quadrat und eines für ein Rechteck. Schau sie dir an:
 
-*************************************************
+!?[Quadrat](https://www.youtube.com/watch?v=wrNIhANQIUE)
+!?[Rechteck](https://www.youtube.com/watch?v=aWWf6E9-jmQ)
 
+Übernimm nun die Beispiele in dein Heft. Zeichne dabei die Seiten der Vierecke in der richtigen Länge. Verwende für die allgemeinen Formeln einen roten Stift.
 
-## Vierecke zeichnen
+> <dt style="color:red"> **Quadrat** </dt>
 
+> <dt style="color:red"> $$
+\begin{aligned}
+U_Q & = a + a + a + a \\
+& = 4 \cdot a \\
+A_Q &= a \cdot a \\
+& = a^2 \\
+\end{aligned}
+$$ </dt>
 
-Zeichne sechs Koordinatensysteme (x-Ache bis 6 und y-Achse bis 5) in dein Heft und dann die Punkte einer Aufgabe jeweils in ein eigenes Koordinatensystem und verbinde sie der Reihe nach. Vergleiche deine gezeichneten Viereck mit den Vierecken auf der Seite 18 im Bizz-Heftbzw. mit der Seite 72 in deinem Mathebuch. Gib an, um welches besondere Viereck es sich bei deinen Figuren handelt.
+> ![image](../graphics/08_Quadrat_U_A_1.png)
 
+> Beispiel:
 
-> Figur 1: A(2/1);  B(5/1);  C(5/4);  D(2/4)
+> $$
+\begin{aligned}
+U_Q &= 4 \cdot 5 ~cm \\ &= 20~cm\\
+A_Q &= 5 ~cm \cdot 5 ~cm \\ &= 25 ~cm^2 \\
+\end{aligned}
+$$
 
-[[Quadrat]]
-*************************************************
 
+> <dt style="color:red">  Rechteck </dt>
 
-> ![image](../graphics/06_2-1-Quadrat.png)
+> <dt style="color:red"> $$
+\begin{aligned}
+U_R &= a + b + a + b \\
+&= 2 \cdot a + 2 \cdot b \\
+&= 2 \cdot (a +b) \\
+A_R &= a \cdot b \\
+\end{aligned}
+$$ </dt>
 
-*************************************************
+> ![image](../graphics/08_Rechteck_U_A_1.png)
 
+> Beispiel:
 
+> $$
+\begin{aligned}
+U_R &= 2 \cdot 6 ~cm + 2 \cdot 4 ~cm \\ &= 12 ~cm + 8 ~cm \\ & = 20 ~cm \\
+A_R &= 6 ~cm \cdot 4 ~cm \\ & = 24~ cm^2 \\
+\end{aligned}
+$$
 
-> Figur 2: A(2/1);  B(5/1);  C(4/3);  D(2/3)
+## Bizz Seite 24
 
-[[Trapez]]
-*************************************************
+Bearbeite im Bizz-Heft die Aufgaben auf der Seite 24. Gib das letzte Wort des Lösungsspruchs in GROSSBUCHSTABEN an, um die Rechenwege zu sehen.
 
+[[GERN]]
+******************************************
 
-> ![image](../graphics/06_2-2-Trapez.png)
 
-*************************************************
 
+******************************************
 
-> Figur 3: A(1/1);  B(5/1);  C(6/3);  D(2/3)
+##Aufgabenfuchs
 
-[[Parallelogramm]]
-*************************************************
+Auch beim Aufgabenfuchs gibt es verschiedene Seiten bearbeite jeweils die angegebenen Aufgaben:
 
+* [Aufgabenfuchs - 1](https://mathe.aufgabenfuchs.de/flaeche/flaecheninhalt.shtml): Bearbeite die Aufgaben 3 und 5.
 
-> ![image](../graphics/06_2-3-Parallelogramm.png)
+* [Aufgabenfuchs 2](https://mathe.aufgabenfuchs.de/flaeche/einfache-flaechen.shtml): Bearbeite die Aufgaben 4 und 9.
 
-*************************************************
 
+#Umformungen von Flächeneinheiten
 
-> Figur 4: A(3/0);  B(4/2);  C(3/4);  D(2/2)
+Übernimm die folgende Überschrift in dein Heft
 
-[[Raute]]
-*************************************************
+> **~~C) Umformungen von Flächeninhalten~~**
 
+Du kennst bereits das Pfeilbild und die Merksätze für die Flächeneinheiten:
 
-> ![image](../graphics/06_2-4-Raute.png)
+> ![image](../graphics/08_Pfeilbild_Flaecheninhalt.png)
 
-*************************************************
+> Die Umrechnungszahl zwischen den Einheiten ist immer 100.
 
+> Bei der Verschiebung des Kommas wird es für benachbarte Maßeinheiten immer um zwei Stellen verschoben.
 
-> Figur 5: A(1/1);  B(4/1);  C(4/3);  D(1/3)
 
-[[Rechteck]]
-*************************************************
+[Lehrer Schmidt](https://www.youtube.com/watch?v=bEgBxIdZZLs) erklärt dir die Umformungen in einem Video:
 
+!?[movie](https://www.youtube.com/watch?v=bEgBxIdZZLs)
 
-> ![image](../graphics/06_2-5-Rechteck.png)
+##Einheitentabelle
 
-*************************************************
+Du kennst die Einheitentabellen von den anderen Größen. Da die Umrechnungszahl 100, besitzt jede Einheit eine Zehner (Z)- und eine Einer (E)-Spalte. Natürlich können die $km^2$ auch mehr Spalten haben. Hier genügen die Spalten aber.
 
+Übertrage die Tabelle in dein Heft:
 
-> Figur 6: A(1/2);  B(2/1);  C(5/2);  D(2/3)
+> ![image](../graphics/08_Einheitentabelle_Flaecheneinheiten.png)
 
-[[Drache]]
-*************************************************
+##Bizz Seite 28
 
+Bearbeite im Bizz-Heft die Aufgaben auf der Seite 28. Löse einen Teil der Aufgaben (Aufgabe 1 a-d, 2 a-c und 2 k-m) in der Einheitentabelle. Du kannst auch mehr Aufgaben in der Tabelle lösen, wenn du möchtest. Denke dabei an den Merksatz: "Das Komma steht immer hinter dem Einer der angegebenen Einheit."
 
-> ![image](../graphics/06_2-6-Drache.png)
+Gib das letzte Wort des Lösungsspruchs in GROSSBUCHSTABEN an, um die Musterlösung zu sehen.
 
-*************************************************
+[[AERGERN]]
+*******************************************
 
+**1. Gib in der gesuchten Einheit an**
 
+> $$
+\begin{aligned}
+&(a) &2 ~dm^2 &= 200 ~cm^2\\
+&(b) &8.000 ~cm^2 &= 80 ~dm^2 \\
+&(c) &4 ~m^2 &= 400 ~dm^2 \\
+&(d) &40 ~dm^2 &= 4.000~ cm^2 \\
+&(e) &800 ~m^2 &= 8 ~a \\
+&(f) &20 ~a &= 2.000 ~m^2 \\
+&(g) &700 ~dm^2 &= 7~ m^2 \\
+&(h) &50.000 ~dm^2 &= 500~m^2 \\ &&&= 5 ~a \\
+&(i) &17~m^2 &= 1.700 ~dm^2 \\
+&(j) &124 ~cm^2 &= 12.400 ~mm^2 \\
+&(k) &14 m^2 &= 1.400 ~dm^2 \\ &&&= 140.000 ~cm^2 \\
+&(l) &17.000 ~mm^2 &=170 ~cm^2 \\
+&(m) &3.500 ~m^2 &= 35 .000 .000 ~cm^2 \\
+&(n) &124.000~ ha &= 1.240 ~km^2 \\
+&(o) &14.000 ~a &= 140 ~ha \\
+&(p) &3.500 ~dm^2 &= 35 ~m^2 \\
+&(q) &350 ~ha &= 35 .000 ~a \\
+&(r) &1.204 ~a &= 12. 040. 000 ~dm^2 \\
+&(s) &800.000 ~mm^2 &= 80 ~dm^2 \\
+&(t)&120.400 ~dm^2 &= 1.204~m^2
+\end{aligned}
+$$
 
 
+**2. Teil 1: Gib in $m^2$ an**
+
+> $$
+\begin{aligned}
+&(a) &13a~ 25 m^2 &= 1325~ m^2 \\
+&(b) &  21 a~ 5 m^2 &= 2105~ m^2 \\
+&(c) &4 a ~90 m^2 &= 490~ m^2 \\
+&(d) &2 ha &= 20 000~ m^2 \\
+&(e) &4 ha ~9 m^2 &= 40 009~ m^2 \\
+&(f) &2 ha ~15 m^2 &= 20 015 ~m^2 \\
+&(g) &40 ha ~9 a &= 400 900~ m^2 \\
+&(h) &21 ha ~50 m^2 &= 210 050 ~m^2 \\
+&(i) &21 ha~ 5 a &= 210 500~ m^2 \\
+&(j) &1 ha~ 234 a~ 125 m^2 &= 1 ha +2 ha ~34 a +1a ~25m^2 \\
+&&&= 3ha ~35a ~25 m^2 \\
+&&&=33 525 ~m^2\\
+\end{aligned}
+$$
+
+
+**2. Teil 2: Gib in gemischter Schreibweise an**
+
+> $$
+\begin{aligned}
+&(k) &730 ~dm^2 &= 7 m^2 ~30 dm^2 \\
+&(l) &9.250 ~mm^2 &= 92 cm^2 ~50 mm^2 \\
+&(m) &800.000 ~m^2 &= 80 ~ha \\
+&(n) &925 ~cm^2 &= 9 dm^2 ~25 cm^2 \\
+&(o) &925.000 ~m^2 &= 92 ha ~50 a \\
+&(p) &73.000 ~a &= 7 km^2 ~30 ha \\
+&(q) &9.200.005~ mm^2 &= 9m^2 ~20dm^2 ~5mm^2 \\
+&(r) &900.205 ~dm^2 &= 90a ~2 m^2 ~5 dm^2 \\
+&(s) &18.425 ~m^2 &= 1 ha ~84 a ~25 m^2 \\
+&(t) &900.080.070 ~cm^2 &= 9ha ~8 m^2 ~70cm^2 \\
+\end{aligned}
+$$
+
+**Lösungsspruch**
+
+> Lieber Lehrer sucht böse Schüler zum Ärgern.
+
+*******************************************
+
+##Selbstlernmaterial
+
+Auf der Seite mit Selbstlernmaterial gibt es mehrere Klapptests zu lösen. Den ersten findest du hier, drei weitere unter externe Links.
+
+[Klapptest - 1](ne.lo-net2.de/selbstlernmaterial/m/s1ar/grfl/fl_kt1.PDF)
 
 # Externe Links
 
+Die Links sind teilweise bereits auf der Seite verlinkt, werden hier nur noch einmal gesammelt.
+
 **~~Lehrer Schmidt~~**
 
-[Lehrer Schmidt](https://www.youtube.com/watch?v=Ve-Hzdc47Tk) erklärt auch nochmal, welche verschiedenen Vierecke es gibt. Du kannst dir sein Video anschauen. Beachte, dass er alle gleich langen Seiten mit dem gleichen Buchstaben benennt. Wir machen das anders, du erfährst in der Schule wie es richtig wäre, hilft dir vielleicht aber beim Verständnis.
+[Lehrer Schmidt - Flächeninhalt von Rechtecken](https://www.youtube.com/watch?v=QVDlT7eYnTU)
 
-!?[movie](https://www.youtube.com/watch?v=Ve-Hzdc47Tk)
+[Lehrer Schmidt - Umfang und Flächeninhalt von Quadraten](https://www.youtube.com/watch?v=wrNIhANQIUE)
+
+[Lehrer Schmidt - Umfang und Flächeninhalt von Rechtecken](https://www.youtube.com/watch?v=aWWf6E9-jmQ)
+
+[Lehrer Schmidt - Umformung von Flächeneinheiten](https://www.youtube.com/watch?v=bEgBxIdZZLs)
 
 $\quad$
 
 
 **~~Aufgabenfuchs~~**
 
-Auf der Seite des [Aufgabenfuchses](https://www.aufgabenfuchs.de/mathematik/flaeche/viereck/vierecksarten.shtml) finden sich auch schöne Aufgaben zu Vierecken.
+* [Aufgabenfuchs - 1](https://mathe.aufgabenfuchs.de/flaeche/flaecheninhalt.shtml): Bearbeite die Aufgaben 3 und 5.
 
-Diese beinhalten aber mehr Informationen, als ihr bisher kennt. Bearbeite daher die Aufgaben 1 und 3a. Ziehe bei der Aufgabe 1 die Punkte so, dass du jeden Vierecktyp einmal dargestellt hast. Freiwillig kannst du auf dieser Seite auch noch die Aufgabe 8 bearbeiten.
+* [Aufgabenfuchs - 2](https://mathe.aufgabenfuchs.de/flaeche/einfache-flaechen.shtml): Bearbeite die Aufgaben 4 und 9.
 
-[Aufgabenfuchs - Vierecke](https://www.aufgabenfuchs.de/mathematik/flaeche/viereck/vierecksarten.shtml)
+$\quad$
+
+
+**~~Selbstlernmaterial~~**
+
+Klapptests zum Umformen von Einheiten
+
+[Klapptest - 1](ne.lo-net2.de/selbstlernmaterial/m/s1ar/grfl/fl_kt1.PDF)
+
+[Klapptest - 2](ne.lo-net2.de/selbstlernmaterial/m/s1ar/grfl/fl_kt2.PDF)
+
+[Klapptest - 3](ne.lo-net2.de/selbstlernmaterial/m/s1ar/grfl/fl_kt3.PDF)
+
+[Klapptest - 4](ne.lo-net2.de/selbstlernmaterial/m/s1ar/grfl/fl_kt4.PDF)
 
 $\quad$
 
 **~~Geogebra:~~ Nur für Könner**
 
-Geogebra kennst du bereits von den Koordinatensystemen. Es gibt fertige Aktivitäten, die du machen kannst.
+[Geogebra - Flächeninhalt 1](https://www.geogebra.org/m/gga5mceC#material/FexywbYW)
 
-Der Inhalt dieser Seiten führen über den bekannten Stoff hinaus. Sie sind für diejenigen von euch gedacht, die viel Spaß an Mathematik haben und schon mehr ausprobieren wollen! Die übrigen müssen die Seiten nicht machen.
+[Geogebra - Flächeninhalt 2](https://www.geogebra.org/m/gga5mceC#material/dxJkcWyy)
 
-Beachte folgende Tipps zu den einzelnen Seiten:
+[Geogebra - Flächeninhalt 3](https://www.geogebra.org/m/gga5mceC#material/rdHqJ9vV)
 
-[GEOGEBRA - Namen zuordnen](https://www.geogebra.org/m/RzsgsgR7#material/LaXSGHqP)
-MIT WEITEREN VIERECKEN
+[Geogebra - Flächeninhalt 4](https://www.geogebra.org/m/eYNz8R5q)
 
-Bei dieser Seite sollst du die Begriffe den Bildern zuordnen. Dabei  wird der Drache Deltoid genannt. Auch findest du hier weitere Vierecke, die du bisher nicht kanntest. Du brauchst diese Namen vorerst aber noch nicht.
+[Geogebra - Umfang 1](https://www.geogebra.org/m/vBQs7K3S)
 
-[GEOGEBRA - Eigenschaften zuordnen](https://www.geogebra.org/m/RzsgsgR7#material/lNn1FVX7)
-SCHWIERIG
-
-Bei dieser Seite wird auch auf Winkel und Symmetrie eingegangen. Diese haben wir noch nicht besprochen, vielleicht kennst du die Begriffe noch aus der Grundschule und kannst die Aufgaben trotzdem lösen.
-
-
+[Geogebra - Umfang 2](https://www.geogebra.org/m/RnBfMDb7#material/yV6JzwCT)
 
 
 #Haftung für Links
