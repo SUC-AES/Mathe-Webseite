@@ -27,6 +27,8 @@ Diese und die übergeordnete Webseite behandelt folgende Themen:
 
 [06 Vierecke und andere Vielecke](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/06_Vierecke/M-05-06-06-Vierecke.md#2)
 
+[08 Flächeninhalte](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_05/06_Geometrie/08_Flaecheninhalt/M-05-06-08-Flaecheninhalt.md#2)
+
 $\qquad$
 
 **Weitere Themen in der Klasse 5**
