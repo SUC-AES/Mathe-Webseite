@@ -85,12 +85,12 @@ Bearbeite nun im Buch auf der Seite 156 die Aufgabe 1. Gib dann "FERTIG" ein, um
 Der Größe nach geordnet ergibt sich:
 
 > | Fläche | Größe |
-> | Bodensee | $571 km^2 $ |
-> | Golfplatz | $46 ha $ |
-> | Spielfeld in der Halle | $4 a $ |
-> | Zimmertür | $2 m^2 $ |
-> | Seite des Mathebuchs | $5 dm^2 $ |
-> | Briefmarke | $4 cm^2 $ |
+> | Bodensee | $571 ~km^2 $ |
+> | Golfplatz | $46~ ha $ |
+> | Spielfeld in der Halle | $4 ~a $ |
+> | Zimmertür | $2~ m^2 $ |
+> | Seite des Mathebuchs | $5~ dm^2 $ |
+> | Briefmarke | $4 ~cm^2 $ |
 
 ******************************************
 
