@@ -252,7 +252,7 @@ Auch beim Aufgabenfuchs gibt es verschiedene Seiten bearbeite jeweils die angege
 
 * [Aufgabenfuchs - 1](https://mathe.aufgabenfuchs.de/flaeche/flaecheninhalt.shtml): Bearbeite die Aufgaben 3 und 5.
 
-* [Aufgabenfuchs 2](https://mathe.aufgabenfuchs.de/flaeche/einfache-flaechen.shtml): Bearbeite die Aufgaben 4 und 9.
+* [Aufgabenfuchs - 2](https://mathe.aufgabenfuchs.de/flaeche/einfache-flaechen.shtml): Bearbeite die Aufgaben 4 und 9.
 
 
 #Umformungen von Flächeneinheiten
