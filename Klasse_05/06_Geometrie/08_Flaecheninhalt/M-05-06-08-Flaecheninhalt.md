@@ -173,6 +173,76 @@ Bearbeite im Bizz-Heft die Aufgaben auf der Seite 24. Gib das letzte Wort des LÃ
 ******************************************
 
 
+**Aufgabe 1: Quadrat**
+
+> $$
+\begin{aligned}
+&(a) & a &= 7cm \\
+&& U &= 4 \cdot 7 cm &&= 28 cm\\
+&& A &= (7 cm)^2 &&= 7 cm \cdot 7 cm &&= 49 cm^2 \\
+\\
+&(b) & a &= 16 cm \\
+&& U &= 4 \cdot 16 cm &&= 64 cm\\
+&& A &= (16 cm)^2 &&= 16 cm \cdot 16 cm &&= 256 cm^2 \\
+\\
+&(c) & a &= 30 m \\
+&& U &= 4 \cdot 30 m &&= 120 m \\
+&& A &= (30 m)^2 &&=30 m \cdot 30 m &&= 900 m^2 \\
+\\
+&(d) & a &= 41 dm \\
+&& U &= 4 \cdot 41 dm &&= 164 dm \\
+&& A &= (41 dm)^2 &&= 41 dm \cdot 41 dm &&= 1681 dm^2 \\
+\\
+&(e) & a &= 74 mm \\
+&& U &= 4 \cdot 74 mm &&= 296 mm \\
+&& A &= (74 mm)^2 &&= 74 mm \cdot 74 mm &&= 5476 mm^2 \\
+\\
+&(f) & a &= 1,2 mm && = 12dm \\
+&& U &= 4 \cdot 12 dm && = 48 dm \\
+&& A &= (12 dm)^2 &&= 12 dm \cdot 12 dm &&= 144 dm^2 \\
+\end{aligned}
+$$
+
+
+**Aufgabe 2: Rechtecke**
+
+> $$
+\begin{aligned}
+&(a) & a &= 5cm \\
+&& b &= 7cm \\
+&& U &= 2 \cdot 5 cm + 2 \cdot 7 cm &&=10 cm +14 cm &&= 24 cm \\
+&& A &= 5 cm \cdot 7 cm && = 35 cm^2 \\
+\\
+&(b) & a &= 13 m \\
+&& b &= 8m \\
+&& U &= 2 \cdot 13 m + 2 \cdot 8 m &&= 26 m + 16 m && = 42 m \\
+&& A &= 13 m \cdot 8 m && = 104 m^2 \\
+\\
+&(c) & a &= 6 km \\
+&& b &= 31 km \\
+&& U &= 2 \cdot 6 km  + 2 \cdot 31 km &&=12km +62km &&= 74 km \\
+&& A &= 6 km \cdot 31 km &&= 186 km^2 \\
+\\
+&(d) & a &= 27 dm \\
+&& b &= 9 dm \\
+&& U &= 2 \cdot 27 dm + 2 \cdot 9 dm &&=54dm +18dm &&= 72 dm \\
+&& A &= 27 dm \cdot 9 dm &&= 243 dm^2 \\
+\\
+&(e) & a &= 12 mm \\
+&& b &= 23 mm  \\
+&& U &= 2 \cdot 12 mm + 2 \cdot 23 mm && =24mm +46mm &&= 70 mm \\
+&& A &= 12 mm \cdot 23 mm &&= 276 mm^2 \\
+\\
+&(f) & a &= 2,5 cm &&=25 mm \\
+&& b &= 6 cm &&= 60 mm \\
+&& U &= 2 \cdot 25 mm + 2 \cdot 60 mm && =50mm +120mm  &&= 170 mm &&= 17 cm \\
+&& A &= 25 mm \cdot 60 mm &&= 1500 mm^2 \\
+\end{aligned}
+$$
+
+**LÃ¶sungsspruch**
+
+> BIENENSTICHE von Tieren sind meist sehr schmerzhaft, kommen sie aber aus dem BACKOFEN haben wir  sie GERN.
 
 ******************************************
 
