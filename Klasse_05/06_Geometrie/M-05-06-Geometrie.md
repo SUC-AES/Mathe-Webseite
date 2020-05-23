@@ -323,6 +323,127 @@ $$
 
 ***********************************************************************
 
+## Woche 3
+
+**Tag 1 - Montag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$ 1296∶48 −247∶13 $
+
+[[8]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 1296∶48 −247∶13 \\
+= & 27 - 19 \\
+= & 8
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ 328−51 ∙3+91∶13 $
+
+[[182]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 328−51 ∙3+91∶13] \\
+= & 328 – 153 + 7 \\
+= & 175 +7 \\
+= & 182
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ [ 24 +4 ∙(17−9)]∶7 $
+
+[[8]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & [ 24 +4 ∙(17−9)]∶7 \\
+= & [ 24 +4 ∙8]∶7 \\
+= & [ 24 +32]∶7 \\
+= & 56:7 \\
+= & 8
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ 112∶(2^6 — 6∙8) $
+
+[[7]]
+[[?]] $ 2^6 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &112∶(2^6 — 6∙8) \\
+= & 112 : (64 — 48) \\
+= & 112 : 18 \\
+= & 7
+\end{aligned}
+$$
+
+***********************************************************************
+
+**Tag 5 - Freitag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ [54∶6 −5+(91 −89)]^3 $
+
+[[216]]
+[[?]] Denke an KlaPoPuStri
+[[?]] Berechne zuerst die Klammern und die Potenz als letztes
+[[?]] $6^3 = 6 \cdot 6 \cdot 6$
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & [54∶6 −5+(91 −89)]^3  \\
+= & [9 −5+2]^3 \\
+= & [4+2]^3 \\
+= & 6^3 \\
+= & 216
+\end{aligned}
+$$
+
+***********************************************************************
+
 
 
 
