@@ -352,7 +352,7 @@ $$
 
 Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-$ 328−51 ∙3+91∶13 $
+$ 328−51 \cdot 3+91∶13 $
 
 [[182]]
 ***********************************************************************
@@ -361,7 +361,7 @@ $ 328−51 ∙3+91∶13 $
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
 \begin{aligned}
-\quad & 328−51 ∙3+91∶13] \\
+\quad & 328−51 \cdot 3+91∶13] \\
 = & 328 – 153 + 7 \\
 = & 175 +7 \\
 = & 182
@@ -375,7 +375,7 @@ $$
 
 Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-$ [ 24 +4 ∙(17−9)]∶7 $
+$ [ 24 +4 \cdot (17−9)]∶7 $
 
 [[8]]
 ***********************************************************************
@@ -384,8 +384,8 @@ $ [ 24 +4 ∙(17−9)]∶7 $
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
 \begin{aligned}
-\quad & [ 24 +4 ∙(17−9)]∶7 \\
-= & [ 24 +4 ∙8]∶7 \\
+\quad & [ 24 +4 \cdot (17−9)]∶7 \\
+= & [ 24 +4 \cdot 8]∶7 \\
 = & [ 24 +32]∶7 \\
 = & 56:7 \\
 = & 8
@@ -399,7 +399,7 @@ $$
 
 Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
 
-$ 112∶(2^6 — 6∙8) $
+$ 112∶(2^6 — 6\cdot 8) $
 
 [[7]]
 [[?]] $ 2^6 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 $
@@ -409,7 +409,7 @@ $ 112∶(2^6 — 6∙8) $
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
 \begin{aligned}
-\quad &112∶(2^6 — 6∙8) \\
+\quad &112∶(2^6 — 6\cdot 8) \\
 = & 112 : (64 — 48) \\
 = & 112 : 18 \\
 = & 7
