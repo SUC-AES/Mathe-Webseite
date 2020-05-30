@@ -446,6 +446,134 @@ $$
 
 
 
+## Woche 4
+
+**Tag 1 - Montag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$  11 \cdot (12−5) \cdot (5+3 \cdot 4 −15) $
+
+[[154]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &  11 \cdot (12−5) \cdot (5+3 \cdot 4 −15) \\
+= & 11 \cdot 7 \cdot (5+12 −15) \\
+= & 11 \cdot 7 \cdot (17 −15) \\
+= & 11 \cdot 7 \cdot 2 \\
+= & 77 \cdot 2 \\
+= & 154
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$7 \cdot 7 + 15 - 140 : (21- 14) $
+
+[[44]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 7 \cdot 7 + 15 - 140 : (21- 14) \\
+= & 49 + 15 - 140 : 7 \\
+= &49 + 15 - 20 \\
+= & 64 - 20 \\
+= & 44 \\
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ 38 − [ 16 \cdot 4 −(26−18)]∶7 $
+
+[[30]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 38 − [ 16 \cdot4 −(26−18)] ∶7 \\
+= & 38 − [ 64 −8]∶7 \\
+= & 38 − 56 : 7 \\
+= & 38 − 8 \\
+= & 30
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ 49+[15 −(98+14) ∶ 4^2]^2 $
+
+[[113]]
+[[?]] $ 4^2 = 4 \cdot 4 $
+[[?]] Denke an KlaPoPuStri
+[[?]] $ 8^2 = 8 \cdot 8 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 49+[15 −(98+14)∶ 4^2]^2  \\
+= & 49+[15 −112∶ 16]^2 \\
+= & 49+[15 −7]^2 \\
+= & 49+8^2 \\
+= & 49+64 \\
+= & 113
+\end{aligned}
+$$
+
+***********************************************************************
+
+**Tag 5 - Freitag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ [(356+7\cdot12)∶ 11] : 4 $
+
+[[10]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &  [(356+7\cdot12)∶ 11] : 4  \\
+= & [ (356+84)∶ 11] : 4 \\
+= & [440 ∶ 11] : 4 \\
+= & 40 : 4 \\
+= & 10
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+
 
 #Haftung für Links
 
