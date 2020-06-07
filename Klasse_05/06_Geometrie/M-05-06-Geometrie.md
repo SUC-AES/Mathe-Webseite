@@ -575,6 +575,262 @@ $$
 
 
 
+## Woche 5
+
+**Tag 1 - Montag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$  200 – [(186 + 48) : 6 + 1] \cdot 4 $
+
+[[40]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+
+$$
+\begin{aligned}
+\quad & 200 – [(186 + 48) : 6 + 1] \cdot 4 \\
+= & 200 – [234 : 6 + 1] \cdot 4 \\
+= & 200 – [39 + 1] \cdot 4 \\
+= & 200 – 40 \cdot 4 \\
+= & 200 – 160 \\
+= & 40
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$ 120 – [(93 + 24) : 3 + 1] \cdot 2 $
+
+[[40]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 120 – [(93 + 24) : 3 + 1] \cdot 2 \\
+= & 120 – [117 : 3 + 1] \cdot 2 \\
+= & 120 – [39 + 1] \cdot 2 \\
+= & 120 – 40 \cdot 2 \\
+= & 120 – 80 \\
+= & 40
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ (5^2 – 24) \cdot (2 \cdot 7 – 11) $
+
+[[3]]
+[[?]] $5^2 = 5 \cdot 5$
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & (5^2 – 24) \cdot (2 \cdot 7 – 11) \\
+= & (25 – 24) \cdot (14 – 11) \\
+= & 1 \cdot 3 \\
+= & 3
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$ [(360 + 2  \cdot 95) : 11] + 5 $
+
+[[55]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &  [(360 + 2  \cdot 95) : 11] + 5  \\
+= & [(360 + 190) : 11] + 5 \\
+= & [550 ∶ 11] + 5 \\
+= & 50 + 5 \\
+= & 55
+\end{aligned}
+$$
+
+***********************************************************************
+
+**Tag 5 - Freitag**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ 8 \cdot [(11 – 7) \cdot  3^2– 29] + [75- (3^2 + 12)] $
+
+[[110]]
+[[?]] $3^2 = 3 \cdot 3 $
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 8 \cdot [(11 – 7) \cdot  3^2– 29] + [75- (3^2 + 12)] \\
+= & 8 \cdot [4 \cdot 9 – 29] + [75- ( 9+ 12)] \\
+= & 8 \cdot [36 – 29] + [75- 21] \\
+= & 8 \cdot 7 + 54 \\
+= & 56 + 54 \\
+= & 110
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+
+
+## Woche 6
+
+**Tag 1 - Montag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$  84 – 72 : (43 – 31) + 22 $
+
+[[100]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 84 – 72 : (43 – 31) + 22 \\
+= & 84 - 72 : 12 + 22 \\
+= & 84 – 6 + 22 \\
+= & 78 + 22 \\
+= & 100
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$ 62 - 8 \cdot [(32 : 4 + 2) : 2] + 28 $
+
+[[50]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &  62 - 8 \cdot [(32 : 4 + 2) : 2] + 28 \\
+= & 62 - 8 \cdot [(8 + 2) : 2] + 28 \\
+= & 62 - 8 \cdot [10 : 2] + 28 \\
+= & 62 - 8 \cdot 5 + 28 \\
+= & 62 - 40 + 28 \\
+= & 22 + 28 \\
+= & 50 \\
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+Berechne den Term und gib das Ergebnis an. Wenn du Hilfe bei der Potenz benötigst, kannst du auf das Fragezeichen klicken. Hier erhältst du eine kleine Hilfe.
+
+$ [(4 \cdot 5 + 5^2) + 5] : 5 $
+
+[[10]]
+[[?]] $5^2 = 5 \¢dot 5$
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & [(4 \cdot 5 + 5^2) + 5] : 5 \\
+= & [(20 + 25) + 5] : 5 \\
+= & [45 + 5] : 5 \\
+= & 50 : 5 \\
+= & 10
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+Berechne den Term und gib das Ergebnis an:
+
+$ 950 - [18 \cdot (93 : 3) + 24] $
+
+[[368]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 950 - [18 \cdot (93 : 3) + 24]  \\
+= & 950 - [18 \cdot 31 + 24] \\
+= & 950 - [558 + 24] \\
+= & 950 – 582 \\
+= & 368
+\end{aligned}
+$$
+
+***********************************************************************
+
+**Tag 5 - Freitag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ 240 : [(598 \cdot 6 + 12) : 90] $
+
+[[6]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &  240 : [(598 \cdot 6 + 12) : 90]  \\
+= & 240 : [(3588 + 12) : 90] \\
+= & 240 : [3600 : 90] \\
+= & 240 : [3600 : 90] \\
+= & 240 : 40 \\
+= & 6
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+
 #Haftung für Links
 
 Wir sind für den Inhalt von Webseiten, die über einen Hyperlink erreicht werden, nicht verantwortlich. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Wir machen uns die Inhalte dieser Internetseiten ausdrücklich nicht zu eigen und können deshalb für die inhaltliche Korrektheit, Vollständigkeit und Verfügbarkeit keine Gewähr leisten. Wir haben bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Wir sind aber nicht dazu verpflichtet, die Inhalte, auf die wir unserem Angebot verweisen, ständig auf Veränderungen zu überprüfen, die eine Verantwortlichkeit neu begründen könnten. Erst wenn wir feststellen oder von anderen darauf hingewiesen werden, dass ein konkretes Angebot, zu dem wir einen Link bereitgestellt haben, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, werden wir den Verweis auf dieses Angebot aufheben, soweit uns dies technisch möglich und zumutbar ist.
