@@ -830,6 +830,134 @@ $$
 ***********************************************************************
 
 
+## Woche 7
+
+**Tag 1 - Montag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ (15 \cdot 4 - 39) \cdot [ (19+5 \cdot 7):9 ] $
+
+[[126]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & (15 \cdot 4 - 39) \cdot [ (19+5 \cdot 7):9 ] \\
+= & (60−39) \cdot [(19+35)∶9)] \\
+= & 21 \cdot [54∶9] \\
+= & 21 \cdot 6 \\
+= & 126
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+
+**Tag 2 - Dienstag**
+
+Berechne den Term und gib das Ergebnis an.
+$ (89-9^2)^2 + 127 - 144 :( 36 -24 ) $
+
+[[179]]
+[[?]] $9^2 = 9 \cdot 9$
+[[?]] Denke an KlaPoPuStri
+[[?]] $8^2 = 8 \cdot 8$
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & (89-9^2)^2 + 127 - 144 :( 36 -24 ) \\
+= & (89 -81)^2+  127 - 144  : 12 \\
+= & 8^2 + 127 - 12 \\
+= & 64 + 127-12 \\
+= & 191-12 \\
+= & 179 \\
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+**Tag 3 - Mittwoch**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ 256:16 + ( 7 \cdot 13 - 5 \cdot 14) :17 $
+
+[[19]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & 256:16 + ( 7 \cdot 13 - 5 \cdot 14) :17 \\
+= & 16 + ( 91 − 70 ) ∶ 7 \\
+= & 16 + 21∶7 \\
+= & 16 + 3 \\
+= & 19 \\
+\end{aligned}
+$$
+
+
+***********************************************************************
+
+**Tag 4 - Donnerstag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ ( 164 - 9 \cdot 16) \cdot [ (34 + 7 \cdot 8) : 18 ]:4 $
+
+[[25]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad & ( 164 - 9 \cdot 16) \cdot [ (34 + 7 \cdot 8) : 18 ]:4 \\
+= & (164 - 144) \cdot [(34+56)∶18] : 4 \\
+= & 20 \cdot [ 90 ∶ 18 ] : 4 \\
+= & 20 \cdot 5: 4 \\
+= & 100 : 4 \\
+= & 25 \\
+\end{aligned}
+$$
+
+***********************************************************************
+
+**Tag 5 - Freitag**
+
+Berechne den Term und gib das Ergebnis an.
+
+$ 37 + 6 \cdot 17 - 112 : 4^2 + 189 $
+
+[[321]]
+***********************************************************************
+
+
+Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
+$$
+\begin{aligned}
+\quad &  37 + 6 \cdot 17 - 112 : 4^2 + 189  \\
+= & 37 + 102 − 112 ∶ 16 + 189 \\
+= & 37 + 102 − 7 + 189 \\
+= & 139 − 7 + 189 \\
+= & 132 + 189 \\
+= & 321 \\
+\end{aligned}
+$$
+
+***********************************************************************
+
+
+
 
 #Haftung für Links
 
