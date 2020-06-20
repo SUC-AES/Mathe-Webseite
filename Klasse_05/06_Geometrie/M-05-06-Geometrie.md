@@ -860,6 +860,7 @@ $$
 **Tag 2 - Dienstag**
 
 Berechne den Term und gib das Ergebnis an.
+
 $ (89-9^2)^2 + 127 - 144 :( 36 -24 ) $
 
 [[179]]
