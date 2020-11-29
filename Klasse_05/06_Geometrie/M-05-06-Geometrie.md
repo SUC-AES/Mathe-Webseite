@@ -873,6 +873,7 @@ $ (89-9^2)^2 + 127 - 144 :( 36 -24 ) $
 Vergleiche deinen Rechenweg mit der Musterlösung hier und berichtige gegebenenfalls deine Fehler:
 $$
 \begin{aligned}
+
 \quad & (89-9^2)^2 + 127 - 144 :( 36 -24 ) \\
 = & (89 -81)^2+  127 - 144  : 12 \\
 = & 8^2 + 127 - 12 \\
