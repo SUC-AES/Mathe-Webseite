@@ -56,6 +56,8 @@ Du erkennst gleichnamige Brüche daran, dass sie den gleichen Nenner besitzen. E
 \end{aligned}
 $$
 
+> $~$
+
 > Um ungleichnamige Brüche zu addieren / subtrahieren, musst du die Brüche erst auf den [Hauptnenner]() erweitern. Dann addierst / subtrahierst du sie wie zuvor.
 
 > $$
