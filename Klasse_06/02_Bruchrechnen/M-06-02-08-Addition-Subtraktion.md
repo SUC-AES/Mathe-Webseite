@@ -95,232 +95,146 @@ Gib alle Ergebnisse immer als vollständig gekürzte Brüche in gemischter Schre
 
 1. Addiere / Subtrahiere die gleichnamigen Brüche
 
-$\qquad$ a) $ \frac{}{}  \frac{}{} $
+$\qquad$ a) $ \frac{3}{5} + \frac{4}{5} $
 
-$\qquad$ b) $ \frac{}{}  \frac{}{} $
+$\qquad$ b) $ \frac{7}{12} - \frac{5}{12} $
 
-$\qquad$ c) $ \frac{}{}  \frac{}{} $
+$\qquad$ c) $ 2 \frac{7}{11} + \frac{15}{11} $
 
-$\qquad$ d) $ \frac{}{}  \frac{}{} $
+$\qquad$ d) $ \frac{69}{15} - \frac{14}{15} $
 
 $$ \quad $$
 
 2. Addiere / Subtrahiere die ungleichnamigen Brüche
 
-$\qquad$ a) $ \frac{}{}  \frac{}{} $
+$\qquad$ a) $ \frac{2}{3} + \frac{4}{7} $
 
-$\qquad$ b) $ \frac{}{}  \frac{}{} $
+$\qquad$ b) $ \frac{5}{3} - \frac{4}{9} $
 
-$\qquad$ c) $ \frac{}{}  \frac{}{} $
+$\qquad$ c) $ 2 \frac{3}{8} + 1 \frac{5}{6} $
 
-$\qquad$ d) $ \frac{}{}  \frac{}{} $
+$\qquad$ d) $ 5 \frac{3}{10} - 1 \frac{2}{5} $
 
 
 
-## Lösung 1 - Umrechnen von Größen
+## Lösung 1 - Gleichnamige Brüche: Addition / Subtraktion
 
-Hinweis zum Angeben der Lösungen: Gib nur die gesuchte Zahl ohne Einheit an, um die Musterlösung zu sehen.
+Hinweis zum Angeben der Lösungen: Gib die Ergebnisse immer als vollständig gekürzte Brüche in gemischter Schreibweise an. Schreibe den Bruch $\frac 1 2$ als *1/2*, den Bruch $ 2 \frac{3}{4}$ als *2 3/4*.  
 
-> Gib in der angegebenen Einheit an.
+> Addiere / Subtrahiere die gleichnamigen Brüche.
 
-> a) $ \frac{1}{5}~m = \underline{\qquad}~cm$
+> a) $ \frac{3}{5} + \frac{4}{5} $
 
-[[20]]
+
+[[1 2/5]]
 *********************************
 
 
-$$
-\begin{aligned}
-  \frac{1}{5}~m & = 1~m : 5 \\
-  & = 100~cm : 5 \\
-  & = 20~cm \\
-\end{aligned}
-$$
+$$ \frac{3}{5} + \frac{4}{5} ~ = ~ \frac{ 3+4 }{5} ~ =~ \frac{7}{5} ~=~ 1 \frac{2}{5} $$
 
 *********************************
 
 
-> b) $ \frac{9}{10} ~ kg =\underline{\qquad}~g$
+> b) $ \frac{7}{12} - \frac{5}{12} $
 
-[[900]]
+[[1/6]]
 *********************************
 
 
-$$
-\begin{aligned}
-  \frac{9}{10}~kg & = 9~kg : 10 \\
-  & = 9~000~g : 10 \\
-  & = 900~g \\
-\end{aligned}
-$$
+$$ \frac{7}{12} - \frac{5}{12} ~=~ \frac{ 7-5 }{12} ~=~ \frac{2}{12} ~=~ \frac{1}{6} $$
 
 *********************************
 
 
-> c) $ \frac{11}{25} ~ km =\underline{\qquad}~m$
+> c) $ 2 \frac{7}{11} + \frac{15}{11} $
 
-[[440]]
+[[4]]
 *********************************
 
+Hier gibt es verschiedene Wege, wie du vorgehen kannst. Alle davon sind richtig.
 
-$$
-\begin{aligned}
-  \frac{11}{25}~km & = 11~km : 25 \\
-  & = 11~000~m : 25 \\
-  & = 440~m \\
-\end{aligned}
-$$
+1. Lösungsweg:
+$$ 2 \frac{7}{11} + \frac{15}{11} ~=~ 2 \frac{ 7+15 }{11} ~=~ 2 \frac{22}{11} ~=~ 2 \frac 2 1 ~=~ 4 $$
 
-*********************************
+$~$
 
-
-> d) $ \frac{7}{20} ~h =  \underline{\qquad}~min$
-
-[[21]]
-*********************************
-
-
-$$
-\begin{aligned}
-  \frac{7}{20}~h & = 7~h : 20 \\
-  & = 420~min : 20 \\
-  & = 21~min \\
-\end{aligned}
-$$
+2. Lösungsweg:
+$$ 2 \frac{7}{11} + \frac{15}{11} ~=~ \frac{29}{11} + \frac{15}{11} ~=~ \frac{ 29+15 }{11}  ~=~  \frac{44}{11} ~=~ 4 $$
 
 *********************************
 
 
-## Lösung 2 - Umformen in kleinere Einheit
+> d) $ \frac{69}{15} - \frac{14}{15} $
 
-Hinweis zum Angeben der Lösungen: Gib die gesuchte Zahl mit Einheit ohne Leerstellen an, um die Musterlösung zu sehen. Zum Beispiel "5cm" oder "1200m".
+[[3 2/3]]
+*********************************
 
-> Gib in der nächstkleineren Einheit an.
 
-> a) $ 3 \frac{1}{2}~t $
+$$ \frac{69}{15} - \frac{14}{15} ~=~ \frac{ 69 - 14 }{15} ~=~ \frac{55}{15} ~=~ \frac{11}{3} ~=~ 3 \frac 2 3 $$
 
-[[3500kg]]
+*********************************
+
+
+## Lösung 2 - Ungleichnamige Brüche: Addition / Subtraktion
+
+Hinweis zum Angeben der Lösungen: Gib die Ergebnisse immer als vollständig gekürzte Brüche in gemischter Schreibweise an. Schreibe den Bruch $\frac 1 2$ als *1/2*, den Bruch $ 2 \frac{3}{4}$ als *2 3/4*.
+
+> Addiere / Subtrahiere die ungleichnamigen Brüche.
+
+> a)$ \frac{2}{3} + \frac{4}{7} $
+
+[[1 5/21]]
 *************************************
 
 
-$$
-\begin{aligned}
-  3 \frac{1}{2}~t \quad & = 3~t + \frac{1}{2} ~t \\ \\
-  & =  3~t + 1~t : 2 \\ \\
-  & =  3~000~kg + 1~000~kg : 2 \\ \\
-  & =  3~000~kg + 500~kg \\ \\
-  & =  3~500~kg \\
-\end{aligned}
-$$
-
-*************************************
-
-
-> b) $ 2 \frac{3}{5} ~ m $
-
-[[26dm]]
-*************************************
-
-
-$$
-\begin{aligned}
-  2 \frac{3}{5}~m & = 2~m + \frac{3}{5} ~m \\ \\
-  & =  2~m + 3~m :5 \\ \\
-  & =  20~dm + 30~dm :5 \\ \\
-  & =  20~dm + 6~dm \\ \\
-  & =  26~dm \\
-\end{aligned}
-$$
+$$ \frac{2}{3} + \frac{4}{7} ~=~ \frac{14}{21} + \frac{12}{21} ~=~ \frac{ 14+12 }{21} ~=~ \frac{26}{21}  ~=~ 1 \frac{5}{21} $$
 
 *************************************
 
 
-> c) $ 1 \frac{3}{8} ~ d $
+> b) $ \frac{5}{3} - \frac{4}{9} $
 
-[[33h]]
+[[1 2/9]]
 *************************************
 
 
-$$
-\begin{aligned}
-  1 \frac{3}{8}~d & = 1~d + \frac{3}{8} ~d \\ \\
-  & =  1~d + 3~d :8 \\ \\
-  & =  24~h + 72~h :8 \\ \\
-  & =  24~h + 9~h \\ \\
-  & =  33~h \\
-\end{aligned}
-$$
+$$ \frac{5}{3} - \frac{4}{9} ~=~ \frac{15}{9} - \frac{4}{9} ~=~ \frac{ 15 - 4 }{9} ~=~ \frac{11}{9}  ~=~ 1 \frac{2}{9} $$
 
 *************************************
 
 
-> d) $ 4 \frac{3}{250} ~g $
+> c) $ 2 \frac{3}{8} + 1 \frac{5}{6} $
 
-[[4012mg]]
+[[4 5/24]]
 *************************************
 
 
-$$
-\begin{aligned}
-  4 \frac{3}{250}~g & = 4~g + \frac{3}{250} ~g \\ \\
-  & =  4~g + 3~g :250 \\ \\
-  & =  4~000~mg + 3~000~mg :250 \\ \\
-  & =  4~000~mg + 12~mg \\ \\
-  & =  4~012~mg \\
-\end{aligned}
-$$
+1. Lösungsweg:
+$$ 2 \frac{3}{8} + 1 \frac{5}{6} ~=~ 2 \frac{9}{24} + 1 \frac{20}{24} ~=~ 3 \frac{ 9+20 }{24} ~=~ 3 \frac{29}{24}  ~=~ 4 \frac{5}{24} $$
+
+$~$
+
+2. Lösungsweg:
+$$ 2 \frac{3}{8} + 1 \frac{5}{6} ~=~ \frac{19}{8} + \frac{11}{6} ~=~ \frac{ 57 }{24} + \frac{44 }{24} ~=~ \frac{ 57+44 }{24} ~=~ \frac{101}{24}  ~=~ 4 \frac{5}{24} $$
 
 *************************************
 
 
-## Lösung 3 - Teil des Ganzen
+> d) $ 5 \frac{3}{10} - 1 \frac{2}{5} $
 
-Hinweis zum Angeben der Lösungen: Gib nur die gesuchte Zahl ohne Einheit an, um die Musterlösung zu sehen.
-
-> Gib den Teil des Ganzen an.
-
-> a) $ \frac{3}{20} $ von 120 kg
-
-[[18]]
-************************************
+[[3 9/10]]
+*************************************
 
 
-$$ \frac{3}{20} ~von~120~kg: \qquad 120~kg \overset{:20}\rightarrow ~~ 6~mg ~~ \overset{~ \cdot 3}\rightarrow 18~mg $$
+1. Lösungsweg:
+$$ 5 \frac{3}{10} - 1 \frac{2}{5} ~=~ 5 \frac{3}{10} - 1 \frac{4}{10} ~=~ 4 \frac{13}{10} - 1 \frac{4}{10} ~=~ 3 \frac{9}{10} $$
 
-************************************
+$~$
 
+2. Lösungsweg:
+$$ 5 \frac{3}{10} - 1 \frac{2}{5} ~=~ \frac{53}{10} - \frac{7}{5} ~=~ \frac{53}{10} -  \frac{14}{10} ~=~  \frac{53-14}{10}  ~=~ \frac{39}{10} ~=~ 3 \frac{9}{10} $$
 
-> b) $ \frac{7}{12} $ von 84 m
-
-[[49]]
-************************************
-
-
-$$ \frac{7}{12} ~von~84~m: \qquad 84~m \overset{:12}\rightarrow ~~ 7~m ~~ \overset{~ \cdot 7}\rightarrow 49~m $$
-
-************************************
-
-
-> c) $ \frac{2}{3} $ von 246 s
-
-[[164s]]
-************************************
-
-
-$$ \frac 2 3 ~von~246~s: \qquad 246~s \overset{:3}\rightarrow ~~ 82~s ~~ \overset{~ \cdot 2}\rightarrow 164~s $$
-
-************************************
-
-
-> d) $ \frac{5}{7} $ von 105 t
-
-[[75]]
-************************************
-
-
-$$ \frac 5 7 ~von~105~t: \qquad 105~t \overset{:7}\rightarrow ~~ 15~t ~~ \overset{~ \cdot 5}\rightarrow 5~t $$
-
-************************************
+*************************************
 
 
 
@@ -337,8 +251,6 @@ Wenn du zusätzliche Übungen brauchst, kannst du hier online arbeiten:
 > Bearbeite die Aufgaben 4 bis 7.
 
 
-
-
 > Aufgabensammlung 2: **~~Lonet Selbstlernmaterial~~**
 
 > [Klapptest 1 - gleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_gb_kt1.PDF)
@@ -352,8 +264,6 @@ Wenn du zusätzliche Übungen brauchst, kannst du hier online arbeiten:
 > [Klapptest 4 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt4.PDF)
 
 > [Klapptest 5 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt5.PDF)
-
-
 
 
 > Aufgabensammlung : **~~Matheaufgaben.net~~**
