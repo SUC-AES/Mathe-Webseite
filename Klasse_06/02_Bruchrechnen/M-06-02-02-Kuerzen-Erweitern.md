@@ -51,7 +51,7 @@ Zum besseren Verständnis kannst du dir nochmal das Video des **Cornelsen Verlag
 
 > ***Das Erweitern von Brüchen*** ist die Umkehrung des Kürzens. Dabei wird ein Bruch "verfeinert". Wir erweitern Brüche, indem wir Zähler und Nenner mit der derselben Zahl multiplizieren. Hierbei wird die Erweiterungszahl angegeben und auf das = geschrieben.
 >$$ \frac{2}{5} \overset{\text{11}}= \frac{2 \cdot 11}{5 \cdot 11} = \frac{22}{55} $$
-> Ausblick: Das Erweitern von Brüchen benötigen wir sowohl beim Ordnen bzw. Vergleichen von Brüchen, als auch bei der Addition und Subtraktion. Bei beiden Fällen ist es wichtig den Hauptnenner und auch die Erweiterungszahlen zu finden.
+> Ausblick: Das Erweitern von Brüchen benötigen wir sowohl beim [Ordnen und Vergleichen von Brüchen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-06-Brueche-ordnen.md#2), als auch bei der [Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-08-Addition-Subtraktion.md#2). Bei beiden Fällen ist es wichtig den Hauptnenner und auch die Erweiterungszahlen zu finden.
 
 Das Video des **Cornelsen Verlags** zeigt dir nochmal, wie du erweitern kannst. **Lehrer Schmidt** erklärt Erweitern und Kürzen in nur einem Video, auch dieses kannst du dir hier ansehen:
 
@@ -180,7 +180,7 @@ Wenn du die Tabelle vervollständigt hast, gib "Fertig" ein, um die Musterlösun
 
 ## Weitere Übungen - Online
 
-Weitere Übungen findest du beim nächsten Thema [Ergänze die Lücken]()
+Weitere Übungen findest du beim nächsten Thema [Ergänze die Lücken](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-03-Ergaenze-Luecken.md#6)
 
 > Aufgabensammlung 1:
 > [Aufgabenfuchs - Erweitern und Kürzen](https://mathe.aufgabenfuchs.de/bruch/erweitern---kuerzen.shtml)
