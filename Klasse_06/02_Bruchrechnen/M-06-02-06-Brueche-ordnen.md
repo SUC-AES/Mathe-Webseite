@@ -10,30 +10,29 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 # Bruchrechnen - Klasse 6
 
-**Übersicht über die Grundlagen der Bruchrechnung**
+**Übersicht über die Themen der Bruchrechnung**
 
-[Bruchrechnen - Brüche ablesen und Brüche zeichnen]()
+[Bruchrechnen - Brüche ablesen und Brüche zeichnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-01-Ablesen-Zeichnen.md#2)
 
-[Bruchrechnen - Kürzen und Erweitern]()
+[Bruchrechnen - Kürzen und Erweitern](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-02-Kuerzen-Erweitern.md#2)
 
-[Bruchrechnen - Ergänze die Lücken]()
+[Bruchrechnen - Ergänze die Lücken](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-03-Ergaenze-Luecken.md#2)
 
-[Bruchrechnen - Gemischte Schreibweise]()
+[Bruchrechnen - Gemischte Schreibweise](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-04-Gemischte-Schreibweise.md#2)
 
-[Bruchrechnen - Hauptnenner]()
+[Bruchrechnen - Hauptnenner](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-05-Hauptnenner.md#2)
 
-[Bruchrechnen - Brüche ordnen]()
+[Bruchrechnen - Brüche ordnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-06-Brueche-ordnen.md#2)
 
-[Bruchrechnen - Umrechnen von Größen und Teil des Ganzen]()
+[Bruchrechnen - Umrechnen von Größen und Teil des Ganzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-07-Groessen-Teil-des-Ganzen.md#2)
 
-[Bruchrechnen - Addition und Subtraktion]()
-
-
+[Bruchrechnen - Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-08-Addition-Subtraktion.md#2)
 
 
 
 $\qquad$
 
+[Bruchrechnung - Übersicht](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-00-Uebersicht.md#1)
 
 [Zurück zur Klasse 6]()
 
@@ -42,7 +41,7 @@ $\qquad$
 
 # Brüche vergleichen und ordnen
 
-Um ***Brüche zu vergleichen und zu ordnen*** müssen diese zuerst auf den [Hauptnenner]() gebracht werden. Der Vergleich der Zähler der erweiterten Brüche zeigt an, welches der kleinste bzw. größte Bruch ist.
+Um ***Brüche zu vergleichen und zu ordnen*** müssen diese zuerst auf den [Hauptnenner](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-05-Hauptnenner.md#2) gebracht werden. Der Vergleich der Zähler der erweiterten Brüche zeigt an, welches der kleinste bzw. größte Bruch ist.
 
 > Haben zwei Brüche den gleichen Nenner, so ist derjenige der größere Bruch, der den größeren Zähler hat.
 > $$ \frac 5 7 < \frac 6 7 ; \qquad \qquad da~5 < 6$$
