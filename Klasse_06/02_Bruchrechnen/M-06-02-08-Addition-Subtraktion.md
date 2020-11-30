@@ -57,7 +57,7 @@ $$
 
 > $~$
 
-> Um ungleichnamige Brüche zu addieren / subtrahieren, musst du die Brüche erst auf den [Hauptnenner]() erweitern. Dann addierst / subtrahierst du sie wie zuvor.
+> Um ungleichnamige Brüche zu addieren / subtrahieren, musst du die Brüche erst auf den [Hauptnenner](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-05-Hauptnenner.md#2) erweitern. Dann addierst / subtrahierst du sie wie zuvor.
 
 > $$
 \begin{aligned}
