@@ -22,7 +22,7 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 [Bruchrechnen - Hauptnenner](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-05-Hauptnenner.md#2)
 
-[Bruchrechnen - Brüche ordnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-06-Brueche-ordnen.md#2)
+[Bruchrechnen - Brüche ordnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-02-Kuerzen-Erweitern.md#2)
 
 [Bruchrechnen - Umrechnen von Größen und Teil des Ganzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-07-Groessen-Teil-des-Ganzen.md#2)
 
@@ -44,7 +44,7 @@ $\qquad$
 Zwei Brüche mit unterschiedlichen Nenner können so erweitert werden, dass sie den gleichen Nenner besitzen.
 Als ***Hauptnenner*** wird der kleinste gemeinsame Nenner dieser Brüche bezeichnet. Er entspricht dem kleinsten gemeinsamen Vielfachen (kgV) der beiden Nenner.
 
-Das Erweitern zweier Brüche auf den Hauptnenner wird bei vielen verschiedenen Aufgaben benötigt: Vergleichen und Ordnen von Brüchen, Brüche auf dem Zahlenstrahl einzeichnen und Addition und Subtraktion.
+Das Erweitern zweier Brüche auf den Hauptnenner wird bei vielen verschiedenen Aufgaben benötigt: [Vergleichen und Ordnen von Brüchen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-02-Kuerzen-Erweitern.md#2), hier auf dieser Seite auch [Brüche auf dem Zahlenstrahl einzeichnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-05-Hauptnenner.md#5) und [Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-08-Addition-Subtraktion.md#2).
 
 > Um den "besten" bzw. den kleinsten Hauptnenner zweier Nenner zu finden, musst du das kgV der beiden gegebenen Nenner angeben.
 
@@ -58,7 +58,7 @@ Als Anwendung dient hier das Einzeichnen von Brüchen auf den Zahlenstrahl.
 
 > Um Brüche auf einen gemeinsamen Zahlenstrahl einzuzeichnen, musst du sie erst auf den Hauptnenner erweitern. Der Hauptnenner gibt die Anzahl der Kästchen zwischen 0 und 1 an. Die Zähler entsprechen dann dem Kästchen, auf dem der gegebene Bruch liegt. Schreibe immer den ursprünglichen (gekürzten) Bruch an die Stelle.
 
-Videos zu diesem speziellen Thema findest du hier leider nicht, allerdings wird das Erweitern auf den Hauptnenner bei ... Videos der Themen [Brüche ordnen] und auch [Brüche - Addition und Subtraktion] ...
+Videos zu diesem speziellen Thema findest du hier leider nicht, allerdings wird das Erweitern auf den Hauptnenner in den Videos der Themen [Brüche ordnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-02-Kuerzen-Erweitern.md#2) und auch [Addition und Subtraktion von Brüchen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-08-Addition-Subtraktion.md#2) erklärt.
 
 
 ## Aufgaben
@@ -122,7 +122,7 @@ $$
 *********************************
 
 
-## Lösung 2 - Umformung in gemischte Schreibweise
+## Lösung 2 - Zahlenstrahl
 
 Wenn du die Aufgabe komplett bearbeitet hast, kannst du durch Eingabe des Hauptnenners die Musterlösung sehen.
 
