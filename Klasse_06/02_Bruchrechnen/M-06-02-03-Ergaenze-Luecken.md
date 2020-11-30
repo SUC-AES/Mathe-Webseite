@@ -41,7 +41,7 @@ $\qquad$
 
 # Ergänze die Lücken
 
-***Ergänze die Lücken*** ist eine weiterführende Übung zum Kürzen und Erweitern von Brüchen. Dabei ist ein Bruch sowie vom zweiten Bruch mit dem gleichen Wert nur der Zähler oder der Nenner gegeben. Du musst zuerst die Erweiterungs- bzw. Kürzungszahl finden und kannst diese dann auf das = schreiben.
+***Ergänze die Lücken*** ist eine weiterführende Übung zum [Kürzen und Erweitern von Brüchen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-02-Kuerzen-Erweitern.md#2). Dabei ist ein Bruch sowie vom zweiten Bruch mit dem gleichen Wert nur der Zähler oder der Nenner gegeben. Du musst zuerst die Erweiterungs- bzw. Kürzungszahl finden und kannst diese dann auf das = schreiben.
 
 > Um die Kürzungszahl zu finden, musst du den gegebenen Zähler / Nenner des vollständigen Bruchs durch den Zähler / Nenner des Bruches  mit Lücken dividieren. Um die Erweiterungszahl zu finden, wird andersum dividiert.
 > $$
