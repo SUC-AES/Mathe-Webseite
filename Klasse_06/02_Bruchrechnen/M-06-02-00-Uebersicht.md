@@ -10,7 +10,7 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 # Bruchrechnen - Klasse 6
 
-**Übersicht über die Grundlagen der Bruchrechnung**
+**Übersicht über die Themen der Bruchrechnung**
 
 [Bruchrechnen - Brüche ablesen und Brüche zeichnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-01-Ablesen-Zeichnen.md#2)
 
