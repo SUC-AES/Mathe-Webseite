@@ -28,13 +28,13 @@ View this file on https://liascript.github.io/course/?https://raw.githubusercont
 
 [Bruchrechnen - Addition und Subtraktion](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-08-Addition-Subtraktion.md#2)
 
-[Bruchrechnen - Multiplikation]()
+[Bruchrechnen - Multiplikation](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-09-Multiplikation.md#2)
 
-[Bruchrechnen - Division]()
+[Bruchrechnen - Division](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-10-Division.md#2)
 
-[Bruchrechnen - Potenzen]()
+[Bruchrechnen - Potenzen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-11-Potenzen.md#2)
 
-[Bruchrechnen - Teil des Ganzen, Ganzes, Bruchteil]
+[Bruchrechnen - Teil des Ganzen, Ganzes, Bruchteil](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-12-TdG-Ganzes-Bruchteil.md#2)
 
 
 
