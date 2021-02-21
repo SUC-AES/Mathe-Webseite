@@ -272,9 +272,54 @@ Wenn du zusätzliche Übungen brauchst, kannst du hier online arbeiten:
 
 $~$
 
-Aufgabensammlung: **~~Khan Academy Deutsch~~**
+Aufgabensammlung 1: **Aufgabenfuchs**
 
-[Aufgabenfuchs - Grundrechenarten](https://de.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-exponents/e/powers-of-fractions)
+[Aufgabenfuchs - Teil des Ganzen und Ganzes](https://mathe.aufgabenfuchs.de/bruch/bruchteile.shtml)
+Berechne die Aufgaben 25, 29 und 30.
+
+$~$
+
+Aufgabensammlung 2: **Selbstlernmaterial Lo-net**
+
+Berechnung **Teil des Ganzen**
+
+[Klapptest 1](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdb_gw2_kt1.pdf)
+
+[Klapptest 2](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdb_gw2_kt2.pdf)
+
+[Klapptest 1 - Textaufgaben](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdb_gw2_ta_kt1.pdf)
+
+[Klapptest 2 - Textaufgaben](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdb_gw2_ta_kt2.pdf)
+
+$~$
+
+Berechnung **des Ganzen**
+
+[Klapptest 1](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdg_gw2_kt1.pdf)
+
+[Klapptest 2](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdg_gw2_kt2.pdf)
+
+[Klapptest 1 - Textaufgaben](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdg_gw2_ta_kt1.pdf)
+
+[Klapptest 2 - Textaufgaben](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bdg_gw2_ta_kt2.pdf)
+
+$~$
+
+Berechnung **des Bruchteils**
+
+[Klapptest 1](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bda_gw2_kt1.pdf)
+
+[Klapptest 2](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bda_gw2_kt2.pdf)
+
+[Klapptest - Textaufgaben](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_bda_gw2_ta_kt1.pdf)
+
+$~$
+
+Gemischte Aufgaben
+
+[Gemischte Aufgaben](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/br/br_ta1.PDF)
+
+
 
 
 
