@@ -55,7 +55,7 @@ Du erkennst gleichnamige Brüche daran, dass sie den gleichen Nenner besitzen. E
 \end{aligned}
 $$
 
-> $~$
+$~$
 
 > Um ungleichnamige Brüche zu addieren / subtrahieren, musst du die Brüche erst auf den [Hauptnenner](https://liascript.github.io/course/?https://raw.githubusercontent.com/SUC-AES/Mathe-Webseite/master/Klasse_06/02_Bruchrechnen/M-06-02-05-Hauptnenner.md#2) erweitern. Dann addierst / subtrahierst du sie wie zuvor.
 
@@ -67,8 +67,33 @@ $$
 \end{aligned}
 $$
 
+Die Addition und Subtraktion echter Brüche ist damit geklärt. Oft hast du aber Brüche in gemischter Schreibweise, die du addieren oder subtrahieren sollst. Hier hast du zwei Möglichkeiten, diese Rechnungen durchzuführen.
 
-Um das Addieren und Subtrahieren nochmal zu wiederholen, kannst du dir viele verschiedene Videos ansehen. Besonders zu empfehlen sind die Videos des **Cornelsen Verlags**. Ebenfalls sehr anschaulich ist das Video der **Lernkiste.at**, während **Lehrer Schmidt** sehr ausführlich viele verschiedene Beispiele erklärt.
+> Brüche in gemischter Schreibweise kannst du direkt addieren oder subtrahieren, wobei du aber Überträge beachten musst. Alternativ kannst du Brüche in gemischter Schreibweise in unechte Brüche umformen und diese dann wie oben addieren oder subtrahieren.
+
+> $$
+\begin{aligned}
+  & \bold{1. ~Weg} \\
+  & 3 \frac 5 6 + 2 \frac 7 8 && = \frac{23}{6} + \frac{23}{8} &&= \frac{92}{24} + \frac{69}{24} &&= \frac{161}{24}  &&= 6 \frac{17}{24} \\
+  & ~ \\
+  & \bold{2. ~Weg} \\
+  & 3 \frac 5 6 + 2 \frac 7 8 && = 3 \frac{20}{24} + 2 \frac{21}{24} && = 5 \frac{41}{24} && = 6 \frac{17}{24} \\
+\end{aligned}
+$$
+
+Bei der Subtraktion verwenden wir die Methode "Robin Hood", wenn wir mit den Ganzen rechnen. Schaue dir dazu auch das Video an.
+
+> $$
+\begin{aligned}
+  & \bold{1. ~Weg} \\
+  & 7 \frac 1 6 - 2 \frac 5 9 && = \frac{43}{6} - \frac{23}{9} &&= \frac{129}{18} - \frac{46}{18} &&= \frac{83}{18}  &&= 4 \frac{11}{18} \\
+  & ~ \\
+  & \bold{2. ~Weg} && \bold{Robin~Hood} \\
+  & 7 \frac 1 6 - 2 \frac 5 9 && = 7 \frac{3}{18} - 2 \frac{10}{18} && = 6 \frac{21}{18} - 2 \frac{10}{18} && = 4 \frac{11}{18} \\
+\end{aligned}
+$$
+
+Um das Addieren und Subtrahieren nochmal zu wiederholen, kannst du dir viele verschiedene Videos ansehen. Besonders zu empfehlen sind die Videos des **Cornelsen Verlags**. Ebenfalls sehr anschaulich ist das Video der **Lernkiste.at**, während **Lehrer Schmidt** sehr ausführlich viele verschiedene Beispiele erklärt. Die unteren Videos des Youtube-Kanals SucAes zeigen das Rechnen mit gemischten Brüchen.
 
 **Cornelsen Verlag**
 
@@ -87,6 +112,13 @@ Um das Addieren und Subtrahieren nochmal zu wiederholen, kannst du dir viele ver
 !?[movie](https://www.youtube.com/watch?v=nrzpRozQnM4)
 
 !?[movie](https://www.youtube.com/watch?v=jEf5uTjcjZE)
+
+**SucAes** Rechnen mit gemischten Brüchen
+
+!?[movie](https://www.youtube.com/watch?v=8ATjxGBrBCI)
+
+!?[movie](https://www.youtube.com/watch?v=U2hE0NB58Vg)
+
 
 
 
@@ -115,6 +147,12 @@ $\qquad$ b) $ \frac{5}{3} - \frac{4}{9} $
 $\qquad$ c) $ 2 \frac{3}{8} + 1 \frac{5}{6} $
 
 $\qquad$ d) $ 5 \frac{3}{10} - 1 \frac{2}{5} $
+
+3. Addiere / Subtrahiere die Brüche in gemischter Schreibweise. (Freiwillig: Löse auf zwei verschiedene Rechenwege)
+
+$\qquad $ a) $ 2 \frac{7}{12} + 3 \frac{13}{15} $
+
+$\qquad $ b) $ 4 \frac{7}{30} - 1 \frac{13}{45} $
 
 
 
@@ -238,40 +276,84 @@ $$ 5 \frac{3}{10} - 1 \frac{2}{5} ~=~ \frac{53}{10} - \frac{7}{5} ~=~ \frac{53}{
 *************************************
 
 
+## Lösung 3 - Brüche in gemischter Schreibweise: Addition / Subtraktion
+
+Hinweis zum Angeben der Lösungen: Gib die Ergebnisse immer als vollständig gekürzte Brüche in gemischter Schreibweise an. Schreibe den Bruch $\frac 1 2$ als *1/2*, den Bruch $ 2 \frac{3}{4}$ als *2 3/4*.  
+
+> a)  $ 2 \frac{7}{12} + 3 \frac{13}{15} $
+
+[[6 9/20]]
+*********************************
+
+Hier gibt es verschiedene Wege, wie du vorgehen kannst. Alle davon sind richtig.
+
+1. Lösungsweg:
+$$ 2 \frac{7}{12} + 3 \frac{13}{15} ~=~ \frac{31}{12} + \frac{58}{15} ~=~ \frac{155}{60} + \frac{232}{60} ~=~ \frac{387}{60} ~=~ \frac{129}{20} ~=~ 5 \frac{29}{20} ~=~ 6 \frac{9}{20} $$
+
+$~$
+
+2. Lösungsweg:
+$$ 2 \frac{7}{12} + 3 \frac{13}{15} ~=~ 2 \frac{35}{60} + 3 \frac{52}{60} ~=~ 5 \frac{87}{60} ~=~ 5 \frac{29}{20} ~=~ 6 \frac{9}{20} $$
+
+*********************************
+
+a) $ 4 \frac{7}{30} - 1 \frac{13}{45} $
+
+[[2 17/18]]
+*********************************
+
+Hier gibt es verschiedene Wege, wie du vorgehen kannst. Alle davon sind richtig.
+
+1. Lösungsweg:
+$$ 4 \frac{7}{30} - 1 \frac{13}{45} ~=~ \frac{127}{30} - \frac{58}{45} ~=~ \frac{381}{90} - \frac{116}{60} ~=~ \frac{165}{90} ~=~ \frac{53}{18} ~=~ 2 \frac{17}{18} $$
+
+$~$
+
+2. Lösungsweg: Robin Hood
+$$ 4 \frac{7}{30} - 1 \frac{13}{45} ~=~ 4 \frac{21}{90} - 1 \frac{26}{90} ~=~ 3 \frac{111}{90} - 1 \frac{26}{90} ~=~ 2 \frac{85}{90} ~=~ 2 \frac{17}{18} $$
+
+*********************************
+
+
+
 
 ## Weitere Übungen - Online
 
 Wenn du zusätzliche Übungen brauchst, kannst du hier online arbeiten:
 
-> Aufgabensammlung 1: **~~Aufgabenfuchs.de~~**
+$~$
 
-> [Aufgabenfuchs - Grundrechenarten](https://www.aufgabenfuchs.de/mathematik/bruch/grundrechenarten.shtml)
-> Bearbeite die Aufgaben 1 bis 5
+Aufgabensammlung 1: **~~Aufgabenfuchs.de~~**
 
-> [Aufgabenfuchs - gleichnamige Brüche](https://mathe.aufgabenfuchs.de/bruch/gleichnamig-machen.shtml)
-> Bearbeite die Aufgaben 4 bis 7.
+[Aufgabenfuchs - Grundrechenarten](https://www.aufgabenfuchs.de/mathematik/bruch/grundrechenarten.shtml)
+Bearbeite die Aufgaben 1 bis 5, sowie 10 bis 14
 
+[Aufgabenfuchs - gleichnamige Brüche](https://mathe.aufgabenfuchs.de/bruch/gleichnamig-machen.shtml)
+Bearbeite die Aufgaben 4 bis 7.
 
-> Aufgabensammlung 2: **~~Lonet Selbstlernmaterial~~**
+$~$
 
-> [Klapptest 1 - gleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_gb_kt1.PDF)
+Aufgabensammlung 2: **~~Lonet Selbstlernmaterial~~**
 
-> [Klapptest 1 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt1.PDF)
+[Klapptest 1 - gleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_gb_kt1.PDF)
 
-> [Klapptest 2 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt2.PDF)
+[Klapptest 1 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt1.PDF)
 
-> [Klapptest 3 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt3.PDF)
+[Klapptest 2 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt2.PDF)
 
-> [Klapptest 4 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt4.PDF)
+[Klapptest 3 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt3.PDF)
 
-> [Klapptest 5 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt5.PDF)
+[Klapptest 4 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt4.PDF)
 
+[Klapptest 5 - ungleichnamige Brüche addieren und subtrahieren](http://ne.lo-net2.de/selbstlernmaterial/m/s1ar/brad/brad_kt5.PDF)
 
-> Aufgabensammlung : **~~Matheaufgaben.net~~**
+$~$
 
-> <a target="_blank" href="https://www.matheaufgaben.net/mathe-online/?Aufgabentyp=Bruchrechnung&Aufgabenstellung=Brueche-addieren">Brüche addieren</a> $\\$
+Aufgabensammlung : **~~Matheaufgaben.net~~**
 
-> <a target="_blank" href="https://www.matheaufgaben.net/mathe-online/?Aufgabentyp=Bruchrechnung&Aufgabenstellung=Brueche-subtrahieren">Brüche subtrahieren</a>
+<a target="_blank" href="https://www.matheaufgaben.net/mathe-online/?Aufgabentyp=Bruchrechnung&Aufgabenstellung=Brueche-addieren">Brüche addieren</a> $\\$
+
+<a target="_blank" href="https://www.matheaufgaben.net/mathe-online/?Aufgabentyp=Bruchrechnung&Aufgabenstellung=Brueche-subtrahieren">Brüche subtrahieren</a>
 
 
 ## Haftung für Links
