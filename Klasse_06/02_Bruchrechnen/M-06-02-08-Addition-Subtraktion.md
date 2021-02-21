@@ -154,6 +154,13 @@ $\qquad $ a) $ 2 \frac{7}{12} + 3 \frac{13}{15} $
 
 $\qquad $ b) $ 4 \frac{7}{30} - 1 \frac{13}{45} $
 
+4. Textaufgabe
+Der Pausenhof der AES besteht ist aufgeteilt in den Karottenhof mit $1 \frac{1}{10} ha$, dem Brunnen mit $\frac 3 5 ha$ und der grünen Wiese hinter dem B-Gebäude mit $50 \frac 1 2 ha$.
+
+$\qquad $ a) Berechne die Größe des gesamten Pausengeländes der AES.
+
+$\qquad $ b) Berechne den Platz, der den Schülern zur Verfügung steht, wenn sie den Teichbereich mit $\frac{9}{20} ha$ nicht betreten dürfen.
+
 
 
 ## Lösung 1 - Gleichnamige Brüche: Addition / Subtraktion
@@ -314,7 +321,49 @@ $$ 4 \frac{7}{30} - 1 \frac{13}{45} ~=~ 4 \frac{21}{90} - 1 \frac{26}{90} ~=~ 3 
 
 *********************************
 
+## Lösung 4: Textaufgabe
 
+Hinweis zum Angeben der Lösungen: Gib die Ergebnisse immer als vollständig gekürzte Brüche in gemischter Schreibweise an die Einheit mit Leerzeichen dahinter . Schreibe den Bruch $\frac 1 2$ Meter als *1/2 m*, den Bruch $ 2 \frac{3}{4}$ Meter als *2 3/4 m*.  
+
+> Der Pausenhof der AES besteht ist aufgeteilt in den Karottenhof mit $1 \frac{1}{10} ha$, dem Brunnen mit $\frac 3 5 ha$ und der grünen Wiese hinter dem B-Gebäude mit $50 \frac 1 2 ha$.
+
+> a) Berechne die Größe des gesamten Pausengeländes der AES.
+
+[[52 1/5 ha]]
+*********************************
+
+Du musst die gegebenen Größen der einzelnen Pausenbereiche addieren.
+
+1. Lösungsweg:
+$$ 1 \frac{1}{10} + \frac 3 5 + 50 \frac 1 2 ~=~ \frac{11}{10} + \frac 3 5 + \frac{101}{2} ~=~ \frac{11}{10} +\frac{6}{10} + \frac{505}{10} ~=~ \frac{522}{10} = 52 \frac{2}{10} ~=~ 52 \frac 1 5 $$
+
+$~$
+
+2. Lösungsweg:
+$$ 1 \frac{1}{10} + \frac 3 5 + 50 \frac 1 2 ~=~ 1 \frac{1}{10} + \frac{6}{10} + 50 \frac{5}{10} ~=~ 51 \frac{12}{10} ~=~ 52 \frac{2}{10} ~=~ 52 \frac 1 5 $$
+
+Anwortsatz nicht vergessen!!
+
+*********************************
+
+> b) Berechne den Platz, der den Schülern zur Verfügung steht, wenn sie den Teichbereich mit $\frac{9}{20} ha$ nicht betreten dürfen.
+
+[[51 3/4 ha]]
+*********************************
+
+Subtrahiere die Größe des Teichbereichs vom Ergebnis der Aufgabe a).
+
+1. Lösungsweg:
+$$ 52 \frac 1 5 - \frac{9}{20} ~=~ \frac{261}{5} - \frac{9}{20} ~=~ \frac{1044}{20} - \frac{9}{20} ~=~ \frac{1035}{20} ~=~ \frac{207}{4} ~=~ 51 \frac{3}{4} $$
+
+$~$
+
+2. Lösungsweg: Robin Hood
+$$ 52 \frac 1 5 - \frac{9}{20} ~=~ 52 \frac{4}{20} - \frac{9}{20} ~=~ 51 \frac{24}{20} - \frac{9}{20} ~=~ 51 \frac{15}{20} ~=~ 51 \frac{3}{4} $$
+
+Antwortsatz nicht vergessen!!
+
+*********************************
 
 
 ## Weitere Übungen - Online
