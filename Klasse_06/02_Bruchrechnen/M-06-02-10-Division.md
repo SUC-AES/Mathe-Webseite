@@ -65,7 +65,7 @@ Ungewöhnlich sehen auch Doppelbrüche aus. Wichtig zu erkennen, was der Zähler
 
 > $$
 \begin{aligned}
-  & \frac{\frac{7}{15}}{\frac{3}{5}} && = \frac{7}{15} : \frac 3 5 && = \frac{7}{15} \cdot \frac 5 3 && = \frac{7 \cdot 1}{3 \cdot 3} &&= \frac{7}{9} \\ 
+  & \frac{\frac{7}{15}}{\frac{3}{5}} && = \frac{7}{15} : \frac 3 5 && = \frac{7}{15} \cdot \frac 5 3 && = \frac{7 \cdot 1}{3 \cdot 3} &&= \frac{7}{9} \\
 \end{aligned}
 $$
 
@@ -116,7 +116,7 @@ Berechne, wie viele Personen eingeladen sind.
 
 Hinweis zum Angeben der Lösungen: Gib die Ergebnisse immer als vollständig gekürzte Brüche in gemischter Schreibweise an. Schreibe den Bruch $\frac 1 2$ als *1/2*, den Bruch $ 2 \frac{3}{4}$ als *2 3/4*.  
 
-**Multipliziere die Brüche.**
+**Dividiere die Brüche.**
 
 > a) $ 21 : \frac 3 7 $
 
